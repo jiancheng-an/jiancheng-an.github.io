@@ -47,7 +47,7 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/10562240)]**
 * [2] Z. Yu, **J. An<sup>*</sup>**, L. Gan and C. Yuen, "Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis," _Proc. IEEE 99th Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, Jun. 2024, pp. 1-5.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10683510)]**
-* [3] Z. Yu, **J. An<sup>*</sup>**, L. Gan, H. Li and S. Chatzinotas, "Weighted codebook scheme for RIS-assisted point-to-point MIMO communications," _IEEE Wireless Commun. Lett., vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
+* [3] Z. Yu, **J. An<sup>*</sup>**, L. Gan, H. Li and S. Chatzinotas, "Weighted codebook scheme for RIS-assisted point-to-point MIMO communications," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10922205)]**
 * [4] TVT
 
