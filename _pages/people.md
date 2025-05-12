@@ -7,9 +7,8 @@ author_profile: false
 
 {% include base_path %}
 # 硕士
-
-# 硕士
-
+## 博士
+## 硕士
 # 已毕业硕士
 ## 硕士
 ## 博士
