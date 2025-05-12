@@ -42,7 +42,7 @@ author_profile: false
 * [4] TCOM
 * [5] TVT
 
-### 2022.09 - 2025.06 Zhiheng Yu (俞志恒)
+### 2022.09 -- 2025.06 Zhiheng Yu (俞志恒)
 * [1] Z. Yu, **J. An<sup>*</sup>**, E. Basar, L. Gan and C. Yuen, "Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10562240)]**
 * [2] Z. Yu, **J. An<sup>*</sup>**, L. Gan and C. Yuen, "Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis," _Proc. IEEE 99th Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, Jun. 2024, pp. 1-5.<br>
@@ -51,8 +51,8 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/10922205)]**
 * [4] TVT
 
-### 2022.09 - 2025.06 Shining Lin (林时宁)
+### 2022.09 -- 2025.06 Shining Lin (林时宁)
 [1]
 
-### 2022.09 - 2025.06 Guojun Huang (黄国峻)
+### 2022.09 -- 2025.06 Guojun Huang (黄国峻)
 [1]
