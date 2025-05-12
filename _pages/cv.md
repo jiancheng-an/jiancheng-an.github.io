@@ -24,7 +24,7 @@ Work experience
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Chau Yuen
 
 * Summer 2015: Research Assistant
   * GitHub University
