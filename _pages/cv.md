@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2016.09.01 - 2021.12.30: Ph.D in University of Electronic Science and Technology of China (UESTC)
-* 2012.09.01 - 2016.06.30: B.S.  in University of Electronic Science and Technology of China (UESTC)
+* 2012.09.01 - 2016.06.30: B.S. s q SS   AAA   B in University of Electronic Science and Technology of China (UESTC)
 
 Work experience
 ======
