@@ -26,10 +26,10 @@ author:
   name             : "Jiancheng An"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiancheng_an@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-2512-9989"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jiancheng-An-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
