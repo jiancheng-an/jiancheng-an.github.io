@@ -19,7 +19,7 @@ author_profile: false
 * [2] X. Yao, **J. An<sup>*</sup>**, G. Huang, H. Liu, L. Gan and C. Yuen, "Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications," _Proc. IEEE VTS Asia-Pac. Wireless Commun. Symp. (APWCS)_, Singapore, Aug. 2024, pp. 1-5.<br>
 **[PDF](https://ieeexplore.ieee.org/document/10679297)** 
 ### 2022.09 - 2025.06 Zhiheng Yu (俞志恒)
-[1]
+[1]<br>
 [2]
 ### 2022.09 - 2025.06 Shining Lin (林时宁)
 [1]
