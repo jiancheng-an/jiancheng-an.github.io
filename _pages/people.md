@@ -9,12 +9,12 @@ author_profile: false
 
 Graduates
 ======
-* Xianghao Yao
-  * [1]
-* Zhiheng Yu
+* **2022.09 - 2025.06 Xianghao Yao (姚祥豪)**
+  * [1] [paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+* **2022.09 - 2025.06 Zhiheng Yu (俞志恒)**
   * [1]
   * [2]
-* Shining Lin
+* **2022.09 - 2025.06 Shining Lin (林时宁)**
   * [1]
-* Guojun Huang
+* **2022.09 - 2025.06 Guojun Huang (黄国峻)**
   * [1]
