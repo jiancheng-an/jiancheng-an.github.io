@@ -10,9 +10,11 @@ author_profile: false
 Graduates
 ======
 * Xianghao Yao
-  * 
+  * [1]
 * Zhiheng Yu
   * [1]
   * [2]
 * Shining Lin
+  * [1]
+* Guojun Huang
   * [1]
