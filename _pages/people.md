@@ -40,6 +40,7 @@ author_profile: false
 **[PDF](https://ieeexplore.ieee.org/document/10679297)**
 * [3] ICC-2025<br>
 * [4] TCOM
+* [5] TVT
 
 ### 2022.09 - 2025.06 Zhiheng Yu (俞志恒)
 * [1] Z. Yu, **J. An<sup>*</sup>**, E. Basar, L. Gan and C. Yuen, "Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
