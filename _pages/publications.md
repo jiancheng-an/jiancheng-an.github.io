@@ -8,8 +8,8 @@ author_profile: false
 {% include base_path %}
 # Journal
 ## YEAR 2025
-* [51] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis," in IEEE Internet of Things Journal.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10999042)]**
+* [51] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis](https://ieeexplore.ieee.org/document/10999042)," in IEEE Internet of Things Journal.<br>
+**[arXiv]**
 * [50] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "Multi-User MISO with Stacked Intelligent Metasurfaces: A DRL-Based Sum-Rate Optimization Approach," in IEEE Transactions on Cognitive Communications and Networking.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10949617)]**
 * [49] **J. An**, M. D. Renzo, M. Debbah, H. Vincent Poor and C. Yuen, "Stacked Intelligent Metasurfaces for Multiuser Downlink Beamforming in the Wave Domain," in IEEE Transactions on Wireless Communications.<br>
