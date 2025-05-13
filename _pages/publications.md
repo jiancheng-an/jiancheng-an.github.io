@@ -24,8 +24,6 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/10910066)]**
 * [45] Q. Li, M. El-Hajjar, C. Xu, J. An, C. Yuen and L. Hanzo, "Stacked Intelligent Metasurface-Based Transceiver Design for Near-Field Wideband Systems," in IEEE Transactions on Communications.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10900449)]**
-* [44] Q. Li, M. El-Hajjar, C. Xu, J. An, C. Yuen and L. Hanzo, "Stacked Intelligent Metasurface-Based Transceiver Design for Near-Field Wideband Systems," in IEEE Transactions on Communications.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10900449)]**
 * [43] E. Shi, J. Zhang, Y. Zhu, J. An, C. Yuen and B. Ai, "Uplink Performance of Stacked Intelligent Metasurface-Enhanced Cell-Free Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 24, no. 5, pp. 3731-3746, May 2025.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10893715)]**
 * [42] J. An, C. Yuen, M. D. Renzo, M. Debbah, H. V. Poor and L. Hanzo, "Flexible Intelligent Metasurfaces for Downlink Multiuser MISO Communications," in IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 2940-2955, April 2025.<br>
