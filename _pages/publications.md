@@ -37,6 +37,7 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/9875062)]**
 * [11] C. Xu, L. Xiang, **J. An**, C. Dong, S. Sugiura, R. G. Maunder, L.-L. Yang, and L. Hanzo, "OTFS-Aided RIS-Assisted SAGIN Systems Outperform Their OFDM Counterparts in Doubly Selective High-Doppler Scenarios," in IEEE Internet of Things Journal, vol. 10, no. 1, pp. 682-703, 1 Jan.1, 2023.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9874856)]**
+
 ## YEAR 2022
 * [10] W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "Time-Varying Channel Prediction for RIS-Assisted MU-MISO Networks via Deep Learning," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9814839)]**
@@ -54,9 +55,11 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/9627812)]**
 * [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "Low-Complexity Channel Estimation and Passive Beamforming for RIS-Assisted MIMO Systems Relying on Discrete Phase Shifts," in IEEE Transactions on Communications, vol. 70, no. 2, pp. 1245-1260, Feb. 2022.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9614196)]**
+
 ## YEAR 2021
 * [2] **J. An** and L. Gan, "The Low-Complexity Design and Optimal Training Overhead for IRS-Assisted MISO Systems," in IEEE Wireless Communications Letters, vol. 10, no. 8, pp. 1820-1824, Aug. 2021.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9438669)]**
+
 ## YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9242307)]**
@@ -67,9 +70,11 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/10437508)]**
 * [3] J. An, M. Di Renzo, M. Debbah and C. Yuen, "Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2834-2839<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10279173)]**
+
 ## YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "A Practical Design Based on Deep Reinforcement Learning for RIS-Assisted mmWave MIMO Systems," 2022 IEEE 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022, pp. 1599-1602<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10065758)]**
+
 ## YEAR 2018
 * [1] **J. An**, L. Gan and H. Liao, "A non-data-aided algorithm based on ML for OFDM synchronization," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/8401408)]**
