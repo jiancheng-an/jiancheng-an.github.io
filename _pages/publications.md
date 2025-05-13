@@ -123,58 +123,58 @@ author_profile: false
 
 # Conference
 ## YEAR 2025
-* [24] S. Lin, **J. An**, L. Gan and M. Debbah, "UAV-Mounted SIM: A Hybrid Optical-Electronic Neural Network for DoA Estimation," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10890179)]**
-* [23] L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "Identical-Delay Based 2-D DOA and Frequency Joint Estimation With Sub-Nyquist Sampling for URA," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10889441)]**
+* [24] S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-Mounted SIM: A Hybrid Optical-Electronic Neural Network for DoA Estimation](https://ieeexplore.ieee.org/document/10890179)," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
+**[[PDF]]**
+* [23] L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "[Identical-Delay Based 2-D DOA and Frequency Joint Estimation With Sub-Nyquist Sampling for URA](https://ieeexplore.ieee.org/document/10889441)," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
+**[[PDF]]**
 ## YEAR 2024
-* [22] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation," 2024 IEEE 24th International Conference on Communication Technology (ICCT), Chengdu, China, 2024, pp. 2034-2039.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10946335)]**
-* [21] **J. An**, C. Yuen, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "Downlink Multiuser Communications Relying on Flexible Intelligent Metasurfaces," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4932-4937.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10901792)]**
-* [20] Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "A Dynamic Precoding Scheme for Near-Field Secure Communications," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10900947)]**
-* [19] X. Jia, **J. An**, X. Lu, Z. Xu, L. Gan and C. Yuen, "Dynamic Codebook for Reconfigurable Intelligent Surface-Aided Multiuser MISO Communications," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 5138-5143.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10901063)]**
-* [18] M. Liu, **J. An**, C. Huang, A. Alhammadi, F. Bader, S. Muhaidat, M. Debbah and C. Yuen, "Air-ODE Neural Network with Distributed RISs Aided Communication Systems," 2024 IEEE Middle East Conference on Communications and Networking (MECOM), Abu Dhabi, United Arab Emirates, 2024, pp. 356-361.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10881273)]**
-* [17] Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "Low-Complexity Frequency Invariant Beamformer Design Based on SRV-Constrained Array Response Control," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10683398)]**
-* [16] X. Jia, **J. An**, H. Liu, L. Gan, M. Di Renzo, M. Debbah and C. Yuen, "Stacked Intelligent Metasurface Enabled Near-Field Multiuser Beamfocusing in the Wave Domain," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10683447)]**
-* [15] Z. Yu, **J. An**, L. Gan and C. Yuen, "Environment-Aware Codebook for RIS-Assisted MU-MISO Communications: Implementation and Performance Analysis," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10683510)]**
-* [14] X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "Sparse Channel Estimation for Stacked Intelligent Metasurface-Assisted mmWave Communications," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10679297)]**
-* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "Uplink Performance and Beamforming Design of SIM-enhanced Cell-Free Massive MIMO Systems," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 01-05.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10679324)]**
-* [12] H. Niu, **J. An**, L. Zhang, X. Lei and C. Yuen, "Enhancing Physical Layer Security for SISO Systems Using Stacked Intelligent Metasurfaces," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10679315)]**
-* [11] Z. Li, **J. An** and C. Yuen, "Stacked Intelligent Metasurfaces for Fully-Analog Wideband Beamforming Design," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10679332)]**
-* [10] H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "DRL-Based Orchestration of Multi-User MISO Systems with Stacked Intelligent Metasurfaces," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 4991-4996.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10622385)]**
-* [9] **J. An** et al., "Stacked Intelligent Metasurface Performs a 2D DFT in the Wave Domain for DOA Estimation," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 3445-3451.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10622963)]**
-* [8] A. M. Nor, O. Fratu, S. Halunga, **J. An**, Z. Zaharis and P. Velanas, "Position based Near-Field Codebook Design and Beam Training for Extremely Large-Scale ARIS," 2024 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Madrid, Spain, 2024, pp. 215-220.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10621207)]**
-* [7] Q. -U. -A. Nadeem, **J. An** and A. Chaaban, "Hybrid Digital-Wave Domain Channel Estimator for Stacked Intelligent Metasurface Enabled Multi-User MISO Systems," 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10571026)]**
-* [6] L. Liu, Z. Li, **J. An**, L. Gan and H. Li, "DOA Estimation for Switch-Element Arrays Based on Sparse Representation," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 8506-8510.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10446599)]**
-* [5] L. Liu, Z. Li, **J. An**, L. Gan and H. Li, "A CCM-Based Joint DOA-Frequency Estimation and Signal Recovery with Efficient Sub-Nyquist Sampling," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 8501-8505.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10447152)]**
+* [22] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "[Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation](https://ieeexplore.ieee.org/document/10946335)," 2024 IEEE 24th International Conference on Communication Technology (ICCT), Chengdu, China, 2024, pp. 2034-2039.<br>
+**[[PDF]]**
+* [21] **J. An**, C. Yuen, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Downlink Multiuser Communications Relying on Flexible Intelligent Metasurfaces](https://ieeexplore.ieee.org/document/10901792)," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4932-4937.<br>
+**[[PDF]]**
+* [20] Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "[A Dynamic Precoding Scheme for Near-Field Secure Communications](https://ieeexplore.ieee.org/document/10900947)," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
+**[[PDF]]**
+* [19] X. Jia, **J. An**, X. Lu, Z. Xu, L. Gan and C. Yuen, "[Dynamic Codebook for Reconfigurable Intelligent Surface-Aided Multiuser MISO Communications](https://ieeexplore.ieee.org/document/10901063)," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 5138-5143.<br>
+**[[PDF]]**
+* [18] M. Liu, **J. An**, C. Huang, A. Alhammadi, F. Bader, S. Muhaidat, M. Debbah and C. Yuen, "[Air-ODE Neural Network with Distributed RISs Aided Communication Systems](https://ieeexplore.ieee.org/document/10881273)," 2024 IEEE Middle East Conference on Communications and Networking (MECOM), Abu Dhabi, United Arab Emirates, 2024, pp. 356-361.<br>
+**[[PDF]]**
+* [17] Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "[Low-Complexity Frequency Invariant Beamformer Design Based on SRV-Constrained Array Response Control](https://ieeexplore.ieee.org/document/10683398)," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [16] X. Jia, **J. An**, H. Liu, L. Gan, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked Intelligent Metasurface Enabled Near-Field Multiuser Beamfocusing in the Wave Domain](https://ieeexplore.ieee.org/document/10683447)," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [15] Z. Yu, **J. An**, L. Gan and C. Yuen, "[Environment-Aware Codebook for RIS-Assisted MU-MISO Communications: Implementation and Performance Analysis](https://ieeexplore.ieee.org/document/10683510)," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [14] X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "[Sparse Channel Estimation for Stacked Intelligent Metasurface-Assisted mmWave Communications](https://ieeexplore.ieee.org/document/10679297)," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "[Uplink Performance and Beamforming Design of SIM-enhanced Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/document/10679324)," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 01-05.<br>
+**[[PDF]]**
+* [12] H. Niu, **J. An**, L. Zhang, X. Lei and C. Yuen, "[Enhancing Physical Layer Security for SISO Systems Using Stacked Intelligent Metasurfaces](https://ieeexplore.ieee.org/document/10679315)," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [11] Z. Li, **J. An** and C. Yuen, "[Stacked Intelligent Metasurfaces for Fully-Analog Wideband Beamforming Design](https://ieeexplore.ieee.org/document/10679332)," 2024 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS), Singapore, 2024, pp. 1-5.<br>
+**[[PDF]]**
+* [10] H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-Based Orchestration of Multi-User MISO Systems with Stacked Intelligent Metasurfaces](https://ieeexplore.ieee.org/document/10622385)," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 4991-4996.<br>
+**[[PDF]]**
+* [9] **J. An** et al., "[Stacked Intelligent Metasurface Performs a 2D DFT in the Wave Domain for DOA Estimation](https://ieeexplore.ieee.org/document/10622963)," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 3445-3451.<br>
+**[[PDF]]**
+* [8] A. M. Nor, O. Fratu, S. Halunga, **J. An**, Z. Zaharis and P. Velanas, "[Position based Near-Field Codebook Design and Beam Training for Extremely Large-Scale ARIS](https://ieeexplore.ieee.org/document/10621207)," 2024 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Madrid, Spain, 2024, pp. 215-220.<br>
+**[[PDF]]**
+* [7] Q. -U. -A. Nadeem, **J. An** and A. Chaaban, "[Hybrid Digital-Wave Domain Channel Estimator for Stacked Intelligent Metasurface Enabled Multi-User MISO Systems](https://ieeexplore.ieee.org/document/10571026)," 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6.<br>
+**[[PDF]]**
+* [6] L. Liu, Z. Li, **J. An**, L. Gan and H. Li, "[DOA Estimation for Switch-Element Arrays Based on Sparse Representation](https://ieeexplore.ieee.org/document/10446599)," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 8506-8510.<br>
+**[[PDF]]**
+* [5] L. Liu, Z. Li, **J. An**, L. Gan and H. Li, "[A CCM-Based Joint DOA-Frequency Estimation and Signal Recovery with Efficient Sub-Nyquist Sampling](https://ieeexplore.ieee.org/document/10447152)," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 8501-8505.<br>
+**[[PDF]]**
 
 ## YEAR 2023
-* [4] **J. An** and C. Yuen, "Pilot Power Allocation for Channel Estimation in a Multi-RIS Aided Communication System," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10437508)]**
-* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2834-2839<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10279173)]**
+* [4] **J. An** and C. Yuen, "[Pilot Power Allocation for Channel Estimation in a Multi-RIS Aided Communication System](https://ieeexplore.ieee.org/document/10437508)," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
+**[[PDF]]**
+* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain](https://ieeexplore.ieee.org/document/10279173)," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2834-2839<br>
+**[[PDF]]**
 
 ## YEAR 2022
-* [2] W. Xu, **J. An**, L. Gan and H. Liao, "A Practical Design Based on Deep Reinforcement Learning for RIS-Assisted mmWave MIMO Systems," 2022 IEEE 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022, pp. 1599-1602<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10065758)]**
+* [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A Practical Design Based on Deep Reinforcement Learning for RIS-Assisted mmWave MIMO Systems](https://ieeexplore.ieee.org/document/10065758)," 2022 IEEE 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022, pp. 1599-1602<br>
+**[[PDF]]**
 
 ## YEAR 2018
-* [1] **J. An**, L. Gan and H. Liao, "A non-data-aided algorithm based on ML for OFDM synchronization," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/8401408)]**
+* [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
+**[[PDF]]**
