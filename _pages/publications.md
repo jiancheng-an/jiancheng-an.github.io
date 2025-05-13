@@ -7,33 +7,37 @@ author_profile: false
 
 {% include base_path %}
 # Journal
-* [1] X. Yao, **J. An<sup>*</sup>**, L. Gan, M. Di Renzo and C. Yuen, "Channel estimation for stacked intelligent metasurface-assisted wireless networks," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10445164)]** **[[CODE](https://ieeexplore.ieee.org/document/10445164)]**
-* [2] X. Yao, **J. An<sup>*</sup>**, G. Huang, H. Liu, L. Gan and C. Yuen, "Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications," _Proc. IEEE VTS Asia-Pac. Wireless Commun. Symp. (APWCS)_, Singapore, Aug. 2024, pp. 1-5.<br>
-**[[PDF](https://ieeexplore.ieee.org/document/10679297)]**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## YEAR 2025
+* [52] Z. Teng, J. An, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis," in IEEE Internet of Things Journal.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10999042)]**
+* [51] H. Liu, J. An, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "Multi-User MISO with Stacked Intelligent Metasurfaces: A DRL-Based Sum-Rate Optimization Approach," in IEEE Transactions on Cognitive Communications and Networking.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10949617)]**
+* [50] J. An, M. D. Renzo, M. Debbah, H. Vincent Poor and C. Yuen, "Stacked Intelligent Metasurfaces for Multiuser Downlink Beamforming in the Wave Domain," in IEEE Transactions on Wireless Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10922857)]**
+* [49] E. Shi et al., "Joint AP-UE Association and Precoding for SIM-Aided Cell-Free Massive MIMO Systems," in IEEE Transactions on Wireless Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10918608)]**
+* [48] J. An, Z. Han, D. Niyato, M. Debbah, C. Yuen and L. Hanzo, "Flexible Intelligent Metasurfaces for Enhancing MIMO Communications," in IEEE Transactions on Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10922153)]**
+* [47] Z. Yu, J. An, L. Gan, H. Li and S. Chatzinotas, "Weighted Codebook Scheme for RIS-Assisted Point-to-Point MIMO Communications," in IEEE Wireless Communications Letters, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10922205)]**
+* [46] S. Yang et al., "Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation," in IEEE Transactions on Wireless Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10910066)]**
+* [45] Q. Li, M. El-Hajjar, C. Xu, J. An, C. Yuen and L. Hanzo, "Stacked Intelligent Metasurface-Based Transceiver Design for Near-Field Wideband Systems," in IEEE Transactions on Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10900449)]**
+* [44] Q. Li, M. El-Hajjar, C. Xu, J. An, C. Yuen and L. Hanzo, "Stacked Intelligent Metasurface-Based Transceiver Design for Near-Field Wideband Systems," in IEEE Transactions on Communications.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10900449)]**
+* [43] E. Shi, J. Zhang, Y. Zhu, J. An, C. Yuen and B. Ai, "Uplink Performance of Stacked Intelligent Metasurface-Enhanced Cell-Free Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 24, no. 5, pp. 3731-3746, May 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10893715)]**
+* [42] J. An, C. Yuen, M. D. Renzo, M. Debbah, H. V. Poor and L. Hanzo, "Flexible Intelligent Metasurfaces for Downlink Multiuser MISO Communications," in IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 2940-2955, April 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10850658)]**
+* [41] H. Niu, X. Lei, J. An, L. Zhang and C. Yuen, "On the Efficient Design of Stacked Intelligent Metasurfaces for Secure SISO Transmission," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 60-70, 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10767193)]**
+* [40] G. Huang, J. An, Z. Yang, L. Gan, M. Bennis and M. Debbah, "Stacked Intelligent Metasurfaces for Task-Oriented Semantic Communications," in IEEE Wireless Communications Letters, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10755151)]**
+* [39] Y. Hu et al., "Joint Beamforming and Power Allocation Design for Stacked Intelligent Metasurfaces-Aided Cell-Free Massive MIMO Systems," in IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5235-5240, March 2025.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10756670)]**
 
 ## YEAR 2024
-
-
-
-
-
 * [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, J. An and H. Li, "Joint Spectrum Sensing and DOA Estimation Based on a Resource-Efficient Sub-Nyquist Array Receiver," in IEEE Transactions on Signal Processing, vol. 72, pp. 5354-5370, 2024.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10737034)]**
 * [37] H. Niu, J. An, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "Stacked Intelligent Metasurfaces for Integrated Sensing and Communications," in IEEE Wireless Communications Letters, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
@@ -66,6 +70,7 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/10158356)]**
 * [23] J. An, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "Codebook-Based Solutions for Reconfigurable Intelligent Surfaces and Their Open Challenges," in IEEE Wireless Communications, vol. 31, no. 2, pp. 134-141, April 2024.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/9952197)]**
+  
 ## YEAR 2023
 * [22] J. An, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "Stacked Intelligent Metasurfaces for Efficient Holographic MIMO Communications in 6G," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10158690)]**
@@ -119,13 +124,12 @@ author_profile: false
 **[[PDF](https://ieeexplore.ieee.org/document/9242307)]**
 
 # Conference
+## YEAR 2025
+* [24] S. Lin, J. An, L. Gan and M. Debbah, "UAV-Mounted SIM: A Hybrid Optical-Electronic Neural Network for DoA Estimation," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10890179)]**
+* [23] L. Liu, X. Zhang, X. Zhou, L. Gan, J. An and H. Li, "Identical-Delay Based 2-D DOA and Frequency Joint Estimation With Sub-Nyquist Sampling for URA," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.<br>
+**[[PDF](https://ieeexplore.ieee.org/document/10889441)]**
 ## YEAR 2024
-
-
-
-
-
-
 * [22] S. Yang et al., "Flexible Antenna Arrays for Wireless Communications: Modeling and Performance Evaluation," 2024 IEEE 24th International Conference on Communication Technology (ICCT), Chengdu, China, 2024, pp. 2034-2039.<br>
 **[[PDF](https://ieeexplore.ieee.org/document/10946335)]**
 * [21] J. An, C. Yuen, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "Downlink Multiuser Communications Relying on Flexible Intelligent Metasurfaces," GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4932-4937.<br>
