@@ -104,9 +104,9 @@ author_profile: false
 **[arXiv]**
 * [7] C. Xu, **J. An**, T. Bai, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[Reconfigurable intelligent surface assisted multi-carrier wireless systems for doubly selective high-mobility Ricean channels](https://ieeexplore.ieee.org/document/9699402)," _IEEE Trans. Veh. Technol._, vol. 71, no. 4, pp. 4023-4041, April 2022.<br>
 **[arXiv]**
-* [6] **J. An**, Q. Wu and C. Yuen, "[Scalable channel estimation and reflection optimization for reconfigurable intelligent surface-enhanced OFDM systems](https://ieeexplore.ieee.org/document/9691275)," _IEEE Wireless Commun. Lett._, vol. 11, no. 4, pp. 796-800, April 2022.<br>
+* [6] **J. An**, Q. Wu and C. Yuen, "[Scalable channel estimation and reflection optimization for reconfigurable intelligent surface-enhanced OFDM systems](https://ieeexplore.ieee.org/document/9691275)," _IEEE Wireless Commun. Lett._, vol. 11, no. 4, pp. 796-800, Apr. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2110.12799)]**
-* [5] **J. An**, C. Xu, L. Wang, Y. Liu, L. Gan and L. Hanzo, "[Joint training of the superimposed direct and reflected links in reconfigurable intelligent surface assisted multiuser communications](https://ieeexplore.ieee.org/document/9681847)," _IEEE Trans. Green Commun. Netw._, vol. 6, no. 2, pp. 739-754, June 2022.<br>
+* [5] **J. An**, C. Xu, L. Wang, Y. Liu, L. Gan and L. Hanzo, "[Joint training of the superimposed direct and reflected links in reconfigurable intelligent surface assisted multiuser communications](https://ieeexplore.ieee.org/document/9681847)," _IEEE Trans. Green Commun. Netw._, vol. 6, no. 2, pp. 739-754, Jun. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2105.14484)]**
 * [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol._, vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2107.12630)]**
