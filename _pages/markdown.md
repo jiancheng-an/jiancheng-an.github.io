@@ -18,7 +18,7 @@ author_profile: false
 <br>
 
 # Stacked Intelligent Metasurfaces (SIM)
-## Overview
+## \* Overview
 * **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2311.09814)]**
 <br>
