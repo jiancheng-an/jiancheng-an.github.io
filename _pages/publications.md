@@ -90,9 +90,9 @@ author_profile: false
 **[arXiv]**
 * [13] C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, L.-L. Yang, M. Di Renzo and L. Hanzo, "[Antenna selection for reconfigurable intelligent surfaces: A transceiver-agnostic passive beamforming configuration](https://ieeexplore.ieee.org/document/10075372)," _IEEE Trans. Wireless Commun._, vol. 22, no. 11, pp. 7756-7774, Nov. 2023.<br>
 **[arXiv]**
-* [12] C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, Z. Wang, L.-L. Yang, and L. Hanzo, "[Channel estimation for reconfigurable intelligent surface assisted high-mobility wireless systems](https://ieeexplore.ieee.org/document/9875062)," _IEEE Trans. Veh. Technol._, vol. 72, no. 1, pp. 718-734, Jan. 2023.<br>
+* [12] C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, Z. Wang, L.-L. Yang and L. Hanzo, "[Channel estimation for reconfigurable intelligent surface assisted high-mobility wireless systems](https://ieeexplore.ieee.org/document/9875062)," _IEEE Trans. Veh. Technol._, vol. 72, no. 1, pp. 718-734, Jan. 2023.<br>
 **[arXiv]**
-* [11] C. Xu, L. Xiang, **J. An**, C. Dong, S. Sugiura, R. G. Maunder, L.-L. Yang, and L. Hanzo, "[OTFS-aided RIS-assisted SAGIN systems outperform their OFDM counterparts in doubly selective high-Doppler scenarios](https://ieeexplore.ieee.org/document/9874856)," _IEEE Internet Things J._, vol. 10, no. 1, pp. 682-703, 1 Jan.1, 2023.<br>
+* [11] C. Xu, L. Xiang, **J. An**, C. Dong, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[OTFS-aided RIS-assisted SAGIN systems outperform their OFDM counterparts in doubly selective high-Doppler scenarios](https://ieeexplore.ieee.org/document/9874856)," _IEEE Internet Things J._, vol. 10, no. 1, pp. 682-703, 1 Jan.1, 2023.<br>
 **[arXiv]**
 
 ## YEAR 2022
@@ -102,7 +102,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2205.08788)]**
 * [8] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[The achievable rate analysis of generalized quadrature spatial modulation and a pair of low-complexity detectors](https://ieeexplore.ieee.org/document/9729571)," _IEEE Trans. Veh. Technol._, vol. 71, no. 5, pp. 5203-5215, May 2022.<br>
 **[arXiv]**
-* [7] C. Xu, **J. An**, T. Bai, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang, and L. Hanzo, "[Reconfigurable intelligent surface assisted multi-carrier wireless systems for doubly selective high-mobility Ricean channels](https://ieeexplore.ieee.org/document/9699402)," _IEEE Trans. Veh. Technol._, vol. 71, no. 4, pp. 4023-4041, April 2022.<br>
+* [7] C. Xu, **J. An**, T. Bai, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[Reconfigurable intelligent surface assisted multi-carrier wireless systems for doubly selective high-mobility Ricean channels](https://ieeexplore.ieee.org/document/9699402)," _IEEE Trans. Veh. Technol._, vol. 71, no. 4, pp. 4023-4041, April 2022.<br>
 **[arXiv]**
 * [6] **J. An**, Q. Wu and C. Yuen, "[Scalable channel estimation and reflection optimization for reconfigurable intelligent surface-enhanced OFDM systems](https://ieeexplore.ieee.org/document/9691275)," _IEEE Wireless Commun. Lett._, vol. 11, no. 4, pp. 796-800, April 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2110.12799)]**
