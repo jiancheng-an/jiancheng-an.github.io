@@ -10,4 +10,4 @@ author_profile: false
 ## \* RISTA
 * Time: 2024.06.28
 * Location: Online
-* Title: Stacked Intelligent Metasurface for Signal Processing in the Wave Domain [Slides](https://jiancheng-an.github.io/files/RISTA_Jiancheng_20240628_homepage.pdf)
+* Title: Stacked Intelligent Metasurface for Signal Processing in the Wave Domain **[[Slides](https://jiancheng-an.github.io/files/RISTA_Jiancheng_20240628_homepage.pdf)]**
