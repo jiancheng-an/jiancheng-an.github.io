@@ -43,24 +43,24 @@ author_profile: false
 * [36] Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2406.09058)]**
 * [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, V. H. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2402.08224)]**
+* [34] **J. An**, C. Yuen, L. Dai, M. Di Renzo, M. Debbah and L. Hanzo, "[Near-field communications: Research advances, potential, and challenges](https://ieeexplore.ieee.org/document/10558818)," _IEEE Wireless Commun._, vol. 31, no. 3, pp. 100-107, June 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2309.09242)]**
+* [33] Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for holographic MIMO-aided cell-free networks](https://ieeexplore.ieee.org/document/10535263)," _IEEE Trans. Commun._, vol. 72, no. 11, pp. 7139-7151, Nov. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2405.09753)]**
+* [32] A. Papazafeiropoulos, **J. An**, P. Kourtessis, T. Ratnarajah and S. Chatzinotas, "[Achievable rate optimization for stacked intelligent metasurface-assisted holographic MIMO communications](https://ieeexplore.ieee.org/document/10534211)," _IEEE Trans. Wireless Commun._, vol. 23, no. 10, pp. 13173-13186, Oct. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2402.16415)]**
+* [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2311.09814)]**
+* [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]**
+* [29] S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2403.05892)]**
+* [28] G. Sun, R. He, **J. An**, B. Ai, Y. Song, Y. Niu, G. Wang and C. Yuen, "[Geometric-based channel modeling and analysis for double-RIS-aided vehicle-to-vehicle communication systems](https://ieeexplore.ieee.org/document/10445446)," _IEEE Internet Things J._, vol. 11, no. 10, pp. 18888-18901, 15 May15, 2024.<br>
 **[arXiv]**
-* [34] **J. An**, C. Yuen, L. Dai, M. Di Renzo, M. Debbah and L. Hanzo, "[Near-Field Communications: Research Advances, Potential, and Challenges](https://ieeexplore.ieee.org/document/10558818)," in IEEE Wireless Communications, vol. 31, no. 3, pp. 100-107, June 2024.<br>
-**[arXiv]**
-* [33] Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked Intelligent Metasurfaces for Holographic MIMO-Aided Cell-Free Networks](https://ieeexplore.ieee.org/document/10535263)," in IEEE Transactions on Communications, vol. 72, no. 11, pp. 7139-7151, Nov. 2024.<br>
-**[arXiv]**
-* [32] A. Papazafeiropoulos, **J. An**, P. Kourtessis, T. Ratnarajah and S. Chatzinotas, "[Achievable Rate Optimization for Stacked Intelligent Metasurface-Assisted Holographic MIMO Communications](https://ieeexplore.ieee.org/document/10534211)," in IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 13173-13186, Oct. 2024.<br>
-**[arXiv]**
-* [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked Intelligent Metasurface-Aided MIMO Transceiver Design](https://ieeexplore.ieee.org/document/10515204)," in IEEE Wireless Communications, vol. 31, no. 4, pp. 123-131, August 2024.<br>
-**[arXiv]**
-* [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel Estimation for Stacked Intelligent Metasurface-Assisted Wireless Networks](https://ieeexplore.ieee.org/document/10445164)," in IEEE Wireless Communications Letters, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[arXiv]**
-* [29] S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked Intelligent Metasurface Enabled LEO Satellite Communications Relying on Statistical CSI](https://ieeexplore.ieee.org/document/10445200)," in IEEE Wireless Communications Letters, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
-**[arXiv]**
-* [28] G. Sun, R. He, **J. An**, B. Ai, Y. Song, Y. Niu, G. Wang and C. Yuen, "[Geometric-Based Channel Modeling and Analysis for Double-RIS-Aided Vehicle-to-Vehicle Communication Systems](https://ieeexplore.ieee.org/document/10445446)," in IEEE Internet of Things Journal, vol. 11, no. 10, pp. 18888-18901, 15 May15, 2024.<br>
-**[arXiv]**
-* [27] **J. An**, C. Xu, D. W. K. Ng, C. Yuen and L. Hanzo, "[Adjustable-Delay RIS Is Capable of Improving OFDM Systems](https://ieeexplore.ieee.org/document/10423078)," in IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9927-9942, July 2024.<br>
-**[arXiv]**
-* [26] N. U. Hassan, **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Efficient Beamforming and Radiation Pattern Control Using Stacked Intelligent Metasurfaces](https://ieeexplore.ieee.org/document/10379500)," in IEEE Open Journal of the Communications Society, vol. 5, pp. 599-611, 2024.<br>
+* [27] **J. An**, C. Xu, D. W. K. Ng, C. Yuen and L. Hanzo, "[Adjustable-delay RIS is capable of improving OFDM systems](https://ieeexplore.ieee.org/document/10423078)," _IEEE Trans. Veh. Technol._, vol. 73, no. 7, pp. 9927-9942, July 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2110.09291)]**
+* [26] N. U. Hassan, **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Efficient beamforming and radiation pattern control using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10379500)," in IEEE Open Journal of the Communications Society, vol. 5, pp. 599-611, 2024.<br>
 **[arXiv]**
 * [25] W. Wang, C. Luo, **J. An**, L. Gan, H. Liao and C. Yuen, "[Semisupervised RF Fingerprinting With Consistency-Based Regularization](https://ieeexplore.ieee.org/document/10268017)," in IEEE Internet of Things Journal, vol. 11, no. 5, pp. 8624-8636, 1 March1, 2024.<br>
 **[arXiv]**
