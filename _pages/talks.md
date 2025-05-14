@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /people/
+permalink: /talks/
 author_profile: false
 
 ---
