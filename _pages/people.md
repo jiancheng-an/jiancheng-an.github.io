@@ -7,13 +7,13 @@ author_profile: false
 
 {% include base_path %}
 # Ph.D. Students
-## 2021.09 -- Present   Zihao Teng
+## 2021.09 -- Present &emsp; Zihao Teng
 * Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
 * Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "[A dynamic precoding scheme for near-field secure communications](https://ieeexplore.ieee.org/document/10900947)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
 * Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "[Low-complexity frequency invariant beamformer design based on SRV-constrained array response control](https://ieeexplore.ieee.org/document/10683398)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 <br>
 
-## 2021.09 -- Present   Hao Liu
+## 2021.09 -- Present &emsp; Hao Liu
 * H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 * H. Liu, **J. An**, W. Xu, X. Jia, L. Gan and C. Yuen, "[K-means based constellation optimization for index modulated reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/10143180)," _IEEE Commun. Lett._, vol. 27, no. 8, pp. 2152-2156, Aug. 2023.<br>
 * H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-based orchestration of multi-user MISO systems with stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10622385)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 4991-4996.<br>
