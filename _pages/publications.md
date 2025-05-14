@@ -172,7 +172,7 @@ author_profile: false
 ## YEAR 2023
 * [4] **J. An** and C. Yuen, "[Pilot power allocation for channel estimation in a multi-RIS aided communication system](https://ieeexplore.ieee.org/document/10437508)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
 **[[arXiv](https://arxiv.org/pdf/2308.14099)]**
-* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun._, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
+* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
 
 ## YEAR 2022
