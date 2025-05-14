@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "selected-paper"
+title: "Selected Publications"
 author_profile: false
 
 ---
