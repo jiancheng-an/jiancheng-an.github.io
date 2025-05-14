@@ -34,6 +34,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2407.15053)]**
 * [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint beamforming and power allocation design for stacked intelligent metasurfaces-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10756670)," _IEEE Trans. Veh. Technol._, vol. 74, no. 3, pp. 5235-5240, Mar. 2025.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2024
 * [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, **J. An** and H. Li, "[Joint spectrum sensing and DOA estimation based on a resource-efficient sub-Nyquist array receiver](https://ieeexplore.ieee.org/document/10737034)," _IEEE Trans. Signal Process._, vol. 72, pp. 5354-5370, Oct. 2024.<br>
@@ -68,6 +69,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2301.02360)]**
 * [23] **J. An**, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "[Codebook-based solutions for reconfigurable intelligent surfaces and their open challenges](https://ieeexplore.ieee.org/document/9952197)," _IEEE Wireless Commun._, vol. 31, no. 2, pp. 134-141, Apr. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2211.05976)]**
+<br>
 
 ## YEAR 2023
 * [22] **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
@@ -94,6 +96,7 @@ author_profile: false
 **[arXiv]**
 * [11] C. Xu, L. Xiang, **J. An**, C. Dong, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[OTFS-aided RIS-assisted SAGIN systems outperform their OFDM counterparts in doubly selective high-Doppler scenarios](https://ieeexplore.ieee.org/document/9874856)," _IEEE Internet Things J._, vol. 10, no. 1, pp. 682-703, Jan. 2023.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2022
 * [10] W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "[Time-varying channel prediction for RIS-assisted MU-MISO networks via deep learning](https://ieeexplore.ieee.org/document/9814839)," _IEEE Trans. Cogn. Commun. Netw._, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
@@ -112,10 +115,12 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2107.12630)]**
 * [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2021
 * [2] **J. An** and L. Gan, "[The low-complexity design and optimal training overhead for IRS-assisted MISO systems](https://ieeexplore.ieee.org/document/9438669)," _IEEE Wireless Commun. Lett._, vol. 10, no. 8, pp. 1820-1824, Aug. 2021.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
@@ -130,6 +135,7 @@ author_profile: false
 **[arXiv]**
 * [23] L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "[Identical-delay based 2-D DOA and frequency joint estimation with sub-Nyquist sampling for URA](https://ieeexplore.ieee.org/document/10889441)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2024
 * [22] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "[Flexible antenna arrays for wireless communications: Modeling and performance evaluation](https://ieeexplore.ieee.org/document/10946335)," _Proc. Int. Conf. Commun. Technol. (ICCT)_, Chengdu, China, 2024, pp. 2034-2039.<br>
@@ -168,17 +174,21 @@ author_profile: false
 **[arXiv]**
 * [5] L. Liu, Z. Li, **J. An**, L. Gan and H. Li, "[A CCM-based joint DOA-frequency estimation and signal recovery with efficient sub-Nyquist sampling](https://ieeexplore.ieee.org/document/10447152)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Seoul, Korea, Republic of, 2024, pp. 8501-8505.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2023
 * [4] **J. An** and C. Yuen, "[Pilot power allocation for channel estimation in a multi-RIS aided communication system](https://ieeexplore.ieee.org/document/10437508)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
 **[[arXiv](https://arxiv.org/pdf/2308.14099)]**
 * [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
+<br>
 
 ## YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
 **[arXiv]**
+<br>
 
 ## YEAR 2018
 * [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
 **[arXiv]**
+<br>
