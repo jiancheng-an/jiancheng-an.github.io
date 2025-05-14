@@ -8,29 +8,29 @@ author_profile: false
 {% include base_path %}
 # Ph.D. Students
 ## 2022.09 -- Present Zihao Teng
-* [51] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
+* Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2505.04968)]**
-* [20] Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "[A dynamic precoding scheme for near-field secure communications](https://ieeexplore.ieee.org/document/10900947)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
+* Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "[A dynamic precoding scheme for near-field secure communications](https://ieeexplore.ieee.org/document/10900947)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
 **[arXiv]**
-  * [17] Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "[Low-complexity frequency invariant beamformer design based on SRV-constrained array response control](https://ieeexplore.ieee.org/document/10683398)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
+* Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "[Low-complexity frequency invariant beamformer design based on SRV-constrained array response control](https://ieeexplore.ieee.org/document/10683398)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
 <br>
 
 ## 2022.09 -- Present Hao Liu
-* [50] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
+* H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
-* [21] H. Liu, **J. An**, W. Xu, X. Jia, L. Gan and C. Yuen, "[K-means based constellation optimization for index modulated reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/10143180)," _IEEE Commun. Lett._, vol. 27, no. 8, pp. 2152-2156, Aug. 2023.<br>
+* H. Liu, **J. An**, W. Xu, X. Jia, L. Gan and C. Yuen, "[K-means based constellation optimization for index modulated reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/10143180)," _IEEE Commun. Lett._, vol. 27, no. 8, pp. 2152-2156, Aug. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2207.09766)]**
-* [10] H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-based orchestration of multi-user MISO systems with stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10622385)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 4991-4996.<br>
+* H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-based orchestration of multi-user MISO systems with stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10622385)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 4991-4996.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.09006)]**
 <br>
 
 ## 2022.09 -- Present Xing Jia
-* [15] X. Jia, **J. An**, H. Liu, H. Liao, L. Gan and C. Yuen, "[Environment-aware codebook for reconfigurable intelligent surface-aided MISO communications](https://ieeexplore.ieee.org/document/10097454)," _IEEE Wireless Commun. Lett._, vol. 12, no. 7, pp. 1174-1178, Jul. 2023.<br>
+* X. Jia, **J. An**, H. Liu, H. Liao, L. Gan and C. Yuen, "[Environment-aware codebook for reconfigurable intelligent surface-aided MISO communications](https://ieeexplore.ieee.org/document/10097454)," _IEEE Wireless Commun. Lett._, vol. 12, no. 7, pp. 1174-1178, Jul. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2304.12021)]**
-  * [19] X. Jia, **J. An**, X. Lu, Z. Xu, L. Gan and C. Yuen, "[Dynamic codebook for reconfigurable intelligent surface-aided multiuser MISO communications](https://ieeexplore.ieee.org/document/10901063)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 5138-5143.<br>
+* X. Jia, **J. An**, X. Lu, Z. Xu, L. Gan and C. Yuen, "[Dynamic codebook for reconfigurable intelligent surface-aided multiuser MISO communications](https://ieeexplore.ieee.org/document/10901063)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 5138-5143.<br>
 **[arXiv]**
-* [16] X. Jia, **J. An**, H. Liu, L. Gan, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled near-field multiuser beamfocusing in the wave domain](https://ieeexplore.ieee.org/document/10683447)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
+* X. Jia, **J. An**, H. Liu, L. Gan, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled near-field multiuser beamfocusing in the wave domain](https://ieeexplore.ieee.org/document/10683447)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.05819)]**
 <br>
 
@@ -70,9 +70,9 @@ author_profile: false
 **[arXiv]**
 
 ## 2022.09 -- 2025.06 Zhiheng Yu
-* Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2406.09058)]**
+* Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
+**[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 * Z. Yu, **J. An**, L. Gan and C. Yuen, "[Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10683510)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[[arXiv](https://arxiv.org/pdf/2404.00265)]**
