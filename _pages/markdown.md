@@ -6,14 +6,13 @@ author_profile: false
 ---
 
 {% include base_path %}
-# Research Topics
+# $\bidstar$ Research Topics
 * Stacked Intelligent Metasurfaces (SIM)
 * Flexible Intelligent Metasurfaces (FIM)
-* Holographic MIMO Communications
-* Reconfigurable Intelligence Surface (RIS)
-* Integrated Sensing and Communications (ISAC)
-* Semantic Communications
 * Near-Field Communications (NFC)
+* Reconfigurable Intelligence Surface (RIS)
+* Holographic MIMO Communications
+* Integrated Sensing and Communications (ISAC)
 <br>
 <br>
 <br>
