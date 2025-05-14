@@ -25,12 +25,12 @@ author_profile: false
 * [44] Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurface-based transceiver design for near-field wideband systems](https://ieeexplore.ieee.org/document/10900449)," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.11182)]**
 * [43] E. Shi, J. Zhang, Y. Zhu, **J. An**, C. Yuen and B. Ai, "[Uplink performance of stacked intelligent metasurface-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10893715)," _IEEE Trans. Wireless Commun._, vol. 24, no. 5, pp. 3731-3746, May 2025.<br>
+**[[arXiv](https://arxiv.org/pdf/2409.12851)]**
+* [42] **J. An**, C. Yuen, M. D. Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Flexible intelligent metasurfaces for downlink multiuser MISO communications](https://ieeexplore.ieee.org/document/10850658)," _IEEE Trans. Wireless Commun._, vol. 24, no. 4, pp. 2940-2955, April 2025.<br>
 **[arXiv]**
-* [42] **J. An**, C. Yuen, M. D. Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Flexible Intelligent Metasurfaces for Downlink Multiuser MISO Communications](https://ieeexplore.ieee.org/document/10850658)," in IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 2940-2955, April 2025.<br>
+* [41] H. Niu, X. Lei, **J. An**, L. Zhang and C. Yuen, "[On the efficient design of stacked intelligent metasurfaces for secure SISO transmission](https://ieeexplore.ieee.org/document/10767193)," _IEEE Trans. Inf. Forensics Security_, vol. 20, pp. 60-70, 2025.<br>
 **[arXiv]**
-* [41] H. Niu, X. Lei, **J. An**, L. Zhang and C. Yuen, "[On the Efficient Design of Stacked Intelligent Metasurfaces for Secure SISO Transmission](https://ieeexplore.ieee.org/document/10767193)," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 60-70, 2025.<br>
-**[arXiv]**
-* [40] G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked Intelligent Metasurfaces for Task-Oriented Semantic Communications](https://ieeexplore.ieee.org/document/10755151)," in IEEE Wireless Communications Letters, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
+* [40] G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
 **[arXiv]**
 * [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint Beamforming and Power Allocation Design for Stacked Intelligent Metasurfaces-Aided Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/document/10756670)," in IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5235-5240, March 2025.<br>
 **[arXiv]**
