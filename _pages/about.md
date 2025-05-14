@@ -11,16 +11,17 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 # Research Interests
 * Stacked Intelligent Metasurfaces (SIM)
 * Flexible Intelligent Metasurfaces (FIM)
-* Holographic MIMO Surface / Reconfigurable Intelligence Surface (RIS)
-* Integrated Sensing and Communications
-* Internet-of-Vehicle / UAV, Edge Intelligence for Autonomous Vehicle / UAV
-* Dense Small Satellite Networks
-* Green Communications
-* Smart City / Urban Science / Urban Mobility / Crowd Sensing
-* Internet-of-Things (IoT) / Industry 4.0 / Digital Twin
-* Big Data Analysis / Artificial Intelligence
-* Indoor Localization / SLAM / Multi-robot Exploration
+* Holographic MIMO Communications
+* Reconfigurable Intelligent Surface (RIS)
+* Integrated Sensing and Communications (ISAC)
+* Unmanned Aerial Vehicle (UAV)
+* Internet of Things (IoT)
+* Artificial Intelligence (AI)
+* Near-Field Communications (NFC)
 * 5G / Beyond 5G / 6G
-* Massive Machine-to-Machine (M2M) / Machine-type-Communications (MTC)
-* Energy Harvesting / Wireless Power Transfer
-* Security in Cyber Physical System
+
+# Current Grants
+
+# Awards & Recognition
+## Award
+* 2023 IEEE ICC Best Paper Award
