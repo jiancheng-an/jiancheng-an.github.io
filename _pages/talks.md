@@ -10,4 +10,4 @@ author_profile: false
 # 2024.06.28
 * Time: 2024.06.28
 * Location: Online
-* Title: Stacked Intelligent Metasurface for Signal Processing in the Wave Domain [Slides](RISTA_Jiancheng_20240628_homepage.pdf)
+* Title: Stacked Intelligent Metasurface for Signal Processing in the Wave Domain [Slides](talks/RISTA_Jiancheng_20240628_homepage.pdf)
