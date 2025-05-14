@@ -121,6 +121,9 @@ author_profile: false
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**
 <br>
+<br>
+<br>
+
 # Conference
 ## YEAR 2025
 * [24] S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
