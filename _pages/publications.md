@@ -9,7 +9,7 @@ author_profile: false
 # Journal
 ## YEAR 2025
 * [51] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis](https://ieeexplore.ieee.org/document/10999042)," in IEEE Internet of Things Journal.<br>
-**[arXiv]**
+**[arXiv](https://arxiv.org/pdf/2505.04968)**
 * [50] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-User MISO with Stacked Intelligent Metasurfaces: A DRL-Based Sum-Rate Optimization Approach](https://ieeexplore.ieee.org/document/10949617)," in IEEE Transactions on Cognitive Communications and Networking.<br>
 **[arXiv]**
 * [49] **J. An**, M. D. Renzo, M. Debbah, H. Vincent Poor and C. Yuen, "[Stacked Intelligent Metasurfaces for Multiuser Downlink Beamforming in the Wave Domain](https://ieeexplore.ieee.org/document/10922857)," in IEEE Transactions on Wireless Communications.<br>
@@ -168,11 +168,11 @@ author_profile: false
 ## YEAR 2023
 * [4] **J. An** and C. Yuen, "[Pilot Power Allocation for Channel Estimation in a Multi-RIS Aided Communication System](https://ieeexplore.ieee.org/document/10437508)," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
 **[arXiv]**
-* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain](https://ieeexplore.ieee.org/document/10279173)," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2834-2839<br>
+* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 2834-2839<br>
 **[arXiv]**
 
 ## YEAR 2022
-* [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A Practical Design Based on Deep Reinforcement Learning for RIS-Assisted mmWave MIMO Systems](https://ieeexplore.ieee.org/document/10065758)," 2022 IEEE 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022, pp. 1599-1602<br>
+* [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," 2022 IEEE 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022, pp. 1599-1602<br>
 **[arXiv]**
 
 ## YEAR 2018
