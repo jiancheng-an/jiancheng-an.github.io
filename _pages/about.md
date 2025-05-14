@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+
 ---
 
 # Biography
@@ -9,8 +10,8 @@ Jiancheng An received the B.Eng. and Ph.D. degrees from University of Electronic
 Dr. An received IEEE International Conference on Communications (ICC) 2023 Best Paper Award. He has 6 patents and published over 70 research papers at international journals or conferences.
 
 # Education
-* 2016.09.01 - 2021.12.30: Ph.D in University of Electronic Science and Technology of China (UESTC)
-* 2012.09.01 - 2016.06.30: B.S. in University of Electronic Science and Technology of China (UESTC)
+* 2016.09 - 2021.12: Ph.D in University of Electronic Science and Technology of China (UESTC)
+* 2012.09 - 2016.06: B.S. in University of Electronic Science and Technology of China (UESTC)
 
 # Work experience
 * Oct. 2019 - Oct. 2020: Visiting Scholar
