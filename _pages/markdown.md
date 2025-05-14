@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-# $\bigstar$ Research Topics
+# Research Topics
 * Stacked Intelligent Metasurfaces (SIM)
 * Flexible Intelligent Metasurfaces (FIM)
 * Near-Field Communications (NFC)
@@ -19,26 +19,26 @@ author_profile: false
 
 # Stacked Intelligent Metasurfaces (SIM)
 ## Overview
-* [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
+* **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2311.09814)]**
 <br>
 
-## Wave-Domain Precoding and Combining
-* [22] **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
+## Wave-Domain MIMO Precoding and Combining
+* **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2305.08079)]**
-* [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.02687)]**
-* [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
+* **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
 <br>
 
 ## Channel Estimation
-* [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
+* X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05870)]**
 <br>
 
-## Wideband
-* [44] Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurface-based transceiver design for near-field wideband systems](https://ieeexplore.ieee.org/document/10900449)," _IEEE Trans. Commun._, 2025, Early Access.<br>
+## Wideband Systems
+* Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurface-based transceiver design for near-field wideband systems](https://ieeexplore.ieee.org/document/10900449)," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.11182)]**
 <br>
 
