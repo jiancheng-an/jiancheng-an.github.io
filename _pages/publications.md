@@ -12,7 +12,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2505.04968)]**
 * [50] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
-* [49] **J. An**, M. D. Renzo, M. Debbah, H. Vincent Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.02687)]**
 * [48] E. Shi, J. Zhang, **J. An**, G. Zhang, Z. Liu, C. Yuen and B. Ai, "[Joint AP-UE association and precoding for SIM-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10918608)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2409.12870)]**
@@ -78,7 +78,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2305.15731)]**
 * [19] **J. An**, C. Yuen, C. Huang, M. Debbah, H. V. Poor and L. Hanzo, "[A tutorial on holographic MIMO communications — Part II: Performance analysis and holographic beamforming](https://ieeexplore.ieee.org/document/10130647)," _IEEE Commun. Lett._, vol. 27, no. 7, pp. 1669-1673, Jul. 2023. **<font color=Blue>(Invited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2305.15730)]**
-* [18] **J. An**, C. Yuen, C. Huang, M. Debbah, H. Vincent Poor and L. Hanzo, "[A tutorial on holographic MIMO communications — Part I: Channel modeling and channel estimation](https://ieeexplore.ieee.org/document/10130641)," _IEEE Commun. Lett._, vol. 27, no. 7, pp. 1664-1668, Jul. 2023. **<font color=Blue>(Invited Paper)</font>**<br>
+* [18] **J. An**, C. Yuen, C. Huang, M. Debbah, H. V. Poor and L. Hanzo, "[A tutorial on holographic MIMO communications — Part I: Channel modeling and channel estimation](https://ieeexplore.ieee.org/document/10130641)," _IEEE Commun. Lett._, vol. 27, no. 7, pp. 1664-1668, Jul. 2023. **<font color=Blue>(Invited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2305.15728)]**
 * [17] **J. An**, H. Li, D. W. K. Ng and C. Yuen, "[Fundamental detection probability vs. achievable rate tradeoff in integrated sensing and communication systems](https://ieeexplore.ieee.org/document/10124135)," _IEEE Trans. Wireless Commun._, vol. 22, no. 12, pp. 9835-9853, Dec. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2305.02847)]**
