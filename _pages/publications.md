@@ -108,7 +108,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2110.12799)]**
 * [5] **J. An**, C. Xu, L. Wang, Y. Liu, L. Gan and L. Hanzo, "[Joint training of the superimposed direct and reflected links in reconfigurable intelligent surface assisted multiuser communications](https://ieeexplore.ieee.org/document/9681847)," _IEEE Trans. Green Commun. Netw._, vol. 6, no. 2, pp. 739-754, June 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2105.14484)]**
-* [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol., vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
+* [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol._, vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2107.12630)]**
 * [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022.<br>
 **[arXiv]**
