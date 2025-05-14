@@ -15,6 +15,8 @@ author_profile: false
 ### 2022.09 -- Present Zihao Zhao [赵梓皓]
 
 ### 2022.09 -- Present Zihao Teng [滕子淏]
+* Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
+**[[arXiv](https://arxiv.org/pdf/2505.04968)]**
 ## 硕士
 ### 2022.09 -- Present Zihao Teng [胡瀚文]
 
