@@ -25,3 +25,5 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 # Awards & Recognition
 ## Award
 * 2023 IEEE ICC Best Paper Award
+## Selected Professional Activities
+* TPC Member for ICC 2025
