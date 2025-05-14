@@ -42,7 +42,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2408.10043)]**
 * [36] Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2406.09058)]**
-* [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, V. H. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
+* [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * [34] **J. An**, C. Yuen, L. Dai, M. Di Renzo, M. Debbah and L. Hanzo, "[Near-field communications: Research advances, potential, and challenges](https://ieeexplore.ieee.org/document/10558818)," _IEEE Wireless Commun._, vol. 31, no. 3, pp. 100-107, Jun. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.09242)]**
@@ -158,7 +158,7 @@ author_profile: false
 **[arXiv]**
 * [10] H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-based orchestration of multi-user MISO systems with stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10622385)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 4991-4996.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.09006)]**
-* [9] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, V. H. Poor and L. Hanzo, "[Stacked intelligent metasurface performs a 2D DFT in the wave domain for DOA estimation](https://ieeexplore.ieee.org/document/10622963)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 3445-3451.<br>
+* [9] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Stacked intelligent metasurface performs a 2D DFT in the wave domain for DOA estimation](https://ieeexplore.ieee.org/document/10622963)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 3445-3451.<br>
 **[[arXiv](https://arxiv.org/pdf/2310.09861)]**
 * [8] A. M. Nor, O. Fratu, S. Halunga, **J. An**, Z. Zaharis and P. Velanas, "[Position based near-field codebook design and beam training for extremely large-scale ARIS](https://ieeexplore.ieee.org/document/10621207)," _Proc. IEEE Int. Mediterranean Conf. Commun. Netw. (MeditCom)_, Madrid, Spain, 2024, pp. 215-220.<br>
 **[arXiv]**
