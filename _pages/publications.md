@@ -31,18 +31,18 @@ author_profile: false
 * [41] H. Niu, X. Lei, **J. An**, L. Zhang and C. Yuen, "[On the efficient design of stacked intelligent metasurfaces for secure SISO transmission](https://ieeexplore.ieee.org/document/10767193)," _IEEE Trans. Inf. Forensics Security_, vol. 20, pp. 60-70, 2025.<br>
 **[arXiv]**
 * [40] G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[arXiv]**
-* [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint Beamforming and Power Allocation Design for Stacked Intelligent Metasurfaces-Aided Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/document/10756670)," in IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5235-5240, March 2025.<br>
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]**
+* [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint beamforming and power allocation design for stacked intelligent metasurfaces-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10756670)," _IEEE Trans. Veh. Technol._, vol. 74, no. 3, pp. 5235-5240, March 2025.<br>
 **[arXiv]**
 
 ## YEAR 2024
-* [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, **J. An** and H. Li, "[Joint Spectrum Sensing and DOA Estimation Based on a Resource-Efficient Sub-Nyquist Array Receiver](https://ieeexplore.ieee.org/document/10737034)," in IEEE Transactions on Signal Processing, vol. 72, pp. 5354-5370, 2024.<br>
+* [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, **J. An** and H. Li, "[Joint spectrum sensing and DOA estimation based on a resource-efficient sub-Nyquist array receiver](https://ieeexplore.ieee.org/document/10737034)," _IEEE Trans. Signal Process._, vol. 72, pp. 5354-5370, 2024.<br>
 **[arXiv]**
-* [37] H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked Intelligent Metasurfaces for Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10643881)," in IEEE Wireless Communications Letters, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[arXiv]**
-* [36] Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-Aware Codebook Design for RIS-Assisted MU-MISO Communications: Implementation and Performance Analysis](https://ieeexplore.ieee.org/document/10562240)," in IEEE Transactions on Communications, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[arXiv]**
-* [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, V. H. Poor and L. Hanzo, "[Two-Dimensional Direction-of-Arrival Estimation Using Stacked Intelligent Metasurfaces](https://ieeexplore.ieee.org/document/10557708)," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
+* [37] H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]**
+* [36] Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]**
+* [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, V. H. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[arXiv]**
 * [34] **J. An**, C. Yuen, L. Dai, M. Di Renzo, M. Debbah and L. Hanzo, "[Near-Field Communications: Research Advances, Potential, and Challenges](https://ieeexplore.ieee.org/document/10558818)," in IEEE Wireless Communications, vol. 31, no. 3, pp. 100-107, June 2024.<br>
 **[arXiv]**
