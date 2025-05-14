@@ -150,7 +150,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2404.00265)]**
 * [14] X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "[Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications](https://ieeexplore.ieee.org/document/10679297)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
-* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "[Uplink performance and beamforming design of SIM-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10679324)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 01-05.<br>
+* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "[Uplink performance and beamforming design of SIM-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10679324)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
 * [12] H. Niu, **J. An**, L. Zhang, X. Lei and C. Yuen, "[Enhancing physical layer security for SISO systems using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10679315)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
