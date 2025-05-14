@@ -148,13 +148,13 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2502.05819)]**
 * [15] Z. Yu, **J. An**, L. Gan and C. Yuen, "[Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10683510)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[[arXiv](https://arxiv.org/pdf/2404.00265)]**
-* [14] X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "[Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications](https://ieeexplore.ieee.org/document/10679297)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
+* [14] X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "[Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications](https://ieeexplore.ieee.org/document/10679297)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
-* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "[Uplink performance and beamforming design of SIM-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10679324)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
+* [13] E. Shi, J. Zhang, Y. Zhu, Z. Liu, **J. An**, C. Yuen and B. Ai, "[Uplink performance and beamforming design of SIM-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10679324)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
-* [12] H. Niu, **J. An**, L. Zhang, X. Lei and C. Yuen, "[Enhancing physical layer security for SISO systems using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10679315)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
+* [12] H. Niu, **J. An**, L. Zhang, X. Lei and C. Yuen, "[Enhancing physical layer security for SISO systems using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10679315)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
-* [11] Z. Li, **J. An** and C. Yuen, "[Stacked intelligent metasurfaces for fully-analog wideband beamforming design](https://ieeexplore.ieee.org/document/10679332)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, 2024, pp. 1-5.<br>
+* [11] Z. Li, **J. An** and C. Yuen, "[Stacked intelligent metasurfaces for fully-analog wideband beamforming design](https://ieeexplore.ieee.org/document/10679332)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
 * [10] H. Liu, **J. An**, D. W. K. Ng, G. C. Alexandropoulos and L. Gan, "[DRL-based orchestration of multi-user MISO systems with stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10622385)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Denver, CO, USA, 2024, pp. 4991-4996.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.09006)]**
