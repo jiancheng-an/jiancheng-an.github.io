@@ -10,8 +10,8 @@ author_profile: false
 * Stacked Intelligent Metasurfaces (SIM)
 * Flexible Intelligent Metasurfaces (FIM)
 * Near-Field Communications (NFC)
-* Reconfigurable Intelligence Surface (RIS)
-* Holographic MIMO Communications
+* Reconfigurable Intelligent Surface (RIS)
+* Holographic MIMO (HMIMO)
 * Integrated Sensing and Communications (ISAC)
 <br>
 <br>
@@ -23,7 +23,7 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2311.09814)]**
 <br>
 
-## Wave-Domain MIMO Precoding and Combining
+## \* Wave-Domain MIMO Precoding and Combining
 * **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2305.08079)]**
 * **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
@@ -32,17 +32,17 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
 <br>
 
-## Channel Estimation
+## \* Channel Estimation
 * X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05870)]**
 <br>
 
-## Wideband Systems
+## \* Wideband Systems
 * Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurface-based transceiver design for near-field wideband systems](https://ieeexplore.ieee.org/document/10900449)," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.11182)]**
 <br>
 
-## Cell-Free Massive MIMO
+## \* Cell-Free Massive MIMO
 * E. Shi, J. Zhang, **J. An**, G. Zhang, Z. Liu, C. Yuen and B. Ai, "[Joint AP-UE association and precoding for SIM-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10918608)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2409.12870)]**
 * E. Shi, J. Zhang, Y. Zhu, **J. An**, C. Yuen and B. Ai, "[Uplink performance of stacked intelligent metasurface-enhanced cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10893715)," _IEEE Trans. Wireless Commun._, vol. 24, no. 5, pp. 3731-3746, May 2025.<br>
@@ -51,19 +51,16 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2405.09753)]**
 <br>
 
-## Sensing
+## \* Wireless Sensing
 * **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.10043)]**
 <br>
 
-## DRL
+## \* Artificial Intelligence (AI)
 * H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
-<br>
-
-## Semantic Communications
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2407.15053)]**
 <br>
@@ -89,7 +86,7 @@ author_profile: false
 <br>
   
 # Reconfigurable Intelligent Surface (RIS)
-## Codebook
+## \* Codebook
 * **J. An**, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "[Codebook-based solutions for reconfigurable intelligent surfaces and their open challenges](https://ieeexplore.ieee.org/document/9952197)," _IEEE Wireless Commun._, vol. 31, no. 2, pp. 134-141, Apr. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2211.05976)]**
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
@@ -98,24 +95,24 @@ author_profile: false
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 <br>
 
-## Channel Modeling and Estimation
+## \* Adjustable-Delay RIS
+* **J. An**, C. Xu, D. W. K. Ng, C. Yuen and L. Hanzo, "[Adjustable-delay RIS is capable of improving OFDM systems](https://ieeexplore.ieee.org/document/10423078)," _IEEE Trans. Veh. Technol._, vol. 73, no. 7, pp. 9927-9942, Jul. 2024.<br>
+**[[arXiv](https://arxiv.org/pdf/2110.09291)]**
+<br>
+
+## \* Channel Modeling and Estimation
 * G. Sun, R. He, **J. An**, B. Ai, Y. Song, Y. Niu, G. Wang and C. Yuen, "[Geometric-based channel modeling and analysis for double-RIS-aided vehicle-to-vehicle communication systems](https://ieeexplore.ieee.org/document/10445446)," _IEEE Internet Things J._, vol. 11, no. 10, pp. 18888-18901, May 2024.<br>
 **[arXiv]**
 * C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, Z. Wang, L.-L. Yang and L. Hanzo, "[Channel estimation for reconfigurable intelligent surface assisted high-mobility wireless systems](https://ieeexplore.ieee.org/document/9875062)," _IEEE Trans. Veh. Technol._, vol. 72, no. 1, pp. 718-734, Jan. 2023.<br>
 **[arXiv]**
 <br>
 
-## Adjustable-Delay RIS
-* **J. An**, C. Xu, D. W. K. Ng, C. Yuen and L. Hanzo, "[Adjustable-delay RIS is capable of improving OFDM systems](https://ieeexplore.ieee.org/document/10423078)," _IEEE Trans. Veh. Technol._, vol. 73, no. 7, pp. 9927-9942, Jul. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2110.09291)]**
-<br>
-
-## Cell-Free Massive MIMO
+## \* Cell-Free Massive MIMO
 * W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2301.02360)]**
 <br>
 
-## Antenna Selection
+## \* Antenna Selection
 * C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, L.-L. Yang, M. Di Renzo and L. Hanzo, "[Antenna selection for reconfigurable intelligent surfaces: A transceiver-agnostic passive beamforming configuration](https://ieeexplore.ieee.org/document/10075372)," _IEEE Trans. Wireless Commun._, vol. 22, no. 11, pp. 7756-7774, Nov. 2023.<br>
 **[arXiv]**
 <br>
