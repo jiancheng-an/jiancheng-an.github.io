@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-# Research Topics
+# Selected Papers by Topics
 * Stacked Intelligent Metasurfaces (SIM)
 * Flexible Intelligent Metasurfaces (FIM)
 * Near-Field Communications (NFC)
