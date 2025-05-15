@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /people/
-author_profile: false
+author_profile: true
 
 ---
 
