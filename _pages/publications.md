@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
+* [55] **J. An**, M. Debbah, T. J. Cui, Z. N. Chen and C. Yuen, "Emerging technologies in intelligent metasurfaces: Shaping the future of wireless communications," _IEEE Trans. Antennas Propag._, 2025, Early Access.<br>
+**[[arXiv](https://arxiv.org/pdf/2411.19754)]**
+* [54] H. Liu, **J. An**, X. Jia, L. Gan, G. K. Karagiannidis, B. Clerckx, M. Bennis, M. Debbah and T. J. Cui, "Stacked intelligent metasurfaces for wireless communications: Applications and challenges," _IEEE Wireless Commun._, 2025, Early Access.<br>
+**[[arXiv](https://arxiv.org/pdf/2407.03566)]**
 * [53] M. Liu, **J. An**, C. Huang and C. Yuen, "[Over-the-air ODE-inspired neural network for dual task-oriented semantic communications](https://ieeexplore.ieee.org/document/11003068)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2505.04970)]**
 * [52] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
