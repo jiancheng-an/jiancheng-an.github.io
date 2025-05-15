@@ -31,7 +31,7 @@ author_profile: true
 * [41] H. Niu, X. Lei, **J. An**, L. Zhang and C. Yuen, "[On the efficient design of stacked intelligent metasurfaces for secure SISO transmission](https://ieeexplore.ieee.org/document/10767193)," _IEEE Trans. Inf. Forensics Security_, vol. 20, pp. 60-70, Mar. 2025.<br>
 **[arXiv]**
 * [40] G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video](https://www.youtube.com/watch?v=hsTUPlvM2jo)]**
 * [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint beamforming and power allocation design for stacked intelligent metasurfaces-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10756670)," _IEEE Trans. Veh. Technol._, vol. 74, no. 3, pp. 5235-5240, Mar. 2025.<br>
 **[arXiv]**
 <br>
@@ -40,9 +40,9 @@ author_profile: true
 * [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, **J. An** and H. Li, "[Joint spectrum sensing and DOA estimation based on a resource-efficient sub-Nyquist array receiver](https://ieeexplore.ieee.org/document/10737034)," _IEEE Trans. Signal Process._, vol. 72, pp. 5354-5370, Oct. 2024.<br>
 **[arXiv]**
 * [37] H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video](https://www.youtube.com/watch?v=ThRnZWckGsA)]**
 * [36] Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2406.09058)]**
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[[video](https://www.youtube.com/watch?v=dBxPFiyCrhg)]**
 * [35] **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * [34] **J. An**, C. Yuen, L. Dai, M. Di Renzo, M. Debbah and L. Hanzo, "[Near-field communications: Research advances, potential, and challenges](https://ieeexplore.ieee.org/document/10558818)," _IEEE Wireless Commun._, vol. 31, no. 3, pp. 100-107, Jun. 2024.<br>
@@ -54,7 +54,7 @@ author_profile: true
 * [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2311.09814)]**
 * [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05870)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video](https://www.youtube.com/watch?v=l3B-8M6jCxo)]**
 * [29] S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video](https://www.youtube.com/watch?v=3g1HuBJSo14)]**
 * [28] G. Sun, R. He, **J. An**, B. Ai, Y. Song, Y. Niu, G. Wang and C. Yuen, "[Geometric-based channel modeling and analysis for double-RIS-aided vehicle-to-vehicle communication systems](https://ieeexplore.ieee.org/document/10445446)," _IEEE Internet Things J._, vol. 11, no. 10, pp. 18888-18901, May 2024.<br>
