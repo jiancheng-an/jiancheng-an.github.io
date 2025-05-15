@@ -21,18 +21,18 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 <br>
 
 # Experience
-* Oct. 2019 - Oct. 2020: Visiting Scholar
-  * Southampton University
-  * Next Generation Wireless Research Group
-  * Supervisor: Lajos Hanzo
-* Mar. 2022 - Oct. 2023: Research Fellow
-  * Singapore University of Technology and Design (SUTD)
-  * Engineering Product Development Pillar (EPD)
-  * Supervisor: Prof. Chau Yuen
-* Summer 2015: Research Fellow
+* 2023.10 - Present: Research Fellow
   * Nanyang Technological University (NTU)
   * School of Electrical and Electronic Engineering
   * Supervisor: Prof. Chau Yuen
+* 2022.10 - 2023.10: Research Fellow
+  * Singapore University of Technology and Design (SUTD)
+  * Engineering Product Development Pillar (EPD)
+  * Supervisor: Prof. Chau Yuen
+* 2019.10 - 2020.10: Visiting Scholar
+  * Southampton University
+  * Next Generation Wireless Research Group
+  * Supervisor: Prof. Lajos Hanzo
 <br>
 <br>
 <br>
@@ -45,7 +45,6 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * Reconfigurable Intelligent Surface (RIS)
 * Integrated Sensing and Communications (ISAC)
 * Unmanned Aerial Vehicle (UAV)
-* Internet of Things (IoT)
 * Artificial Intelligence (AI)
 <br>
 <br>
