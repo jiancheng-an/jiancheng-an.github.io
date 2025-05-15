@@ -34,7 +34,7 @@ author_profile: true
 
 ## \* Channel Estimation
 * X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=l3B-8M6jCxo)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=l3B-8M6jCxo)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Wideband Systems
@@ -55,14 +55,14 @@ author_profile: true
 * **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=ThRnZWckGsA)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=ThRnZWckGsA)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Artificial Intelligence (AI)
 * H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hsTUPlvM2jo)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hsTUPlvM2jo)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 <br>
 <br>
@@ -90,7 +90,7 @@ author_profile: true
 * **J. An**, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "[Codebook-based solutions for reconfigurable intelligent surfaces and their open challenges](https://ieeexplore.ieee.org/document/9952197)," _IEEE Wireless Commun._, vol. 31, no. 2, pp. 134-141, Apr. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2211.05976)]**
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2406.09058)]**
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[[video-CN](https://www.bilibili.com/video/BV1eabpeHEH7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=dBxPFiyCrhg)]**
 <br>
