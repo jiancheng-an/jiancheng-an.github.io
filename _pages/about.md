@@ -14,8 +14,10 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 <br>
 
 # Education
-* 2016.09 - 2021.12: Ph.D in University of Electronic Science and Technology of China (UESTC)
-* 2012.09 - 2016.06: B.S. in University of Electronic Science and Technology of China (UESTC)
+* 2016.09 - 2021.12: Ph.D
+  * University of Electronic Science and Technology of China (UESTC)
+* 2012.09 - 2016.06: B.S.
+  * University of Electronic Science and Technology of China (UESTC)
 <br>
 <br>
 <br>
