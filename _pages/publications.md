@@ -56,7 +56,7 @@ author_profile: true
 * [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05870)]**
 * [29] S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05892)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video](https://www.youtube.com/watch?v=3g1HuBJSo14)]**
 * [28] G. Sun, R. He, **J. An**, B. Ai, Y. Song, Y. Niu, G. Wang and C. Yuen, "[Geometric-based channel modeling and analysis for double-RIS-aided vehicle-to-vehicle communication systems](https://ieeexplore.ieee.org/document/10445446)," _IEEE Internet Things J._, vol. 11, no. 10, pp. 18888-18901, May 2024.<br>
 **[arXiv]**
 * [27] **J. An**, C. Xu, D. W. K. Ng, C. Yuen and L. Hanzo, "[Adjustable-delay RIS is capable of improving OFDM systems](https://ieeexplore.ieee.org/document/10423078)," _IEEE Trans. Veh. Technol._, vol. 73, no. 7, pp. 9927-9942, Jul. 2024.<br>
