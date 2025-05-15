@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow, School of Electrical & Electronic Engineering"
   location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  employer         : "https://www.ntu.edu.sg/"
   uri              : # URL
   email            : "jiancheng_an@163.com" 
 
