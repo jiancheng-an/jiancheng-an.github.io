@@ -55,7 +55,7 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2405.09753)]**
 * [32] A. Papazafeiropoulos, **J. An**, P. Kourtessis, T. Ratnarajah and S. Chatzinotas, "[Achievable rate optimization for stacked intelligent metasurface-assisted holographic MIMO communications](https://ieeexplore.ieee.org/document/10534211)," _IEEE Trans. Wireless Commun._, vol. 23, no. 10, pp. 13173-13186, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.16415)]**
-* [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024.<br>
+* [31] **J. An**, C. Yuen, C. Xu, H. Li, D. W. K. Ng, M. Di Renzo, M. Debbah and L. Hanzo, "[Stacked intelligent metasurface-aided MIMO transceiver design](https://ieeexplore.ieee.org/document/10515204)," _IEEE Wireless Commun._, vol. 31, no. 4, pp. 123-131, Aug. 2024. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2311.09814)]**
 * [30] X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=l3B-8M6jCxo)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
@@ -69,14 +69,14 @@ author_profile: true
 **[arXiv]**
 * [25] W. Wang, C. Luo, **J. An**, L. Gan, H. Liao and C. Yuen, "[Semisupervised RF fingerprinting with consistency-based regularization](https://ieeexplore.ieee.org/document/10268017)," _IEEE Internet Things J._, vol. 11, no. 5, pp. 8624-8636, Mar. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2304.14795)]**
-* [24] W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024.<br>
+* [24] W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2301.02360)]**
-* [23] **J. An**, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "[Codebook-based solutions for reconfigurable intelligent surfaces and their open challenges](https://ieeexplore.ieee.org/document/9952197)," _IEEE Wireless Commun._, vol. 31, no. 2, pp. 134-141, Apr. 2024.<br>
+* [23] **J. An**, C. Xu, Q. Wu, D. W. K. Ng, M. Di Renzo, C. Yuen and L. Hanzo, "[Codebook-based solutions for reconfigurable intelligent surfaces and their open challenges](https://ieeexplore.ieee.org/document/9952197)," _IEEE Wireless Commun._, vol. 31, no. 2, pp. 134-141, Apr. 2024. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2211.05976)]**
 <br>
 
 ## \* YEAR 2023
-* [22] **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023.<br>
+* [22] **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2305.08079)]**
 * [21] H. Liu, **J. An**, W. Xu, X. Jia, L. Gan and C. Yuen, "[K-means based constellation optimization for index modulated reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/10143180)," _IEEE Commun. Lett._, vol. 27, no. 8, pp. 2152-2156, Aug. 2023.<br>
 **[[arXiv](https://arxiv.org/pdf/2207.09766)]**
@@ -117,7 +117,7 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2105.14484)]**
 * [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol._, vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2107.12630)]**
-* [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022.<br>
+* [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[arXiv]**
 <br>
 
