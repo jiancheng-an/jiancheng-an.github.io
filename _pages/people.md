@@ -35,7 +35,7 @@ author_profile: true
 <br>
 
 ## \* 2019.09 -- 2023.06 &emsp; Wangyang Xu (Graduated)
-* W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024.<br>
+* W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2301.02360)]**
 * W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "[Time-varying channel prediction for RIS-assisted MU-MISO networks via deep learning](https://ieeexplore.ieee.org/document/9814839)," _IEEE Trans. Cogn. Commun. Netw._, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2111.04971)]**
