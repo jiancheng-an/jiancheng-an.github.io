@@ -59,13 +59,13 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 <br>
 
 # Selected Professional Activities
-## TPC Member
+## \* TPC Member
 * IEEE ICC 2025
 * IEEE WCNC 2025
 * IEEE PIMRC 2025
 <br>
 
-## Reviewer
+## \* Reviewer
 * IJCNN 2025
 * ICASSP 2025
 <br>
