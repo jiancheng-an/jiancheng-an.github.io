@@ -50,31 +50,31 @@ author_profile: true
 # M.S. Students
 ## \* 2024.09 -- Present &emsp; Haoxian Niu
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video](https://www.youtube.com/watch?v=ThRnZWckGsA)]**
 <br>
 
 ## \* 2022.09 -- 2025.06 &emsp; Shining Lin (Graduated)
 * S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05892)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video](https://www.youtube.com/watch?v=3g1HuBJSo14)]**
 * S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]**
 <br>
   
 ## \* 2022.09 -- 2025.06 &emsp; Guojun Huang (Graduated)
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video](https://www.youtube.com/watch?v=hsTUPlvM2jo)]**
 <br>
   
 ## \* 2022.09 -- 2025.06 &emsp; Xianghao Yao (Graduated)
 * X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05870)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video](https://www.youtube.com/watch?v=l3B-8M6jCxo)]**
 * X. Yao, **J. An**, G. Huang, H. Liu, L. Gan and C. Yuen, "[Sparse channel estimation for stacked intelligent metasurface-assisted mmWave communications](https://ieeexplore.ieee.org/document/10679297)," _Proc. IEEE VTS Asia Pacific Wireless Commun. Symp. (APWCS)_, Singapore, Singapore, 2024, pp. 1-5.<br>
 **[arXiv]**
 <br>
 
 ## \* 2022.09 -- 2025.06 &emsp; Zhiheng Yu (Graduated)
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2406.09058)]**
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[[video](https://www.youtube.com/watch?v=dBxPFiyCrhg)]**
 * Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 * Z. Yu, **J. An**, L. Gan and C. Yuen, "[Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10683510)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
