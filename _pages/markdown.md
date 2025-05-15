@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /markdown/
-author_profile: false
+author_profile: true
 
 ---
 
