@@ -8,11 +8,13 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
+* [53] M. Liu, **J. An**, C. Huang and C. Yuen, "[Over-the-air ODE-inspired neural network for dual task-oriented semantic communications](https://ieeexplore.ieee.org/document/11003068)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
+**[[arXiv](https://arxiv.org/pdf/2505.04970)]**
 * [52] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2505.04968)]**
 * [51] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
-* [50] S. U. Hassan, Z. Ye, J. An and M. B. Hossen, "[Sparse channel estimation and passive beamforming with practical phase shift model for IRS-assisted OFDM systems](https://www.sciencedirect.com/science/article/abs/pii/S0165168425001112)," _Signal Process._, vol. 234, Sept. 2025.<br>
+* [50] S. U. Hassan, Z. Ye, **J. An** and M. B. Hossen, "[Sparse channel estimation and passive beamforming with practical phase shift model for IRS-assisted OFDM systems](https://www.sciencedirect.com/science/article/abs/pii/S0165168425001112)," _Signal Process._, vol. 234, Sept. 2025.<br>
 **[arXiv]**
 * [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.02687)]**
