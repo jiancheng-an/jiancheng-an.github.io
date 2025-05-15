@@ -73,9 +73,10 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@shannon.wireless"
   zhihu            : # Username
-
+  bilibili         : "https://space.bilibili.com/26360998"
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
