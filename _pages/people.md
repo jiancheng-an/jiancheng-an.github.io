@@ -55,7 +55,7 @@ author_profile: true
 
 ## \* 2022.09 -- 2025.06 &emsp; Shining Lin (Graduated)
 * S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=3g1HuBJSo14)]** **[[video-CN](https://www.bilibili.com/video/BV1uJ4m1p7LY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=uglCfghUKvQ&t=18s)]** **[[video-CN](https://www.bilibili.com/video/BV1uJ4m1p7LY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]**
 <br>
