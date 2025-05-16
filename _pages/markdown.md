@@ -92,7 +92,7 @@ author_profile: true
 * **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[arXiv]**
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=dBxPFiyCrhg)]** **[[video-CN](https://www.bilibili.com/video/BV1eabpeHEH7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hnv783dPvz0)]** **[[video-CN](https://www.bilibili.com/video/BV1eabpeHEH7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 <br>
