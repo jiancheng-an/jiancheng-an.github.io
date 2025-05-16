@@ -34,7 +34,7 @@ author_profile: true
 
 ## \* Channel Estimation
 * X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=-vBf2yd73TU&t=607s)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[slides]** **[post-EN]** **[[post-CN](https://mp.weixin.qq.com/s/Fan2UNkV5H02xOW3_uKKyA)]** **[[video-EN](https://www.youtube.com/watch?v=-vBf2yd73TU&t=607s)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Wideband Systems
@@ -55,14 +55,14 @@ author_profile: true
 * **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=-8mDdMA0YwQ&t=48s)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[slides]** **[post-EN]** **[[post-CN](https://mp.weixin.qq.com/s/CCwwJQlRG4GE6aHSaBK9bg)]** **[[video-EN](https://www.youtube.com/watch?v=-8mDdMA0YwQ)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Artificial Intelligence (AI)
 * H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=g7qs_ledZkg&t=33s)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[slides]** **[post-EN]** **[[post-CN](https://mp.weixin.qq.com/s/dHmasul3uLLI4Cp0TyeTrg)]** **[[video-EN](https://www.youtube.com/watch?v=g7qs_ledZkg)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 <br>
 <br>
@@ -92,7 +92,7 @@ author_profile: true
 * **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
 **[arXiv]**
 * Z. Yu, **J. An**, E. Basar, L. Gan and C. Yuen, "[Environment-aware codebook design for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10562240)," _IEEE Trans. Commun._, vol. 72, no. 12, pp. 7466-7479, Dec. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hnv783dPvz0)]** **[[video-CN](https://www.bilibili.com/video/BV1eabpeHEH7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2406.09058)]** **[code]** **[slides]** **[post-EN]** **[[post-CN](https://mp.weixin.qq.com/s/d4xBNgDlhWzI42Ln3XKEkQ)]** **[[video-EN](https://www.youtube.com/watch?v=hnv783dPvz0)]** **[[video-CN](https://www.bilibili.com/video/BV1eabpeHEH7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 <br>
