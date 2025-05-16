@@ -39,7 +39,7 @@ author_profile: true
 * [41] H. Niu, X. Lei, **J. An**, L. Zhang and C. Yuen, "[On the efficient design of stacked intelligent metasurfaces for secure SISO transmission](https://ieeexplore.ieee.org/document/10767193)," _IEEE Trans. Inf. Forensics Security_, vol. 20, pp. 60-70, Mar. 2025.<br>
 **[arXiv]**
 * [40] G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hsTUPlvM2jo)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=g7qs_ledZkg)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * [39] Y. Hu, J. Zhang, E. Shi, Y. Lu, **J. An**, C. Yuen and B. Ai, "[Joint beamforming and power allocation design for stacked intelligent metasurfaces-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10756670)," _IEEE Trans. Veh. Technol._, vol. 74, no. 3, pp. 5235-5240, Mar. 2025.<br>
 **[arXiv]**
 <br>
