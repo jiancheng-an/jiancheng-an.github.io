@@ -55,14 +55,14 @@ author_profile: true
 * **J. An**, C. Yuen, Y. L. Guan, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Two-dimensional direction-of-arrival estimation using stacked intelligent metasurfaces](https://ieeexplore.ieee.org/document/10557708)," _IEEE J. Sel. Areas Commun._, vol. 42, no. 10, pp. 2786-2802, Oct. 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2402.08224)]**
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=ThRnZWckGsA)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=-8mDdMA0YwQ&t=48s)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Artificial Intelligence (AI)
 * H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hsTUPlvM2jo)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=g7qs_ledZkg&t=33s)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 <br>
 <br>
