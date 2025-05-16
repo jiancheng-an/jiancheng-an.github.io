@@ -50,7 +50,7 @@ author_profile: true
 # M.S. Students
 ## \* 2024.09 -- Present &emsp; Haoxian Niu
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=ThRnZWckGsA)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2408.10043)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=-8mDdMA0YwQ&t=48s)]** **[[video-CN](https://www.bilibili.com/video/BV1xPDVYLEDg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* 2022.09 -- 2025.06 &emsp; Shining Lin (Graduated)
@@ -62,7 +62,7 @@ author_profile: true
   
 ## \* 2022.09 -- 2025.06 &emsp; Guojun Huang (Graduated)
 * G. Huang, **J. An**, Z. Yang, L. Gan, M. Bennis and M. Debbah, "[Stacked intelligent metasurfaces for task-oriented semantic communications](https://ieeexplore.ieee.org/document/10755151)," _IEEE Wireless Commun. Lett._, vol. 14, no. 2, pp. 310-314, Feb. 2025.<br>
-**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=hsTUPlvM2jo)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2407.15053)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=g7qs_ledZkg)]** **[[video-CN](https://www.bilibili.com/video/BV14mfdYsEJK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
   
 ## \* 2022.09 -- 2025.06 &emsp; Xianghao Yao (Graduated)
