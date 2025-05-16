@@ -34,7 +34,7 @@ author_profile: true
 
 ## \* Channel Estimation
 * X. Yao, **J. An**, L. Gan, M. Di Renzo and C. Yuen, "[Channel estimation for stacked intelligent metasurface-assisted wireless networks](https://ieeexplore.ieee.org/document/10445164)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1349-1353, May 2024.<br>
-**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=l3B-8M6jCxo)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+**[[arXiv](https://arxiv.org/pdf/2403.05870)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=-vBf2yd73TU&t=607s)]** **[[video-CN](https://www.bilibili.com/video/BV1wx421U7An/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 <br>
 
 ## \* Wideband Systems
