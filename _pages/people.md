@@ -13,7 +13,7 @@ author_profile: true
 * Z. Teng, **J. An**, X. Lu, Z. Xu and L. Gan, "[A dynamic precoding scheme for near-field secure communications](https://ieeexplore.ieee.org/document/10900947)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 4095-4100.<br>
 **[arXiv]**
 * Z. Teng, H. Zhang, **J. An**, L. Gan, H. Li and C. Yuen, "[Low-complexity frequency invariant beamformer design based on SRV-constrained array response control](https://ieeexplore.ieee.org/document/10683398)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
-**[arXiv]**
+**[arXiv]** **[[video-EN](https://www.youtube.com/watch?v=FWYp6b5Wx7U&t=220s)]**
 <br>
 
 ## \* 2021.09 -- Present &emsp; Hao Liu
@@ -31,7 +31,7 @@ author_profile: true
 * X. Jia, **J. An**, X. Lu, Z. Xu, L. Gan and C. Yuen, "[Dynamic codebook for reconfigurable intelligent surface-aided multiuser MISO communications](https://ieeexplore.ieee.org/document/10901063)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 5138-5143.<br>
 **[arXiv]**
 * X. Jia, **J. An**, H. Liu, L. Gan, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled near-field multiuser beamfocusing in the wave domain](https://ieeexplore.ieee.org/document/10683447)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
-**[[arXiv](https://arxiv.org/pdf/2502.05819)]**
+**[[arXiv](https://arxiv.org/pdf/2502.05819)]** **[[video-EN](https://www.youtube.com/watch?v=DusGbD6670s&t=245s)]**
 <br>
 
 ## \* 2019.09 -- 2023.06 &emsp; Wangyang Xu (Graduated)
@@ -57,7 +57,7 @@ author_profile: true
 * S. Lin, **J. An**, L. Gan, M. Debbah and C. Yuen, "[Stacked intelligent metasurface enabled LEO satellite communications relying on statistical CSI](https://ieeexplore.ieee.org/document/10445200)," _IEEE Wireless Commun. Lett._, vol. 13, no. 5, pp. 1295-1299, May 2024.<br>
 **[[arXiv](https://arxiv.org/pdf/2403.05892)]** **[code]** **[[video-EN](https://www.youtube.com/watch?v=uglCfghUKvQ&t=18s)]** **[[video-CN](https://www.bilibili.com/video/BV1uJ4m1p7LY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
 * S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
-**[arXiv]**
+**[arXiv]** **[[video-EN](https://www.youtube.com/watch?v=i5n0gYW3IIg&t=331s)]**
 <br>
   
 ## \* 2022.09 -- 2025.06 &emsp; Guojun Huang (Graduated)
@@ -78,5 +78,5 @@ author_profile: true
 * Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
 * Z. Yu, **J. An**, L. Gan and C. Yuen, "[Environment-aware codebook for RIS-assisted MU-MISO communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10683510)," _Proc. IEEE Veh. Technol. Conf. (VTC2024-Spring)_, Singapore, Singapore, 2024, pp. 1-5.<br>
-**[[arXiv](https://arxiv.org/pdf/2404.00265)]**
+**[[arXiv](https://arxiv.org/pdf/2404.00265)]** **[[video-EN](https://www.youtube.com/watch?v=nmpVz9caSLw&t=437s)]**
 <br>
