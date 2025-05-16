@@ -95,7 +95,7 @@ author_profile: true
 * [16] X. Cai, C. Huang, **J. An**, W. Xu, L. Wang and C. Yuen, "[Non-coherent chaotic communications aided by RIS: A performance-enhanced approach](https://ieeexplore.ieee.org/document/10103896)," _IEEE Commun. Lett._, vol. 27, no. 6, pp. 1614-1618, Jun. 2023.<br>
 **[arXiv]**
 * [15] X. Jia, **J. An**, H. Liu, H. Liao, L. Gan and C. Yuen, "[Environment-aware codebook for reconfigurable intelligent surface-aided MISO communications](https://ieeexplore.ieee.org/document/10097454)," _IEEE Wireless Commun. Lett._, vol. 12, no. 7, pp. 1174-1178, Jul. 2023.<br>
-**[[arXiv](https://arxiv.org/pdf/2304.12021)]** **[code]** **[slides]** **[post-CN]** **[post-EN]** **[video-EN]** **[video-CN]**
+**[[arXiv](https://arxiv.org/pdf/2304.12021)]** **[code]** **[slides]** **[post-EN]** **[[post-CN](https://mp.weixin.qq.com/s/f5n6BnViAULFUmKtrL9Bbw)]** **[video-EN]** **[video-CN]**
 * [14] R. Li, H. Liao, **J. An**, C. Yuen and L. Gan, "[Intra-class universal adversarial attacks on deep learning-based modulation classifiers](https://ieeexplore.ieee.org/document/10080974)," _IEEE Commun. Lett._, vol. 27, no. 5, pp. 1297-1301, May 2023.<br>
 **[arXiv]**
 * [13] C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, L.-L. Yang, M. Di Renzo and L. Hanzo, "[Antenna selection for reconfigurable intelligent surfaces: A transceiver-agnostic passive beamforming configuration](https://ieeexplore.ieee.org/document/10075372)," _IEEE Trans. Wireless Commun._, vol. 22, no. 11, pp. 7756-7774, Nov. 2023.<br>
