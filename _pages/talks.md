@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/eff54e5d-8a6e-4575-9222-14cb23925551)---
 layout: archive
 permalink: /talks/
 author_profile: true
@@ -19,3 +19,9 @@ author_profile: true
 * Location: Singapore
 * Title: **Sparse Channel Estimation for Stacked Intelligent Metasurface-Assisted mmWave Communications**<br>
 **[Slides]**
+
+## \* NUDT
+* Time: 2025.05.28
+* Location: Nanjing
+* Title: **Practical Deployment and Evolution of Intelligent Metasurfaces**<br>
+**[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**
