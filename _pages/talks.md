@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/eff54e5d-8a6e-4575-9222-14cb23925551)---
 layout: archive
 permalink: /talks/
 author_profile: true
