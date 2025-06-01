@@ -6,14 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
-# YEAR 2024
+# YEAR 2025
 ## \* NUDT
 * Time: 2025.05.28
 * Location: Nanjing
 * Title: **Practical Deployment and Evolution of Intelligent Metasurfaces**<br>
 **[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**
 <br>
+<br>
+<br>
 
+# YEAR 2024
 ## \* IEEE APWCS
 * Time: 2024.08.22
 * Location: Singapore
