@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 # YEAR 2024
-## \* RISTA
-* Time: 2024.06.28
-* Location: Online
-* Title: **Stacked Intelligent Metasurface for Signal Processing in the Wave Domain**<br>
-**[[Slides](https://jiancheng-an.github.io/files/RISTA_Jiancheng_20240628_homepage.pdf)]** &ensp; **[[video-CN](https://www.bilibili.com/video/BV1Tn4y1X7Nf/?spm_id_from=333.337.search-card.all.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+## \* NUDT
+* Time: 2025.05.28
+* Location: Nanjing
+* Title: **Practical Deployment and Evolution of Intelligent Metasurfaces**<br>
+**[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**
 <br>
 
 ## \* IEEE APWCS
@@ -19,9 +19,11 @@ author_profile: true
 * Location: Singapore
 * Title: **Sparse Channel Estimation for Stacked Intelligent Metasurface-Assisted mmWave Communications**<br>
 **[Slides]**
+<br>
 
-## \* NUDT
-* Time: 2025.05.28
-* Location: Nanjing
-* Title: **Practical Deployment and Evolution of Intelligent Metasurfaces**<br>
-**[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**
+## \* RISTA
+* Time: 2024.06.28
+* Location: Online
+* Title: **Stacked Intelligent Metasurface for Signal Processing in the Wave Domain**<br>
+**[[Slides](https://jiancheng-an.github.io/files/RISTA_Jiancheng_20240628_homepage.pdf)]** &ensp; **[[video-CN](https://www.bilibili.com/video/BV1Tn4y1X7Nf/?spm_id_from=333.337.search-card.all.click&vd_source=784c62eb4bfdca164ca2785870b53335)]**
+<br>
