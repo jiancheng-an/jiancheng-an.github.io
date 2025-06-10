@@ -73,6 +73,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 
 ## \* Journal Reviewer
 * [IEEE Journal on Selected Areas in Communications](https://mc.manuscriptcentral.com/jsac-ieee) (IF: 13.8)
+* [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (IF: 10.9)
 * [IEEE Transactions on Wireless Communications](https://mc.manuscriptcentral.com/twc) (IF: 8.9)
 * [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot) (IF: 8.2)
 * [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (IF: 7.4)
