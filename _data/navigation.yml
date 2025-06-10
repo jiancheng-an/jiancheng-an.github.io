@@ -9,7 +9,7 @@
 
 main:
   - title: "Selected Papers"
-    url: /markdown/
+    url: /selected-papers/
     
   - title: "Publications"
     url: /publications/
