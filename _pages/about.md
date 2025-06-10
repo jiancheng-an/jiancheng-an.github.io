@@ -66,9 +66,16 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * IEEE PIMRC 2024/2025
 <br>
 
-## \* Reviewer
+## \* Conference Reviewer 
 * IJCNN 2025
 * ICASSP 2025
+<br>
+
+## \* Journal Reviewer
+* [IEEE Transactions on Wireless Communications](https://mc.manuscriptcentral.com/twc) (IF: 8.9)
+* [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (IF: 7.2)
+* [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (IF: 4.6)
+* [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) (IF: 3.4)
 <br>
 <br>
 <br>
