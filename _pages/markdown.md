@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /markdown/
+permalink: /selected-papers/
 author_profile: true
 
 ---
