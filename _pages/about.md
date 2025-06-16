@@ -78,6 +78,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot) (IF: 8.2)
 * [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (IF: 7.4)
 * [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (IF: 7.2)
+* [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (IF: 6.8)
 * [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (IF: 6.3)
 * [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (IF: 6.1)
 * [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 2.0)
