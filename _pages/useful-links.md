@@ -14,3 +14,5 @@ author_profile: true
 * [Grammarly](https://app.grammarly.com/?msockid=19cbf3a293df6e27162ae637929a6f46)
 * [Poe](https://poe.com/)
 * [Overleaf](https://www.overleaf.com/project)
+* [NTU Library](https://ntu-sp.primo.exlibrisgroup.com/discovery/search?vid=65NTU_INST:65NTU_INST)
+* [NSFC](https://grants.nsfc.gov.cn/pmpweb/login)
