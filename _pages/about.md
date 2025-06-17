@@ -87,6 +87,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [IEEE Communications Letters](https://mc.manuscriptcentral.com/comml-ieee) (IF: 3.7)
 * [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) (IF: 3.4)
 * [IEEE Signal Processing Letters](https://mc.manuscriptcentral.com/spl-ieee) (IF: 3.2)
+* [AEU - International Journal of Electronics and Communications](https://www.editorialmanager.com/aeue/Default.aspx) (IF: 3.0)
 * [Physical Communication](https://www.editorialmanager.com/phycom/default2.aspx) (IF: 2.0)
 * [Wireless Personal Communications](https://www.editorialmanager.com/wire/default.aspx) (IF: 1.9)
 * Discover Applied Sciences
