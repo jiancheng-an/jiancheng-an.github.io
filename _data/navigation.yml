@@ -22,3 +22,6 @@ main:
 
   - title: "News"
     url: /news/
+
+  - title: "Useful Links"
+    url: /useful-links/
