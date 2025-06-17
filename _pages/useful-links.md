@@ -6,4 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-* EDAS
+* [EDAS](https://edas.info/)
+* [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+* [Outlook](https://outlook.office365.com/mail/?bO=1)
+* [PDF Editor](https://www.ilovepdf.com/)
+* [LetPub](https://www.letpub.com.cn/index.php?page=./journalapp)
+* [Grammarly](https://app.grammarly.com/?msockid=19cbf3a293df6e27162ae637929a6f46)
+* [Poe](https://poe.com/)
+* [Overleaf](https://www.overleaf.com/project)
