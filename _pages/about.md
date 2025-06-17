@@ -81,7 +81,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (IF: 6.8)
 * [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (IF: 6.3)
 * [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (IF: 6.1)
-* [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 2.0)
+* [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 5.0)
 * [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (IF: 4.6)
 * [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 4.6)
 * [IEEE Communications Letters](https://mc.manuscriptcentral.com/comml-ieee) (IF: 3.7)
