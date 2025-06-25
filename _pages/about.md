@@ -87,6 +87,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (IF: 5.8)
 * [IEEE Transactions on Aerospace and Electronic Systems](https://mc.manuscriptcentral.com/taes) (IF: 5.7)
 * [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 5.5)
+* [Ad Hoc Networks](https://www.editorialmanager.com/adhoc/default2.aspx) (IF: 4.8)
 * [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 4.6)
 * [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (IF: 4.6)
 * [IEEE Communications Letters](https://mc.manuscriptcentral.com/comml-ieee) (IF: 4.4)
