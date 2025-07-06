@@ -99,6 +99,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [Fractal and Fractional](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 3.3)
 * [AEU - International Journal of Electronics and Communications](https://www.editorialmanager.com/aeue/Default.aspx) (IF: 3.2)
 * [Micromachines](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 3.0)
+* [Digital Signal Processing](https://www.editorialmanager.com/dsp/Default.aspx) (IF: 3.0)
 * [Information](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.9)
 * [Electronics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.6)
 * [Telecom](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.4)
