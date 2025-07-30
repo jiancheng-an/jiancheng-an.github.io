@@ -104,6 +104,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [Information](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.9)
 * [Electronics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.6)
 * [Telecom](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.4)
+* [Telecommunication Systems](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=7713484b-aa51-4060-8732-7a4cc2edcd3f&target_redirect_uri=https%3A%2F%2Fmy-profile.springernature.com%2F)
 * [Atmosphere](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.3)
 * [Mathematics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.2)
 * [Symmetry-Basel](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.2)
