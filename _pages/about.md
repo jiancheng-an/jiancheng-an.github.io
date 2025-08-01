@@ -113,6 +113,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [Wireless Personal Communications](https://www.editorialmanager.com/wire/default.aspx) (IF: 2.2)
 * [Entropy](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.0)
 * [Photonics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 1.9)
+* [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (IF: 1.8)
 * Discover Applied Sciences
 <br>
 <br>
