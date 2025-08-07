@@ -93,6 +93,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 * [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (IF: 4.6)
 * [IEEE Communications Letters](https://mc.manuscriptcentral.com/comml-ieee) (IF: 4.4)
 * [IEEE Signal Processing Letters](https://mc.manuscriptcentral.com/spl-ieee) (IF: 3.9)
+* [Scientific Reports](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=e67ae377-5489-440c-ae29-f80d3f3aed4e&target_redirect_uri=https%3A%2F%2Fmy-profile.springernature.com%2F) (IF: 3.9)
 * [Signal Processing](https://www.editorialmanager.com/sigpro/default.aspx) (IF: 3.6)
 * [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) (IF: 3.6)
 * [Future Internet](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 3.6)
