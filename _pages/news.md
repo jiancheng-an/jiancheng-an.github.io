@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2025.08.11 ----- A journal paper, co-authored with Dr. **Hong Niu** from Nanyang Technological University (NTU), Singapore, is accepted by IEEE Transactions on Wireless Communications.
 * 2025.07.31 ----- A conference paper, co-authored with Prof. **Geng Sun** from Jilin University, Changchun, China, is accepted by IEEE GLOBECOM 2025.
 * 2025.07.31 ----- A conference paper, co-authored with Dr. **Hosein Zarini** from Texas A&M University – Corpus Christi, Texas, USA, is accepted by IEEE GLOBECOM 2025.
 * 2025.07.31 ----- A conference paper, co-authored with Dr. **Zheao Li** from Nanyang Technological University (NTU), Singapore, is accepted by IEEE GLOBECOM 2025.
