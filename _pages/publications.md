@@ -9,6 +9,7 @@ author_profile: true
 # Journal
 ## \* YEAR 2025
 * [58] Z. Teng, H. Zhang, **J. An**, L. Gan and H. Li, "[Frequency invariant beamformer design exploiting SRV-constrained array response control](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
+**[arXiv]**
 * [57] Z. Teng, **J. An**, L. Gan, N. Al-Dhahir and Z. Han, "[Flexible intelligent metasurface for enhancing multi-target wireless sensing](https://ieeexplore.ieee.org/document/11060929)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
 **[arXiv]**
 * [56] G. Huang, **J. An**, L. Gan, D. Niyato, M. Debbah and T. J. Cui, "[Stacked intelligent metasurfaces for multi-modal semantic communications](https://ieeexplore.ieee.org/document/11038827)," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
