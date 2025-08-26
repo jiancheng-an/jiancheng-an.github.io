@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
-* [55] **J. An**, M. Debbah, T. J. Cui, Z. N. Chen and C. Yuen, "Emerging technologies in intelligent metasurfaces: Shaping the future of wireless communications," _IEEE Trans. Antennas Propag._, 2025, Early Access. **<font color=Blue>(Invited Paper)</font>**<br>
+* [55] **J. An**, M. Debbah, T. J. Cui, Z. N. Chen and C. Yuen, "[Emerging technologies in intelligent metasurfaces: Shaping the future of wireless communications](https://ieeexplore.ieee.org/document/11014597)," _IEEE Trans. Antennas Propag._, 2025, Early Access. **<font color=Blue>(Invited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2411.19754)]**
-* [54] H. Liu, **J. An**, X. Jia, L. Gan, G. K. Karagiannidis, B. Clerckx, M. Bennis, M. Debbah and T. J. Cui, "Stacked intelligent metasurfaces for wireless communications: Applications and challenges," _IEEE Wireless Commun._, 2025, Early Access.<br>
+* [54] H. Liu, **J. An**, X. Jia, L. Gan, G. K. Karagiannidis, B. Clerckx, M. Bennis, M. Debbah and T. J. Cui, "[Stacked intelligent metasurfaces for wireless communications: Applications and challenges](https://ieeexplore.ieee.org/document/11095320)," _IEEE Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2407.03566)]** &ensp; **[code]** &ensp; **[slides]** &ensp; **[post-EN]** &ensp; **[[post-CN](https://mp.weixin.qq.com/s/RwPLWAszx5YgWLwdHHDeSw)]** &ensp; **[video-EN]** &ensp; **[video-CN]**
 * [53] M. Liu, **J. An**, C. Huang and C. Yuen, "[Over-the-air ODE-inspired neural network for dual task-oriented semantic communications](https://ieeexplore.ieee.org/document/11003068)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2505.04970)]**
