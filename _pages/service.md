@@ -69,6 +69,7 @@ author_profile: true
 * [Photonics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 1.9)
 * [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (IF: 1.8)
 * [Turkish Journal of Electrical Engineering and Computer Sciences](https://www.editorialmanager.com/turkjelecengcompsci/Default.aspx) (IF: 1.5)
+* [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (IF: 6.4)
 * Discover Applied Sciences
 <br>
 <br>
