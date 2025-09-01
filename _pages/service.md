@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /services/
+permalink: /service/
 author_profile: true
 
 ---
