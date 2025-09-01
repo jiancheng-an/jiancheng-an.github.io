@@ -26,7 +26,7 @@ author_profile: true
 <br>
 
 ## \* 2019.09 -- 2023.06 &emsp; [Wangyang Xu](https://scholar.google.com/citations?user=Nug8x1UAAAAJ&hl=en&oi=ao) (Graduated)
-* W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024. **<font color=Blue>(WoS Highly Cited Paper)</font>**<br>
+* W. Xu, **J. An**, H. Li, L. Gan and C. Yuen, "[Algorithm-unrolling-based distributed optimization for RIS-assisted cell-free networks](https://ieeexplore.ieee.org/document/10158356)," _IEEE Internet Things J._, vol. 11, no. 1, pp. 944-957, Jan. 2024. **<font color=Blue>(ESI Highly Cited Paper)</font>**<br>
 * W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "[Time-varying channel prediction for RIS-assisted MU-MISO networks via deep learning](https://ieeexplore.ieee.org/document/9814839)," _IEEE Trans. Cogn. Commun. Netw._, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
 * W. Xu, **J. An**, C. Huang, L. Gan and C. Yuen, "[Deep reinforcement learning based on location-aware imitation environment for RIS-aided mmWave MIMO systems](https://ieeexplore.ieee.org/document/9779399)," _IEEE Wireless Commun. Lett._, vol. 11, no. 7, pp. 1493-1497, Jul. 2022.<br>
 * W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
