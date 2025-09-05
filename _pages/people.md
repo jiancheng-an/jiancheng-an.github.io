@@ -35,7 +35,7 @@ author_profile: true
 <br>
 
 # M.S. Students
-## \* 2024.09 -- Present &emsp; [Haoxian Niu](https://scholar.google.com.hk/citations?user=LbGlo44AAAAJ)
+## \* 2024.09 -- Present &emsp; [Haoxian Niu](https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao)
 * H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
 <br>
 
