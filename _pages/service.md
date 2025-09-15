@@ -44,6 +44,7 @@ author_profile: true
 * [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 4.6)
 * [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (IF: 4.6)
 * [IEEE Communications Letters](https://mc.manuscriptcentral.com/comml-ieee) (IF: 4.4)
+* [Electric Power Systems Research](https://www.editorialmanager.com/epsr/Default.aspx) (IF: 4.2)
 * [Cluster Computing](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (IF: 4.1)
 * [IEEE Signal Processing Letters](https://mc.manuscriptcentral.com/spl-ieee) (IF: 3.9)
 * [Scientific Reports](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (IF: 3.9)
