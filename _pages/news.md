@@ -1,4 +1,4 @@
----
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/05ebe470-948b-471b-87a9-f2e900506b49" />---
 layout: archive
 permalink: /news/
 author_profile: true
@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* 2025.09.13 ----- A journal paper, co-authored with Dr. [**Enyu Shi**](https://ieeexplore.ieee.org/author/37089342710) from Beijing Jiaotong University (BJTU), Beijing, China, is accepted by IEEE Transactions on Wireless Communications.
+* 2025.09.13 ----- 🌹 A journal paper, co-authored with Dr. [**Enyu Shi**](https://ieeexplore.ieee.org/author/37089342710) from Beijing Jiaotong University (BJTU), Beijing, China, is accepted by IEEE Transactions on Wireless Communications.
 * 2025.08.11 ----- A journal paper, co-authored with Dr. [**Hong Niu**](https://ieeexplore.ieee.org/author/37087225402) from Nanyang Technological University (NTU), Singapore, is accepted by IEEE Transactions on Wireless Communications.
 * 2025.07.31 ----- A conference paper, co-authored with Prof. [**Geng Sun**](https://ieeexplore.ieee.org/author/37086168175) from Jilin University, Changchun, China, is accepted by IEEE GLOBECOM 2025.
 * 2025.07.31 ----- A conference paper, co-authored with Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) from Texas A&M University – Corpus Christi, Texas, USA, is accepted by IEEE GLOBECOM 2025.
