@@ -1,4 +1,3 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/05ebe470-948b-471b-87a9-f2e900506b49" />---
 layout: archive
 permalink: /news/
 author_profile: true
