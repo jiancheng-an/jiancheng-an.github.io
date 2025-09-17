@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 * 2025.10.01 ----- ⭐ A doctoral student, Mr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215), successfully obtained a grant from the China Scholarship Council to conduct a one-year visiting study at Khalifa University, Abu Dhabi, United Arab Emirates!
+* 2025.09.17 ----- 🌹 A journal paper, co-authored with Dr. **Aole Ming** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
 * 2025.09.13 ----- 🌹 A journal paper, co-authored with Dr. [**Enyu Shi**](https://ieeexplore.ieee.org/author/37089342710) from Beijing Jiaotong University (BJTU), Beijing, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2025.08.11 ----- 🌹 A journal paper, co-authored with Dr. [**Hong Niu**](https://ieeexplore.ieee.org/author/37087225402) from Nanyang Technological University (NTU), Singapore, is accepted by IEEE Transactions on Wireless Communications!
 * 2025.07.31 ----- 🔥 A conference paper, co-authored with Prof. [**Geng Sun**](https://ieeexplore.ieee.org/author/37086168175) from Jilin University, Changchun, China, is accepted by IEEE GLOBECOM 2025!
