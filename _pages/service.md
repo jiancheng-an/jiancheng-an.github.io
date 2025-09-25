@@ -11,6 +11,11 @@ author_profile: true
 * 2025 - Present [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 5.5)
 <br>
 
+## \* Guest Editor
+* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (IF: 11.5)
+** [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered)
+<br>
+
 ## \* TPC Member
 * IEEE VTC2023-Fall
 * IEEE ICC 2024/2025
