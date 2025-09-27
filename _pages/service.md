@@ -60,6 +60,7 @@ author_profile: true
 * [AEU - International Journal of Electronics and Communications](https://www.editorialmanager.com/aeue/Default.aspx) (IF: 3.2)
 * [Micromachines](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 3.0)
 * [Digital Signal Processing](https://www.editorialmanager.com/dsp/Default.aspx) (IF: 3.0)
+* [Photonics and Nanostructures - Fundamentals and Applications](https://www.editorialmanager.com/pnfa/Default.aspx) (IF: 2.9)
 * [Information](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.9)
 * [Electronics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.6)
 * [Telecom](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 2.4)
