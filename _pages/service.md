@@ -17,7 +17,7 @@ author_profile: true
 
 ## \* TPC Member
 * IEEE VTC2023-Fall
-* IEEE ICC 2024/2025
+* IEEE ICC 2024/2025/2026
 * IEEE WCNC 2024/2025/2026
 * IEEE PIMRC 2024/2025
 <br>
