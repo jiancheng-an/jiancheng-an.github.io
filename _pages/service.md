@@ -38,6 +38,7 @@ author_profile: true
 * [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (IF: 8.0)
 * [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (IF: 7.1)
 * [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (IF: 7.0)
+* [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (IF: 6.4)
 * [IEEE Open Journal of the Communications Society](https://mc.manuscriptcentral.com/oj-coms) (IF: 6.1)
 * [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (IF: 6.1)
 * [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (IF: 5.8)
@@ -75,7 +76,6 @@ author_profile: true
 * [Photonics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (IF: 1.9)
 * [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (IF: 1.8)
 * [Turkish Journal of Electrical Engineering and Computer Sciences](https://www.editorialmanager.com/turkjelecengcompsci/Default.aspx) (IF: 1.5)
-* [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (IF: 6.4)
 * Discover Applied Sciences
 <br>
 <br>
