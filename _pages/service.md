@@ -46,6 +46,7 @@ author_profile: true
 * [IEEE Transactions on Signal Processing](https://mc.manuscriptcentral.com/tsp-ieee) (IF: 5.8)
 * [IEEE Transactions on Aerospace and Electronic Systems](https://mc.manuscriptcentral.com/taes) (IF: 5.7)
 * [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 5.5)
+* [IEEE Transactions on Network and Service Management](https://mc.manuscriptcentral.com/tnsm) (IF: 5.4)
 * [Ad Hoc Networks](https://www.editorialmanager.com/adhoc/default2.aspx) (IF: 4.8)
 * [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (IF: 4.6)
 * [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (IF: 4.6)
