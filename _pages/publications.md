@@ -12,7 +12,7 @@ author_profile: true
 **[arXiv]**
 * [57] Z. Teng, **J. An**, L. Gan, N. Al-Dhahir and Z. Han, "[Flexible intelligent metasurface for enhancing multi-target wireless sensing](https://ieeexplore.ieee.org/document/11060929)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
 **[arXiv]**
-* [56] G. Huang, **J. An**, L. Gan, D. Niyato, M. Debbah and T. J. Cui, "[Stacked intelligent metasurfaces for multi-modal semantic communications](https://ieeexplore.ieee.org/document/11038827)," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
+* [56] G. Huang, **J. An**, L. Gan, D. Niyato, M. Debbah and T. J. Cui, "[Stacked intelligent metasurfaces for multi-modal semantic communications](https://ieeexplore.ieee.org/document/11038827)," _IEEE Wireless Commun. Lett._, vol. 14, no. 9, pp. 2828-2832, Sept. 2025.<br>
 **[arXiv]**
 * [55] **J. An**, M. Debbah, T. J. Cui, Z. N. Chen and C. Yuen, "[Emerging technologies in intelligent metasurfaces: Shaping the future of wireless communications](https://ieeexplore.ieee.org/document/11014597)," _IEEE Trans. Antennas Propag._, 2025, Early Access. **<font color=Blue>(Invited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2411.19754)]**
