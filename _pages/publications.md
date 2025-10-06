@@ -26,7 +26,7 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2408.04837)]**
 * [50] S. U. Hassan, Z. Ye, **J. An** and M. B. Hossen, "[Sparse channel estimation and passive beamforming with practical phase shift model for IRS-assisted OFDM systems](https://www.sciencedirect.com/science/article/abs/pii/S0165168425001112)," _Signal Process._, vol. 234, Sept. 2025.<br>
 **[arXiv]**
-* [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, vol. 24, no. 7, pp. 5525-5538, Jul. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.02687)]**
 * [48] E. Shi, J. Zhang, **J. An**, G. Zhang, Z. Liu, C. Yuen and B. Ai, "[Joint AP-UE association and precoding for SIM-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10918608)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2409.12870)]**
