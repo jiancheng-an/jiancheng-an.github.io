@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2025.10.08 ----- ⭐ I am very honored to be promoted to an IEEE Senior Member!
 * 2025.10.01 ----- ⭐ A doctoral student, Mr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215), successfully obtained a grant from the China Scholarship Council to conduct a one-year visiting study at Khalifa University, Abu Dhabi, United Arab Emirates!
 * 2025.09.30 ----- 🌹 A journal paper, co-authored with Dr. **Hanwen Hu** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
 * 2025.09.17 ----- 🌹 A journal paper, co-authored with Dr. **Aole Ming** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
