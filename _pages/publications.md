@@ -34,7 +34,7 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2502.16478)]**
 * [46] Z. Yu, **J. An**, L. Gan, H. Li and S. Chatzinotas, "[Weighted codebook scheme for RIS-assisted point-to-point MIMO communications](https://ieeexplore.ieee.org/document/10922205)," _IEEE Wireless Commun. Lett._, vol. 14, no. 5, pp. 1571-1575, May 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2503.06944)]**
-* [45] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "[Flexible antenna arrays for wireless communications: Modeling and performance evaluation](https://ieeexplore.ieee.org/document/10910066)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* [45] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "[Flexible antenna arrays for wireless communications: Modeling and performance evaluation](https://ieeexplore.ieee.org/document/10910066)," _IEEE Trans. Wireless Commun._, vol. 24, no. 6, pp. 4937-4951, Jun. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2407.04944)]**
 * [44] Q. Li, M. El-Hajjar, C. Xu, **J. An**, C. Yuen and L. Hanzo, "[Stacked intelligent metasurface-based transceiver design for near-field wideband systems](https://ieeexplore.ieee.org/document/10900449)," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.11182)]** &ensp; **[code]** &ensp; **[slides]** &ensp; **[post-EN]** &ensp; **[[post-CN](https://mp.weixin.qq.com/s/TOUOnrcS-Xkqex1Nnmleaw)]** &ensp; **[video-EN]** &ensp; **[video-CN]**
