@@ -28,7 +28,7 @@ author_profile: true
 **[arXiv]**
 * [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, vol. 24, no. 7, pp. 5525-5538, Jul. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2309.02687)]**
-* [48] E. Shi, J. Zhang, **J. An**, G. Zhang, Z. Liu, C. Yuen and B. Ai, "[Joint AP-UE association and precoding for SIM-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10918608)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* [48] E. Shi, J. Zhang, **J. An**, G. Zhang, Z. Liu, C. Yuen and B. Ai, "[Joint AP-UE association and precoding for SIM-aided cell-free massive MIMO systems](https://ieeexplore.ieee.org/document/10918608)," _IEEE Trans. Wireless Commun._, vol. 24, no. 6, pp. 5352-5367, Jun. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2409.12870)]**
 * [47] **J. An**, Z. Han, D. Niyato, M. Debbah, C. Yuen and L. Hanzo, "[Flexible intelligent metasurfaces for enhancing MIMO communications](https://ieeexplore.ieee.org/document/10922153)," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2502.16478)]**
