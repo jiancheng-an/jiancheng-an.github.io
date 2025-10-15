@@ -6,12 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-# YEAR 2025
-## \* 
-* Time: 2025.05.28
-* Location: Nanjing
-* Title: **Practical Deployment and Evolution of Intelligent Metasurfaces**, NUDT<br>
-**[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**
+* 2025.05.28, **Practical Deployment and Evolution of Intelligent Metasurfaces**, NUDT, Nanjing<br>
+**[[Slides](https://jiancheng-an.github.io/files/NUDT_Talk_20250528_homepage.pdf)]**<br>
 * 2024.08.22, Sparse Channel Estimation for Stacked Intelligent Metasurface-Assisted mmWave Communications, IEEE APWCS, Singapore<br>
 **[Slides]**<br>
 
