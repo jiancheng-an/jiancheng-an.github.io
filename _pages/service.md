@@ -34,6 +34,7 @@ author_profile: true
 * (IF: 10.7) [IEEE Transactions on Wireless Communications](https://mc.manuscriptcentral.com/twc)
 * (IF: 09.2) [IEEE Transactions on Mobile Computing](https://mc.manuscriptcentral.com/tmc-cs)
 * (IF: 08.9) [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot)
+* (IF: 08.4) [IEEE Transactions on Intelligent Transportation Systems](https://mc.manuscriptcentral.com/t-its)
 * (IF: 08.3) [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom)
 * (IF: 08.2) [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee)
 * (IF: 08.0) [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee)
