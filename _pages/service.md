@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 # Selected Professional Activities
 ## \* Editor
+* 2025.10 - Present [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (IF: 8.3)
 * 2025.09 - Present [IEEE Open Journal of the Communications Society](https://mc.manuscriptcentral.com/oj-coms) (IF: 6.1)
 * 2025.09 - Present [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 5.5)
 <br>
