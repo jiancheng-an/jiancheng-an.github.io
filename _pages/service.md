@@ -39,6 +39,7 @@ author_profile: true
 * (IF: 08.3) [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (EiC: Prof. George K. Karagiannidis)
 * (IF: 08.2) [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee) (EiC: Prof. Rose Qingyang Hu)
 * (IF: 08.0) [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (EiC: Prof. Luisa Verdoliva)
+* (IF: 08.0) [Engineering Applications of Artificial Intelligence](https://www.editorialmanager.com/eaai/Default.aspx) (EiC: Prof. Patrick Siarry)
 * (IF: 07.9) [IEEE Transactions on Network Science and Engineering](https://mc.manuscriptcentral.com/tnse-cs) (EiC: Prof. Dusit Niyato)
 * (IF: 07.1) [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (EiC: Prof. 
 Abbas Jamalipour)
