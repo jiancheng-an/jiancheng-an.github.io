@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [04] 2025.10.28, DLUT, Dalian, Host: Prof. [Nan Zhao](https://scholar.google.com/citations?user=Xq8A1xcAAAAJ&hl=en&authuser=2&oi=ao)<br>
+* [05] 2025.10.28, DLUT, Dalian, Host: Prof. [Nan Zhao](https://scholar.google.com/citations?user=Xq8A1xcAAAAJ&hl=en&authuser=2&oi=ao)<br>
 **Stacked Intelligent Metasurfaces (SIM) Based Electromagnetic Domain Signal Processing** **[[Slides](https://jiancheng-an.github.io/files/DLUT_20251028_Jiancheng.pdf)]**<br>
 * [04] 2025.10.13, RISTA, Online, Host: Prof. [Jiayi Zhang](https://scholar.google.com/citations?user=ULgz3noAAAAJ&hl=en&oi=ao)<br>
 **Stacked Intelligent Metasurfaces (SIM) and Flexible Intelligent Metasurfaces (FIM)** **[[Slides](https://jiancheng-an.github.io/files/RISTA_20251013_Jiancheng.pdf)]** &ensp; **[[video-CN](https://www.bilibili.com/video/BV1fs4azzEMj/?spm_id_from=333.337.search-card.all.click&vd_source=23cb7b7e7e95a9056b35d4a35336731e)]**<br>
