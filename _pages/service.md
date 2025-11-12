@@ -26,7 +26,7 @@ author_profile: true
 
 ## \* Conference Reviewer 
 * IJCNN 2025
-* ICASSP 2025
+* ICASSP 2025/2026
 <br>
 
 ## \* Journal Reviewer
