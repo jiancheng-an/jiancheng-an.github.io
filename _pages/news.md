@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2025.11.15 ----- 🌹 A journal paper, co-authored with Dr. [**Junjie Fang**](https://ieeexplore.ieee.org/author/37090044411) from Xi'an Jiaotong University, Xi'an, China, is accepted by IEEE Transactions on Communications!
 * 2025.10.31 ----- 🌹 A journal paper, co-authored with Dr. **Xinyi Zhou** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Signal Processing Letters!
 * 2025.10.20 ----- 🌹 A journal paper, co-authored with Dr. **Zihao Zhao** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
 * 2025.10.20 ----- 🌹 A journal paper, co-authored with Dr. [**Songjie Yang**](https://ieeexplore.ieee.org/author/37089533389) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Wireless Communications!
