@@ -8,7 +8,21 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
-* [58] H. Niu, **J. An**, T. Wu, J. Chen, Y. Zhao, Y. L. Guan, M. Di Renzo, M. Debbah, G. K. Karagiannidis, H. V. Poor and C. Yuen, "[Introducing meta-fiber into stacked intelligent metasurfaces for MIMO communications: A low-complexity design with only two layers](https://ieeexplore.ieee.org/document/11142953)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+* [66] J. Fang, C. Zhang, **J. An**, H. Yu, Q. Wu, M. Debbah and C. Yuen, "Stacked intelligent metasurface assisted multiuser communications: From a rate fairness perspective," _IEEE Trans. Commun._, 2025, Early Access.<br>
+**[arXiv]**
+* [65] X. Zhou, Z. Teng, **J. An** and L. Gan, "[DOA estimation for time-modulated linear array based on Golay-Paired Hadamard matrix](https://ieeexplore.ieee.org/document/11230626)," _IEEE Signal Process. Lett._, 2025, Early Access.<br>
+**[arXiv]**
+* [64] S. Yang, Z. Wan, B. Ning, W. Mei, **J. An**, Y. C. Eldar and C. Yuen, "[Flexible intelligent metasurface-aided wireless communications: Architecture and performance](https://ieeexplore.ieee.org/document/11230243)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+**[arXiv]**
+* [63] Z. Zhao, **J. An**, J. Park, L. Gan, H. Li and C. Yuen, "[Robust beamfocusing design for near-field secure communications](https://ieeexplore.ieee.org/document/11222817)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
+**[arXiv]**
+* [62] H. Hu, **J. An**, L. Gan and N. Al-Dhahir, "[Flexible intelligent metasurface for reconfiguring radio environments](https://ieeexplore.ieee.org/document/11193866)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
+**[arXiv]**
+* [61] A. Ming, **J. An**, L. Gan, A. Nallanathan and N. Al-Dhahir, "[Flexible intelligent metasurface for mitigating beam squint in wideband communications](https://ieeexplore.ieee.org/document/11184469)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
+**[arXiv]**
+* [60] E. Shi, J. Zhang, **J. An**, M. Di Renzo, B. Ai and C. Yuen, "[Energy-efficient SIM-assisted communications: How many layers do we need?](https://ieeexplore.ieee.org/document/11182313)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+**[arXiv]**
+* [59] H. Niu, **J. An**, T. Wu, J. Chen, Y. Zhao, Y. L. Guan, M. Di Renzo, M. Debbah, G. K. Karagiannidis, H. V. Poor and C. Yuen, "[Introducing meta-fiber into stacked intelligent metasurfaces for MIMO communications: A low-complexity design with only two layers](https://ieeexplore.ieee.org/document/11142953)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
 **[arXiv]**
 * [58] Z. Teng, H. Zhang, **J. An**, L. Gan and H. Li, "[Frequency invariant beamformer design exploiting SRV-constrained array response control](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
 **[arXiv]**
