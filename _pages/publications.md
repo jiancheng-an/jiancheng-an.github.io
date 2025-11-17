@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
+* [58] H. Niu, **J. An**, T. Wu, J. Chen, Y. Zhao, Y. L. Guan, M. Di Renzo, M. Debbah, G. K. Karagiannidis, H. V. Poor and C. Yuen, "[Introducing meta-fiber into stacked intelligent metasurfaces for MIMO communications: A low-complexity design with only two layers](https://ieeexplore.ieee.org/document/11142953)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+**[arXiv]**
 * [58] Z. Teng, H. Zhang, **J. An**, L. Gan and H. Li, "[Frequency invariant beamformer design exploiting SRV-constrained array response control](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
 **[arXiv]**
 * [57] Z. Teng, **J. An**, L. Gan, N. Al-Dhahir and Z. Han, "[Flexible intelligent metasurface for enhancing multi-target wireless sensing](https://ieeexplore.ieee.org/document/11060929)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
