@@ -145,6 +145,20 @@ author_profile: true
 
 # Conference
 ## \* YEAR 2025
+* [31] X Li, M. Liu, L. Wei, **J. An**, M. Debbah and C. Yuen, "[WirelessMathBench: A mathematical modeling benchmark for LLMs in wireless communications](https://aclanthology.org/2025.findings-acl.573/)," _Findings of the Association for Computational Linguistics (ACL)_, Vienna, Austria, 2025, pp. 10984-11009.<br>
+**[arXiv]**
+* [30] M. Liu, X. Li, **J. An** and C. Yuen, "[Onboard terrain classification via stacked intelligent metasurface-diffractive deep neural networks from SAR level-0 raw data](https://onboradsim.github.io/)," _ICLR ML4RS Workshop_, Singapore, 2025.<br>
+**[arXiv]**
+* [29] H. Zarini, S. M. Kazemi, **J. An**, M. Sookhak and J. Choi, "[On the orchestration of SIM and UAV](https://ieeexplore.ieee.org/document/11161971)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2913-2918.<br>
+**[arXiv]**
+* [28] M. Amiri, S. Javadi, H. Zarini, M. R. Mili, **J. An**, M. Sookhak and I. Krikidis, "[Stacked intelligent metasurface for simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/11161741)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 4583-4588.<br>
+**[arXiv]**
+* [27] X. Yao, **J. An**, L. Gan, B. Clerckx and M. Di Renzo, "[Sparse Bayesian learning based channel estimation for SIM-assisted near-field communications](https://ieeexplore.ieee.org/document/11161340)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1760-1765.<br>
+**[arXiv]**
+* [26] H. Liu, **J. An**, Q. Ma, L. Gan, M. Bennis, M. Debbah and T. J. Cui, "[A novel hybrid optical-electronic neural network approach to task-oriented semantic communications](https://ieeexplore.ieee.org/document/11160907)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2418-2423.<br>
+**[arXiv]**
+* [25] **J. An**, C. Yuen, M. Debbah and L. Hanzo, "[Flexible intelligent metasurfaces for enhanced MIMO communications](https://ieeexplore.ieee.org/document/11160822)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1784-1789.<br>
+**[arXiv]**
 * [24] S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]** &ensp; **[[video-EN](https://www.youtube.com/watch?v=i5n0gYW3IIg)]**
 * [23] L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "[Identical-delay based 2-D DOA and frequency joint estimation with sub-Nyquist sampling for URA](https://ieeexplore.ieee.org/document/10889441)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
