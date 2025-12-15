@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
+* [69] C. Jiang, H. Yuan, C. Zhang, **J. An**, C. Huang and C. Yuen, "Stacked intelligent metasurface-enabled satellite integrated sensing and communications systems," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
+**[arXiv]**
+* [68] J. Jiang, **J. An**, L. Gan, N. Al-Dhahir, A. Nallanathan and Z. Han, "[Enhanced channel estimation for flexible intelligent metasurface-aided communication systems](https://ieeexplore.ieee.org/document/11270240)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
+**[arXiv]**
+* [67] Z. Li, **J. An** and C. Yuen, "[Stacked intelligent metasurfaces-enhanced MIMO OFDM wideband communication systems](https://ieeexplore.ieee.org/document/11276870)," _IEEE Trans. Wireless Commun._, 2025, Early Access.<br>
+**[arXiv]**
 * [66] J. Fang, C. Zhang, **J. An**, H. Yu, Q. Wu, M. Debbah and C. Yuen, "Stacked intelligent metasurface assisted multiuser communications: From a rate fairness perspective," _IEEE Trans. Commun._, 2025, Early Access.<br>
 **[arXiv]**
 * [65] X. Zhou, Z. Teng, **J. An** and L. Gan, "[DOA estimation for time-modulated linear array based on Golay-Paired Hadamard matrix](https://ieeexplore.ieee.org/document/11230626)," _IEEE Signal Process. Lett._, 2025, Early Access.<br>
