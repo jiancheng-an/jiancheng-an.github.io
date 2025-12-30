@@ -22,7 +22,7 @@ author_profile: true
 * IEEE VTC2023-Fall
 * IEEE ICC 2024/2025/2026
 * IEEE WCNC 2024/2025/2026
-* IEEE PIMRC 2024/2025
+* IEEE PIMRC 2024/2025/2026
 <br>
 
 ## \* Conference Reviewer 
