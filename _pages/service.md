@@ -84,6 +84,7 @@ Abbas Jamalipour)
 * (IF: 02.0) [Entropy](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Kevin H. Knuth)
 * (IF: 01.9) [Photonics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Nelson Tansu)
 * (IF: 01.8) [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (EiC: Prof. Mohammad S. Obaidat)
+* (IF: 01.7) [CMC-Computers Materials & Continua](https://ijs.tspsubmission.com/login) (EiC: Prof. Ankit Agrawal)
 * (IF: 01.5) [Turkish Journal of Electrical Engineering and Computer Sciences](https://www.editorialmanager.com/turkjelecengcompsci/Default.aspx) (EiC: Prof. Muhammet Uzuntarla)
 * Discover Applied Sciences
 <br>
