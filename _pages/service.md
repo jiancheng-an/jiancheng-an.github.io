@@ -25,6 +25,9 @@ author_profile: true
 * IEEE PIMRC 2024/2025/2026
 <br>
 
+## \* Area Chair
+* IEEE International Conference on Multimedia & Expo (ICME) 2026
+
 ## \* Conference Reviewer 
 * IJCNN 2025
 * ICASSP 2025/2026
