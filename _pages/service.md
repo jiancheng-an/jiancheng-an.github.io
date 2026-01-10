@@ -23,6 +23,7 @@ author_profile: true
 * IEEE ICC 2024/2025/2026
 * IEEE WCNC 2024/2025/2026
 * IEEE PIMRC 2024/2025/2026
+* IEEE GLOBECOM 2026
 <br>
 
 ## \* Area Chair
