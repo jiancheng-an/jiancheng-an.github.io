@@ -15,7 +15,7 @@ author_profile: true
 <br>
 
 ## \* Guest Editor
-* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered)
+* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered)<br>
 ** Guest Editor: Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
 <br>
 
