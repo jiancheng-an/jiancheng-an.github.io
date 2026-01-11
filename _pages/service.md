@@ -28,8 +28,7 @@ author_profile: true
 <br>
 
 ## \* Special Session
-* 2026.08.03 - 2026.08.06 <br>
-  IEEE 14th Asia-Pacific Conference on Antennas and Propagation <br>
+* 2026.08.03 - 2026.08.06, [IEEE 14th Asia-Pacific Conference on Antennas and Propagation](https://apcap2026.org/index.html) <br>
   Title: Stacked Intelligent Metasurface-Based Electromagnetic-Domain Signal Processing <br>
   Chair: Jiancheng An, Peiqin Liu, Lu Gan, Merouane Debbah
 <br>
