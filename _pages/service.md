@@ -15,8 +15,8 @@ author_profile: true
 <br>
 
 ## \* Guest Editor
-* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered)<br>
-Guest Editor: Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
+* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered) <br>
+  Guest Editor: Jiancheng An, Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
 <br>
 
 ## \* TPC Member
@@ -27,8 +27,15 @@ Guest Editor: Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
 * IEEE GLOBECOM 2026
 <br>
 
+## \* Special Session
+* 2026.08.03 IEEE 14th Asia-Pacific Conference on Antennas and Propagation <br>
+  Title: Stacked Intelligent Metasurface-Based Electromagnetic-Domain Signal Processing <br>
+  Chair: Jiancheng An, Peiqin Liu, Lu Gan, Merouane Debbah
+<br>
+
 ## \* Area Chair
 * IEEE International Conference on Multimedia & Expo (ICME) 2026
+<br>
 
 ## \* Conference Reviewer 
 * IJCNN 2025
