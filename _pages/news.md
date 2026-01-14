@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* 2025.11.19 ----- 🌹 A journal paper, co-authored with Dr. [**Hetong Wang**](https://ieeexplore.ieee.org/author/37085828544) from Beijing University of Posts and Telecommunications (BUPT), Beijing, China, is accepted by IEEE Transactions on Wireless Communicat
+* 2025.11.19 ----- 🌹 A journal paper, co-authored with Dr. [**Hetong Wang**](https://ieeexplore.ieee.org/author/37085828544) from Beijing University of Posts and Telecommunications (BUPT), Beijing, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2025.12.26 ----- 🌹 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) from Hangzhou Normal University, Hangzhou, China, is accepted by IEEE Internet of Things Journal!
 * 2025.11.27 ----- 🌹 A journal paper, co-authored with Dr. [**Chengjun Jiang**](https://ieeexplore.ieee.org/author/37088883094) from Xidian University, Xi'an, China, is accepted by IEEE Wireless Communications Letters!
 * 2025.11.20 ----- 🌹 A journal paper, co-authored with Dr. **Jinyue Jiang** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
