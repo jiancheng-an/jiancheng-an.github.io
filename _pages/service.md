@@ -43,6 +43,7 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
+* (IF: 46.7) [IEEE Communications Surveys & Tutorials](https://mc.manuscriptcentral.com/comst-ieee) (EiC: Prof. Trung Q. Duong)
 * (IF: 17.2) [IEEE Journal on Selected Areas in Communications](https://mc.manuscriptcentral.com/jsac-ieee) (EiC: Prof. Petar Popovski)
 * (IF: 11.5) [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (EiC: Prof. Nirwan Ansari)
 * (IF: 10.7) [IEEE Transactions on Wireless Communications](https://mc.manuscriptcentral.com/twc) (EiC: Prof. Vincent Wong)
