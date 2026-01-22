@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2026.01.22 ----- 🌹 A journal paper, co-authored with Dr. [**Hongyang Pan**](https://ieeexplore.ieee.org/author/37089192759) from Dalian Maritime University, Dalian, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2026.01.19 ----- 🔥 A conference paper, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE ICC 2026!
 * 2026.01.19 ----- 🔥 A conference paper, co-authored with Dr. **Jinyue Jiang** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE ICC 2026!
 * 2026.01.14 ----- 🔥 A conference paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) from Hangzhou Normal University, Hangzhou, China, is accepted by IEEE WCNC 2026!
