@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [05] 2025.12.26, HUST, Wuhan, Host: Prof. [Caiming Qiu](https://scholar.google.com/citations?user=FTLNXX8AAAAJ&hl=en&oi=sra)<br>
+* [09] 2025.12.26, HUST, Wuhan, Host: Prof. [Caiming Qiu](https://scholar.google.com/citations?user=FTLNXX8AAAAJ&hl=en&oi=sra)<br>
 **Stacked Intelligent Metasurfaces (SIM) Based Signal Processing in the Electromagnetic Domain** **[[Slides](https://jiancheng-an.github.io/files/20251226_HUST_SIM.pdf)]**<br>
-* [05] 2025.12.25, HUST, Wuhan, Host: Prof. [Gui Zhou](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=en&oi=ao)<br>
+* [08] 2025.12.25, HUST, Wuhan, Host: Prof. [Gui Zhou](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=en&oi=ao)<br>
 **Stacked Intelligent Metasurfaces (SIM) and Flexbile Intelligent Metasurfaces (FIM)** **[[Slides](https://jiancheng-an.github.io/files/20251225_HUST_SIMandFIM.pdf)]**<br>
-
-
+* [07] 2025.12.23, USTC, Hefei, Host: Prof. [Chen Gong](https://ieeexplore.ieee.org/author/37085365996)<br>
+**Stacked Intelligent Metasurfaces (SIM) Based Signal Processing in the Electromagnetic Domain** **[[Slides](https://jiancheng-an.github.io/files/20251223_USTC_SIM.pdf)]**<br>
+* [06] 2025.12.18, Fudan University, Online, Host: Prof. [Yue Gao](https://scholar.google.com/citations?user=VCFRT_sAAAAJ&hl=en&oi=ao)<br>
+**Stacked Intelligent Metasurfaces (SIM) Based Signal Processing in the Electromagnetic Domain** **[[Slides](https://jiancheng-an.github.io/files/20251218_Fudan_SIM.pdf)]**<br>
 * [05] 2025.10.28, DLUT, Dalian, Host: Prof. [Nan Zhao](https://scholar.google.com/citations?user=Xq8A1xcAAAAJ&hl=en&authuser=2&oi=ao)<br>
 **Stacked Intelligent Metasurfaces (SIM) Based Electromagnetic Domain Signal Processing** **[[Slides](https://jiancheng-an.github.io/files/DLUT_20251028_Jiancheng.pdf)]**<br>
 * [04] 2025.10.13, RISTA, Online, Host: Prof. [Jiayi Zhang](https://scholar.google.com/citations?user=ULgz3noAAAAJ&hl=en&oi=ao)<br>
