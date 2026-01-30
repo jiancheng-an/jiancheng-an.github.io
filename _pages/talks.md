@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [05] 2025.12.26, HUST, Wuhan, Host: Prof. [Caiming Qiu](https://scholar.google.com/citations?user=FTLNXX8AAAAJ&hl=en&oi=sra)<br>
+**Stacked Intelligent Metasurfaces (SIM) Based Signal Processing in the Electromagnetic Domain** **[[Slides](https://jiancheng-an.github.io/files/20251226_HUST_SIM.pdf)]**<br>
+
+
+
 * [05] 2025.10.28, DLUT, Dalian, Host: Prof. [Nan Zhao](https://scholar.google.com/citations?user=Xq8A1xcAAAAJ&hl=en&authuser=2&oi=ao)<br>
 **Stacked Intelligent Metasurfaces (SIM) Based Electromagnetic Domain Signal Processing** **[[Slides](https://jiancheng-an.github.io/files/DLUT_20251028_Jiancheng.pdf)]**<br>
 * [04] 2025.10.13, RISTA, Online, Host: Prof. [Jiayi Zhang](https://scholar.google.com/citations?user=ULgz3noAAAAJ&hl=en&oi=ao)<br>
