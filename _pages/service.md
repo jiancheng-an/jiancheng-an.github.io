@@ -105,6 +105,7 @@ Abbas Jamalipour)
 * (IF: 01.5) [Turkish Journal of Electrical Engineering and Computer Sciences](https://www.editorialmanager.com/turkjelecengcompsci/Default.aspx) (EiC: Prof. Muhammet Uzuntarla)
 * [Engineering Technology & Applied Science Research](https://etasr.com/index.php/ETASR/login)
 * Discover Applied Sciences
+* Frontiers in Communications and Networks
 <br>
 <br>
 <br>
