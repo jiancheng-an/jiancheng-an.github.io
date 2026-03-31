@@ -15,6 +15,8 @@ author_profile: true
 <br>
 
 ## \* Guest Editor
+* 2027.01 [MDPI Magnetism](https://www.mdpi.com/journal/magnetism): [The Next Evolution of Electromagnetic Metasurfaces: Architectures, Functionalities and Applications](https://www.mdpi.com/journal/magnetism/special_issues/047OM9Q6Q2) <br>
+  Guest Editor: Yashuai Cao, Ke Wang, Jiancheng An, Xu Shi
 * 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered) <br>
   Guest Editor: Jiancheng An, Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
 <br>
