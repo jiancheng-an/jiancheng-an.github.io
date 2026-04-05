@@ -50,4 +50,5 @@ author_profile: true
 * 2025.06.05 ----- 🔥 A conference paper, co-authored with Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) from Texas A&M University – Corpus Christi, Texas, USA, is accepted by IEEE PIMRC 2025!
 * 2025.06.01 ----- 🔥 A conference paper, co-authored with Dr. **Hanwen Hu** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE VTC Fall!
 * 2025.05.16 ----- 🔥 A conference paper, co-authored with Dr. [**Xin Li**](https://ieeexplore.ieee.org/author/37088526395) from Nanyang Technological University (NTU), Singapore, is accepted by ACL Findings!
+* 2025.03.03 ----- 🔥 A conference paper, co-authored with Dr. [**Mengbing Liu**](https://ieeexplore.ieee.org/author/37089676982) from Nanyang Technological University (NTU), Singapore, is accepted by ICLR2025!
 * 2023.12.21 ----- 🌹 A journal paper, co-authored with Prof. [**Naveed Ul Hassan**](https://ieeexplore.ieee.org/author/37530376200) from Lahore University of Management Sciences (LUMS), Lahore, Pakistan, is accepted by IEEE Open Journal of the Communications Society!
