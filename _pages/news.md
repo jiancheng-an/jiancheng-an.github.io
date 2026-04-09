@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2026.04.09 ----- 🔥 A conference paper, co-authored with Dr. [**Songjie Yang**](https://ieeexplore.ieee.org/author/37089533389) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE ISCC 2026](https://ieee-iscc.computer.org/2026/)!
 * 2026.03.26 ----- 🌹 A journal paper, co-authored with Dr. [**Yingzhe Hui**](https://ieeexplore.ieee.org/author/759718190729086) from Harbin Institute of Technology, Harbin, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2026.02.25 ----- 🌹 A journal paper, co-authored with Dr. [**Kuranage Roche Rayan Ranasinghe**](https://ieeexplore.ieee.org/author/548251089048799) from Constructor University, Bremen, Germany, is accepted by IEEE Transactions on Wireless Communications!
 * 2026.02.12 ----- 🌹 A journal paper, co-authored with Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) from Texas A&M University – Corpus Christi, Texas, USA, is accepted by IEEE Transactions on Vehicular Technology!
