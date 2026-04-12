@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 # Journal
 ## \* YEAR 2025
+* S. Chen, Y. Hui, Y. Qin, C. Su, **J. An**, W. Meng and C. Yuen, "[Stacked intelligent metasurfaces-enabled transceiver: Functional coding and data-enhanced deep unfolding detection](https://ieeexplore.ieee.org/document/11476847)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 14970-14986, 2026.<br>
+**[arXiv]**
 * [69] C. Jiang, H. Yuan, C. Zhang, **J. An**, C. Huang and C. Yuen, "Stacked intelligent metasurface-enabled satellite integrated sensing and communications systems," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
 **[arXiv]**
 * [68] J. Jiang, **J. An**, L. Gan, N. Al-Dhahir, A. Nallanathan and Z. Han, "[Enhanced channel estimation for flexible intelligent metasurface-aided communication systems](https://ieeexplore.ieee.org/document/11270240)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
