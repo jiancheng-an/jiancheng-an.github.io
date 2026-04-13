@@ -310,7 +310,7 @@ author_profile: true
 **[arXiv]**
 <br>
 
-# \* YEAR 2018
+### YEAR 2018
 * [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
 **[arXiv]**
 <br>
