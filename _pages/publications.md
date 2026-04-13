@@ -12,6 +12,12 @@ author_profile: true
 **[arXiv]**
 * K. R. R. Ranasinghe, **J. An**, I. A. M. Sandoval, H. S. Rou, G. T. F. de Abreu, C. Yuen and M. Debbah, "[Flexible intelligent metasurfaces in high-mobility MIMO integrated sensing and communications](https://ieeexplore.ieee.org/document/11424169)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 13319-13335, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2507.18793)]**
+* A. Mohammadzadeh, H. Zarini, M. J. Siavoshani, M. R. Mili, A. Movaghar, **J. An** and N. Al-Dhahir, "[Meta reinforcement learning empowered orchestration of SIM and RIS for downlink multiuser communications](https://ieeexplore.ieee.org/document/11397527)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
+**[arXiv]**
+* H. Pan, B. Lin, **J. An** and G. Sun, "[Joint deployment, association and power optimization for UAV-mounted STAR-RIS-assisted maritime communications](https://ieeexplore.ieee.org/document/11397340)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
+**[arXiv]**
+* W. Ma, B. Lin, H. Pan, G. Sun, E. Shi, **J. An** and C. Yuen, "[SIM-assisted secure mobile communications via enhanced proximal policy optimization algorithm](https://ieeexplore.ieee.org/document/11371589)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 11964-11979, 2026.<br>
+**[[arXiv](https://arxiv.org/pdf/2602.13265)]**
 * [69] C. Jiang, H. Yuan, C. Zhang, **J. An**, C. Huang and C. Yuen, "Stacked intelligent metasurface-enabled satellite integrated sensing and communications systems," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
 **[arXiv]**
 * [68] J. Jiang, **J. An**, L. Gan, N. Al-Dhahir, A. Nallanathan and Z. Han, "[Enhanced channel estimation for flexible intelligent metasurface-aided communication systems](https://ieeexplore.ieee.org/document/11270240)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
