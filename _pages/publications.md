@@ -38,6 +38,10 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2504.15737)]**
 * H. Niu, **J. An**, T. Wu, J. Chen, Y. Zhao, Y. L. Guan, M. Di Renzo, M. Debbah, G. K. Karagiannidis, H. V. Poor and C. Yuen, "[Introducing meta-fiber into stacked intelligent metasurfaces for MIMO communications: A low-complexity design with only two layers](https://ieeexplore.ieee.org/document/11142953)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 3016-3032, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2507.09575)]**
+* M. Liu, **J. An**, C. Huang and C. Yuen, "[Over-the-air ODE-inspired neural network for dual task-oriented semantic communications](https://ieeexplore.ieee.org/document/11003068)," _IEEE Trans. Cogn. Commun. Netw._, vol. 12, pp. 805-819, 2026.<br>
+**[[arXiv](https://arxiv.org/pdf/2505.04970)]**
+* H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, vol. 12, pp. 251-266, 2026.<br>
+**[[arXiv](https://arxiv.org/pdf/2408.04837)]** &ensp; **[[code](https://github.com/jiancheng-an/DRL-for-SIM)]**
 
 
 * [68] J. Jiang, **J. An**, L. Gan, N. Al-Dhahir, A. Nallanathan and Z. Han, "[Enhanced channel estimation for flexible intelligent metasurface-aided communication systems](https://ieeexplore.ieee.org/document/11270240)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
@@ -46,11 +50,6 @@ author_profile: true
 **[arXiv]**
 * [62] H. Hu, **J. An**, L. Gan and N. Al-Dhahir, "[Flexible intelligent metasurface for reconfiguring radio environments](https://ieeexplore.ieee.org/document/11193866)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
 **[arXiv]**
-
-
-
-
-
 * [58] Z. Teng, H. Zhang, **J. An**, L. Gan and H. Li, "[Frequency invariant beamformer design exploiting SRV-constrained array response control](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
 **[arXiv]**
 * [57] Z. Teng, **J. An**, L. Gan, N. Al-Dhahir and Z. Han, "[Flexible intelligent metasurface for enhancing multi-target wireless sensing](https://ieeexplore.ieee.org/document/11060929)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
@@ -61,12 +60,14 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2411.19754)]**
 * [54] H. Liu, **J. An**, X. Jia, L. Gan, G. K. Karagiannidis, B. Clerckx, M. Bennis, M. Debbah and T. J. Cui, "[Stacked intelligent metasurfaces for wireless communications: Applications and challenges](https://ieeexplore.ieee.org/document/11095320)," _IEEE Wireless Commun._, vol. 32, no. 4, pp. 46-53, Aug. 2025.<br>
 **[[arXiv](https://arxiv.org/pdf/2407.03566)]** &ensp; **[code]** &ensp; **[slides]** &ensp; **[post-EN]** &ensp; **[[post-CN](https://mp.weixin.qq.com/s/RwPLWAszx5YgWLwdHHDeSw)]** &ensp; **[video-EN]** &ensp; **[video-CN]**
-* [53] M. Liu, **J. An**, C. Huang and C. Yuen, "[Over-the-air ODE-inspired neural network for dual task-oriented semantic communications](https://ieeexplore.ieee.org/document/11003068)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
-**[[arXiv](https://arxiv.org/pdf/2505.04970)]**
 * [52] Z. Teng, **J. An**, C. Masouros, H. Li, L. Gan and D. W. K. Ng, "[Dynamic precoding for near-field secure communications: Implementation and performance analysis](https://ieeexplore.ieee.org/document/10999042)," _IEEE Internet Things J._, 2025, Early Access.<br>
 **[[arXiv](https://arxiv.org/pdf/2505.04968)]**
-* [51] H. Liu, **J. An**, G. C. Alexandropoulos, D. W. K. Ng, C. Yuen and L. Gan, "[Multi-user MISO with stacked intelligent metasurfaces: A DRL-based sum-rate optimization approach](https://ieeexplore.ieee.org/document/10949617)," _IEEE Trans. Cogn. Commun. Netw._, 2025, Early Access.<br>
-**[[arXiv](https://arxiv.org/pdf/2408.04837)]** &ensp; **[[code](https://github.com/jiancheng-an/DRL-for-SIM)]**
+
+
+
+
+
+
 * [50] S. U. Hassan, Z. Ye, **J. An** and M. B. Hossen, "[Sparse channel estimation and passive beamforming with practical phase shift model for IRS-assisted OFDM systems](https://www.sciencedirect.com/science/article/abs/pii/S0165168425001112)," _Signal Process._, vol. 234, Sept. 2025.<br>
 **[arXiv]**
 * [49] **J. An**, M. D. Renzo, M. Debbah, H. V. Poor and C. Yuen, "[Stacked intelligent metasurfaces for multiuser downlink beamforming in the wave domain](https://ieeexplore.ieee.org/document/10922857)," _IEEE Trans. Wireless Commun._, vol. 24, no. 7, pp. 5525-5538, Jul. 2025.<br>
@@ -188,6 +189,21 @@ author_profile: true
 
 # Conference
 ## \* YEAR 2025
+* H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
+**[arXiv]**
+* M. Fan, G. Sun, H. Pan, J. Wang, **J. An**, H. Du and C. Yuen, "[Joint association and phase shifts design for UAV-mounted stacked intelligent metasurfaces-assisted communications](https://ieeexplore.ieee.org/document/11431872)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2753-2758.<br>
+**[[arXiv](https://arxiv.org/pdf/2508.00616)]**
+* Z. Li, **J. An** and C. Yuen, "[Fundamental trade-off in wideband stacked intelligent metasurface assisted OFDMA systems](https://ieeexplore.ieee.org/document/11431689)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2384-2389.<br>
+**[[arXiv](https://arxiv.org/pdf/2509.08294)]**
+* S. M. Kazemi, H. Zarini, **J. An**, M. Sookhak, L. B. Le and Z. Ding, "[Stacked intelligent metasurface systems with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/11431803)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3753-3758.<br>
+**[arXiv]**
+* H. Hu, **J. An**, L. Gan, A. Nallanathan and N. Al-Dhahir, "[Weighted sum-rate maximization for flexible intelligent metasurface aided multicell systems](https://ieeexplore.ieee.org/document/11431856)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3618-3623.<br>
+**[arXiv]**
+* H. Hu, **J. An**, L. Gan and C. Yuen, "[Performance analysis of RIS-aided high-mobility wireless systems](https://ieeexplore.ieee.org/document/11310360)," _Proc. IEEE Veh. Technol. Conf. (VTC2025-Fall)_, Chengdu, China, 2025, pp. 1-5.<br>
+**[[arXiv](https://arxiv.org/pdf/2508.15375)]**
+
+  
+
 * [31] X Li, M. Liu, L. Wei, **J. An**, M. Debbah and C. Yuen, "[WirelessMathBench: A mathematical modeling benchmark for LLMs in wireless communications](https://aclanthology.org/2025.findings-acl.573/)," _Findings of the Association for Computational Linguistics (ACL)_, Vienna, Austria, 2025, pp. 10984-11009.<br>
 **[arXiv]**
 * [30] M. Liu, X. Li, **J. An** and C. Yuen, "[Onboard terrain classification via stacked intelligent metasurface-diffractive deep neural networks from SAR level-0 raw data](https://onboradsim.github.io/)," _ICLR ML4RS Workshop_, Singapore, 2025.<br>
