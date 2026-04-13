@@ -189,13 +189,11 @@ author_profile: true
 
 ## \* YEAR 2021
 * [2] **J. An** and L. Gan, "[The low-complexity design and optimal training overhead for IRS-assisted MISO systems](https://ieeexplore.ieee.org/document/9438669)," _IEEE Wireless Commun. Lett._, vol. 10, no. 8, pp. 1820-1824, Aug. 2021.<br>
-**[arXiv]**
-<br>
-
+**[arXiv]**<br>
 ### \* YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**<br>
-***
+<br>
 ## Conference
 ### \* YEAR 2025
 * H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
