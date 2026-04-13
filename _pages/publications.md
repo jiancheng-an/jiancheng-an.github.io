@@ -193,7 +193,6 @@ author_profile: true
 ### \* YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**<br>
-<br>
 
 ## Conference
 ### \* YEAR 2025
