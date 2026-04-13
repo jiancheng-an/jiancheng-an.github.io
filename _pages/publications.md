@@ -192,15 +192,11 @@ author_profile: true
 **[arXiv]**
 <br>
 
-## \* YEAR 2020
+### \* YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
-**[arXiv]**
-<br>
-<br>
-<br>
-
-# Conference
-## \* YEAR 2025
+**[arXiv]**<br>
+## Conference
+### \* YEAR 2025
 * H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
 **[arXiv]**
 * M. Fan, G. Sun, H. Pan, J. Wang, **J. An**, H. Du and C. Yuen, "[Joint association and phase shifts design for UAV-mounted stacked intelligent metasurfaces-assisted communications](https://ieeexplore.ieee.org/document/11431872)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2753-2758.<br>
@@ -308,6 +304,11 @@ author_profile: true
 ## \* YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
 **[arXiv]**<br>
+
+
+
+
+
 ### \* YEAR 2018
 * [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
 **[arXiv]**<br>
