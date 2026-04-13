@@ -18,6 +18,8 @@ author_profile: true
 **[arXiv]**
 * W. Ma, B. Lin, H. Pan, G. Sun, E. Shi, **J. An** and C. Yuen, "[SIM-assisted secure mobile communications via enhanced proximal policy optimization algorithm](https://ieeexplore.ieee.org/document/11371589)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 11964-11979, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2602.13265)]**
+* H. Wang, Y. Cao, T. Lv, J. Wang, N. Wei, J. An and C. Yuen, "[Stacked intelligent metasurfaces-based electromagnetic wave domain interference-free precoding](https://ieeexplore.ieee.org/document/11365951)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 10775-10790, 2026.<br>
+**[[arXiv](https://arxiv.org/pdf/2601.19313)]**
 * [69] C. Jiang, H. Yuan, C. Zhang, **J. An**, C. Huang and C. Yuen, "Stacked intelligent metasurface-enabled satellite integrated sensing and communications systems," _IEEE Wireless Commun. Lett._, 2025, Early Access.<br>
 **[arXiv]**
 * [68] J. Jiang, **J. An**, L. Gan, N. Al-Dhahir, A. Nallanathan and Z. Han, "[Enhanced channel estimation for flexible intelligent metasurface-aided communication systems](https://ieeexplore.ieee.org/document/11270240)," _IEEE Trans. Veh. Technol._, 2025, Early Access.<br>
