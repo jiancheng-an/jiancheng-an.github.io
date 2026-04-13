@@ -194,6 +194,7 @@ author_profile: true
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**<br>
 <br>
+
 ## Conference
 ### \* YEAR 2025
 * H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
