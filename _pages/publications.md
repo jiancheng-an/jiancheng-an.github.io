@@ -308,6 +308,6 @@ author_profile: true
 ## \* YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
 **[arXiv]**<br>
-### - - - - - - - - - - YEAR 2018 - - - - - - - - - -
+### - - - - - - - - - -YEAR 2018- - - - - - - - - -
 * [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
 **[arXiv]**<br>
