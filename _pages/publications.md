@@ -12,16 +12,15 @@ author_profile: true
 
 ### \* YEAR 2025
 * S. Chen, Y. Hui, Y. Qin, C. Su, **J. An**, W. Meng and C. Yuen, "[Stacked intelligent metasurfaces-enabled transceiver: Functional coding and data-enhanced deep unfolding detection](https://ieeexplore.ieee.org/document/11476847)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 14970-14986, 2026.<br>
-**[arXiv]**
-* K. R. R. Ranasinghe, **J. An**, I. A. M. Sandoval, H. S. Rou, G. T. F. de Abreu, C. Yuen and M. Debbah, "[Flexible intelligent metasurfaces in high-mobility MIMO integrated sensing and communications](https://ieeexplore.ieee.org/document/11424169)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 13319-13335, 2026.<br>
-**[[arXiv](https://arxiv.org/pdf/2507.18793)]**
-* A. Mohammadzadeh, H. Zarini, M. J. Siavoshani, M. R. Mili, A. Movaghar, **J. An** and N. Al-Dhahir, "[Meta reinforcement learning empowered orchestration of SIM and RIS for downlink multiuser communications](https://ieeexplore.ieee.org/document/11397527)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
-**[arXiv]**
-* H. Pan, B. Lin, **J. An** and G. Sun, "[Joint deployment, association and power optimization for UAV-mounted STAR-RIS-assisted maritime communications](https://ieeexplore.ieee.org/document/11397340)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
-**[arXiv]**
-* X. Jia, **J. An**, L. Gan and H. Li, "[Low-overhead dynamic codebook design for RIS-aided multiuser MISO systems](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
 **[arXiv]**<br>
-Low-Overhead dynamic codebook design for RIS-Aided multiuser MISO systems
+* K. R. R. Ranasinghe, **J. An**, I. A. M. Sandoval, H. S. Rou, G. T. F. de Abreu, C. Yuen and M. Debbah, "[Flexible intelligent metasurfaces in high-mobility MIMO integrated sensing and communications](https://ieeexplore.ieee.org/document/11424169)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 13319-13335, 2026.<br>
+**[[arXiv](https://arxiv.org/pdf/2507.18793)]**<br>
+* A. Mohammadzadeh, H. Zarini, M. J. Siavoshani, M. R. Mili, A. Movaghar, **J. An** and N. Al-Dhahir, "[Meta reinforcement learning empowered orchestration of SIM and RIS for downlink multiuser communications](https://ieeexplore.ieee.org/document/11397527)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
+**[arXiv]**<br>
+* H. Pan, B. Lin, **J. An** and G. Sun, "[Joint deployment, association and power optimization for UAV-mounted STAR-RIS-assisted maritime communications](https://ieeexplore.ieee.org/document/11397340)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
+**[arXiv]**<br>
+* X. Jia, **J. An**, L. Gan and H. Li, "[Low-overhead dynamic codebook design for RIS-aided multiuser MISO systems](https://www.sciencedirect.com/science/article/abs/pii/S0165168426000654)," _Signal Process._, vol. 244, Jul. 2026.<br>
+**[arXiv]**<br>
 * W. Ma, B. Lin, H. Pan, G. Sun, E. Shi, **J. An** and C. Yuen, "[SIM-assisted secure mobile communications via enhanced proximal policy optimization algorithm](https://ieeexplore.ieee.org/document/11371589)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 11964-11979, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2602.13265)]**<br>
 * H. Wang, Y. Cao, T. Lv, J. Wang, N. Wei, **J. An** and C. Yuen, "[Stacked intelligent metasurfaces-based electromagnetic wave domain interference-free precoding](https://ieeexplore.ieee.org/document/11365951)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 10775-10790, 2026.<br>
@@ -195,41 +194,41 @@ Low-Overhead dynamic codebook design for RIS-Aided multiuser MISO systems
 ### \* YEAR 2026
 
 ### \* YEAR 2025
-* H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
+* [40] H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
 **[arXiv]**<br>
-* M. Fan, G. Sun, H. Pan, J. Wang, **J. An**, H. Du and C. Yuen, "[Joint association and phase shifts design for UAV-mounted stacked intelligent metasurfaces-assisted communications](https://ieeexplore.ieee.org/document/11431872)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2753-2758.<br>
+* [39] M. Fan, G. Sun, H. Pan, J. Wang, **J. An**, H. Du and C. Yuen, "[Joint association and phase shifts design for UAV-mounted stacked intelligent metasurfaces-assisted communications](https://ieeexplore.ieee.org/document/11431872)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2753-2758.<br>
 **[[arXiv](https://arxiv.org/pdf/2508.00616)]**<br>
-* Z. Li, **J. An** and C. Yuen, "[Fundamental trade-off in wideband stacked intelligent metasurface assisted OFDMA systems](https://ieeexplore.ieee.org/document/11431689)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2384-2389.<br>
+* [38] Z. Li, **J. An** and C. Yuen, "[Fundamental trade-off in wideband stacked intelligent metasurface assisted OFDMA systems](https://ieeexplore.ieee.org/document/11431689)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 2384-2389.<br>
 **[[arXiv](https://arxiv.org/pdf/2509.08294)]**<br>
-* S. M. Kazemi, H. Zarini, **J. An**, M. Sookhak, L. B. Le and Z. Ding, "[Stacked intelligent metasurface systems with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/11431803)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3753-3758.<br>
+* [37] S. M. Kazemi, H. Zarini, **J. An**, M. Sookhak, L. B. Le and Z. Ding, "[Stacked intelligent metasurface systems with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/11431803)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3753-3758.<br>
 **[arXiv]**<br>
-* H. Hu, **J. An**, L. Gan, A. Nallanathan and N. Al-Dhahir, "[Weighted sum-rate maximization for flexible intelligent metasurface aided multicell systems](https://ieeexplore.ieee.org/document/11431856)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3618-3623.<br>
+* [36] H. Hu, **J. An**, L. Gan, A. Nallanathan and N. Al-Dhahir, "[Weighted sum-rate maximization for flexible intelligent metasurface aided multicell systems](https://ieeexplore.ieee.org/document/11431856)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 3618-3623.<br>
 **[arXiv]**<br>
-* H. Hu, **J. An**, L. Gan and C. Yuen, "[Performance analysis of RIS-aided high-mobility wireless systems](https://ieeexplore.ieee.org/document/11310360)," _Proc. IEEE Veh. Technol. Conf. (VTC2025-Fall)_, Chengdu, China, 2025, pp. 1-5.<br>
+* [35] H. Hu, **J. An**, L. Gan and C. Yuen, "[Performance analysis of RIS-aided high-mobility wireless systems](https://ieeexplore.ieee.org/document/11310360)," _Proc. IEEE Veh. Technol. Conf. (VTC2025-Fall)_, Chengdu, China, 2025, pp. 1-5.<br>
 **[[arXiv](https://arxiv.org/pdf/2508.15375)]**<br>
-* H. Zarini, S. M. Kazemi, **J. An**, A. Movaghar, M. Sookhak and N. Yilmazer, "[On the application of active RIS to stacked intelligent metasurface systems](https://ieeexplore.ieee.org/document/11274698)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
+* [34] H. Zarini, S. M. Kazemi, **J. An**, A. Movaghar, M. Sookhak and N. Yilmazer, "[On the application of active RIS to stacked intelligent metasurface systems](https://ieeexplore.ieee.org/document/11274698)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
 **[arXiv]**<br>
-* H. Zarini, S. M. Kazemi, **J. An**, A. Movaghar, M. Sookhak and N. Yilmazer, "[QoE-driven resource allocation for stacked intelligent metasurface systems](https://ieeexplore.ieee.org/document/11275274)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
+* [33] H. Zarini, S. M. Kazemi, **J. An**, A. Movaghar, M. Sookhak and N. Yilmazer, "[QoE-driven resource allocation for stacked intelligent metasurface systems](https://ieeexplore.ieee.org/document/11275274)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
 **[arXiv]**<br>
-* H. Zarini, S. M. Kazemi, **J. An**, M. Sookhak and N. Yilmazer, "[Interplay of STAR-RIS and SIM: Joint computing and communication for full-space coverage](https://ieeexplore.ieee.org/document/11275106)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
+* [32] H. Zarini, S. M. Kazemi, **J. An**, M. Sookhak and N. Yilmazer, "[Interplay of STAR-RIS and SIM: Joint computing and communication for full-space coverage](https://ieeexplore.ieee.org/document/11275106)," _Proc. IEEE Int. Symposium Personal, Indoor, Mobile Radio Commun. (PIMRC)_, Istanbul, Turkiye, 2025, pp. 1-6.<br>
 **[arXiv]**<br>
 * [31] X Li, M. Liu, L. Wei, **J. An**, M. Debbah and C. Yuen, "[WirelessMathBench: A mathematical modeling benchmark for LLMs in wireless communications](https://aclanthology.org/2025.findings-acl.573/)," _Findings of the Association for Computational Linguistics (ACL)_, Vienna, Austria, 2025, pp. 10984-11009.<br>
 **[arXiv]**<br>
 * [30] M. Liu, X. Li, **J. An** and C. Yuen, "[Onboard terrain classification via stacked intelligent metasurface-diffractive deep neural networks from SAR level-0 raw data](https://onboradsim.github.io/)," _ICLR ML4RS Workshop_, Singapore, 2025.<br>
 **[arXiv]**<br>
-* H. Liu, **J. An**, Q. Ma, L. Gan, M. Bennis, M. Debbah and T. J. Cui, "[A novel hybrid optical-electronic neural network approach to task-oriented semantic communications](https://ieeexplore.ieee.org/document/11160907)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2418-2423.<br>
+* [29] H. Liu, **J. An**, Q. Ma, L. Gan, M. Bennis, M. Debbah and T. J. Cui, "[A novel hybrid optical-electronic neural network approach to task-oriented semantic communications](https://ieeexplore.ieee.org/document/11160907)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2418-2423.<br>
 **[arXiv]**<br>
-* H. Zarini, S. M. Kazemi, **J. An**, M. Sookhak and J. Choi, "[On the orchestration of SIM and UAV](https://ieeexplore.ieee.org/document/11161971)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2913-2918.<br>
+* [28] H. Zarini, S. M. Kazemi, **J. An**, M. Sookhak and J. Choi, "[On the orchestration of SIM and UAV](https://ieeexplore.ieee.org/document/11161971)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 2913-2918.<br>
 **[arXiv]**<br>
-* M. Amiri, S. Javadi, H. Zarini, M. R. Mili, **J. An**, M. Sookhak and I. Krikidis, "[Stacked intelligent metasurface for simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/11161741)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 4583-4588.<br>
+* [27] M. Amiri, S. Javadi, H. Zarini, M. R. Mili, **J. An**, M. Sookhak and I. Krikidis, "[Stacked intelligent metasurface for simultaneous wireless information and power transfer](https://ieeexplore.ieee.org/document/11161741)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 4583-4588.<br>
 **[arXiv]**<br>
-* **J. An**, C. Yuen, M. Debbah and L. Hanzo, "[Flexible intelligent metasurfaces for enhanced MIMO communications](https://ieeexplore.ieee.org/document/11160822)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1784-1789.<br>
+* [26] **J. An**, C. Yuen, M. Debbah and L. Hanzo, "[Flexible intelligent metasurfaces for enhanced MIMO communications](https://ieeexplore.ieee.org/document/11160822)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1784-1789.<br>
 **[arXiv]**<br>
-* X. Yao, **J. An**, L. Gan, B. Clerckx and M. Di Renzo, "[Sparse Bayesian learning based channel estimation for SIM-assisted near-field communications](https://ieeexplore.ieee.org/document/11161340)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1760-1765.<br>
+* [25] X. Yao, **J. An**, L. Gan, B. Clerckx and M. Di Renzo, "[Sparse Bayesian learning based channel estimation for SIM-assisted near-field communications](https://ieeexplore.ieee.org/document/11161340)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Montreal, QC, Canada, 2025, pp. 1760-1765.<br>
 **[arXiv]**<br>
-* S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
+* [24] S. Lin, **J. An**, L. Gan and M. Debbah, "[UAV-mounted SIM: A hybrid optical-electronic neural network for DoA estimation](https://ieeexplore.ieee.org/document/10890179)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]** &ensp; **[[video-EN](https://www.youtube.com/watch?v=i5n0gYW3IIg)]**<br>
-* L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "[Identical-delay based 2-D DOA and frequency joint estimation with sub-Nyquist sampling for URA](https://ieeexplore.ieee.org/document/10889441)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
+* [23] L. Liu, X. Zhang, X. Zhou, L. Gan, **J. An** and H. Li, "[Identical-delay based 2-D DOA and frequency joint estimation with sub-Nyquist sampling for URA](https://ieeexplore.ieee.org/document/10889441)," _Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)_, Hyderabad, India, 2025, pp. 1-5.<br>
 **[arXiv]**<br>
 
 ### \* YEAR 2024
