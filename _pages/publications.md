@@ -167,25 +167,29 @@ author_profile: true
 **[arXiv]**
 * [12] C. Xu, **J. An**, T. Bai, S. Sugiura, R. G. Maunder, Z. Wang, L.-L. Yang and L. Hanzo, "[Channel estimation for reconfigurable intelligent surface assisted high-mobility wireless systems](https://ieeexplore.ieee.org/document/9875062)," _IEEE Trans. Veh. Technol._, vol. 72, no. 1, pp. 718-734, Jan. 2023.<br>
 **[arXiv]**
+
+
+
+
+  
 * [11] C. Xu, L. Xiang, **J. An**, C. Dong, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[OTFS-aided RIS-assisted SAGIN systems outperform their OFDM counterparts in doubly selective high-Doppler scenarios](https://ieeexplore.ieee.org/document/9874856)," _IEEE Internet Things J._, vol. 10, no. 1, pp. 682-703, Jan. 2023.<br>
-**[arXiv]**
-<br>
+**[arXiv]**<br>
 
 ### \* YEAR 2022
 * [10] W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "[Time-varying channel prediction for RIS-assisted MU-MISO networks via deep learning](https://ieeexplore.ieee.org/document/9814839)," _IEEE Trans. Cogn. Commun. Netw._, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
-**[[arXiv](https://arxiv.org/pdf/2111.04971)]**
+**[[arXiv](https://arxiv.org/pdf/2111.04971)]**<br>  
 * [9] W. Xu, **J. An**, C. Huang, L. Gan and C. Yuen, "[Deep reinforcement learning based on location-aware imitation environment for RIS-aided mmWave MIMO systems](https://ieeexplore.ieee.org/document/9779399)," _IEEE Wireless Commun. Lett._, vol. 11, no. 7, pp. 1493-1497, Jul. 2022.<br>
-**[[arXiv](https://arxiv.org/pdf/2205.08788)]**
+**[[arXiv](https://arxiv.org/pdf/2205.08788)]**<br>
 * [8] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[The achievable rate analysis of generalized quadrature spatial modulation and a pair of low-complexity detectors](https://ieeexplore.ieee.org/document/9729571)," _IEEE Trans. Veh. Technol._, vol. 71, no. 5, pp. 5203-5215, May 2022.<br>
-**[arXiv]**
+**[arXiv]**<br>
 * [7] C. Xu, **J. An**, T. Bai, L. Xiang, S. Sugiura, R. G. Maunder, L.-L. Yang and L. Hanzo, "[Reconfigurable intelligent surface assisted multi-carrier wireless systems for doubly selective high-mobility Ricean channels](https://ieeexplore.ieee.org/document/9699402)," _IEEE Trans. Veh. Technol._, vol. 71, no. 4, pp. 4023-4041, Apr. 2022.<br>
-**[arXiv]**
+**[arXiv]**<br>
 * [6] **J. An**, Q. Wu and C. Yuen, "[Scalable channel estimation and reflection optimization for reconfigurable intelligent surface-enhanced OFDM systems](https://ieeexplore.ieee.org/document/9691275)," _IEEE Wireless Commun. Lett._, vol. 11, no. 4, pp. 796-800, Apr. 2022.<br>
-**[[arXiv](https://arxiv.org/pdf/2110.12799)]**
+**[[arXiv](https://arxiv.org/pdf/2110.12799)]**<br>
 * [5] **J. An**, C. Xu, L. Wang, Y. Liu, L. Gan and L. Hanzo, "[Joint training of the superimposed direct and reflected links in reconfigurable intelligent surface assisted multiuser communications](https://ieeexplore.ieee.org/document/9681847)," _IEEE Trans. Green Commun. Netw._, vol. 6, no. 2, pp. 739-754, Jun. 2022.<br>
-**[[arXiv](https://arxiv.org/pdf/2105.14484)]**
+**[[arXiv](https://arxiv.org/pdf/2105.14484)]**<br>
 * [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol._, vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
-**[[arXiv](https://arxiv.org/pdf/2107.12630)]**
+**[[arXiv](https://arxiv.org/pdf/2107.12630)]**<br>
 * [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022. **<font color=Blue>(ESI Highly Cited Paper)</font>**<br>
 **[arXiv]**<br>
 
@@ -196,6 +200,19 @@ author_profile: true
 ### \* YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Conference
 
@@ -306,13 +323,15 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
 <br>
 
+
+
+
+
+
+
 ### \* YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
 **[arXiv]**<br>
-
-
-
-
 
 ### \* YEAR 2018
 * [1] **J. An**, L. Gan and H. Liao, "[A non-data-aided algorithm based on ML for OFDM synchronization](https://ieeexplore.ieee.org/document/8401408)," _Prof. Int. Conf. Electron. Technol. (ICET)_, Chengdu, China, 2018, pp. 1-6.<br>
