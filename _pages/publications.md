@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Journal
-## \* YEAR 2025
+## Journal
+
+### \* YEAR 2026
+
+### \* YEAR 2025
 * S. Chen, Y. Hui, Y. Qin, C. Su, **J. An**, W. Meng and C. Yuen, "[Stacked intelligent metasurfaces-enabled transceiver: Functional coding and data-enhanced deep unfolding detection](https://ieeexplore.ieee.org/document/11476847)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 14970-14986, 2026.<br>
 **[arXiv]**
 * K. R. R. Ranasinghe, **J. An**, I. A. M. Sandoval, H. S. Rou, G. T. F. de Abreu, C. Yuen and M. Debbah, "[Flexible intelligent metasurfaces in high-mobility MIMO integrated sensing and communications](https://ieeexplore.ieee.org/document/11424169)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 13319-13335, 2026.<br>
@@ -106,7 +109,7 @@ author_profile: true
 **[arXiv]** &ensp; **[code]** &ensp; **[slides]** &ensp; **[post-EN]** &ensp; **[[post-CN](https://mp.weixin.qq.com/s/CYsHIWY-ma_3kL1r3aQMOQ)]** &ensp; **[video-EN]** &ensp; **[video-CN]**
 <br>
 
-## \* YEAR 2024
+### \* YEAR 2024
 * [38] L. Liu, Z. Zhang, X. Zhang, P. Wei, **J. An** and H. Li, "[Joint spectrum sensing and DOA estimation based on a resource-efficient sub-Nyquist array receiver](https://ieeexplore.ieee.org/document/10737034)," _IEEE Trans. Signal Process._, vol. 72, pp. 5354-5370, Oct. 2024.<br>
 **[arXiv]**
 * [37] H. Niu, **J. An**, A. Papazafeiropoulos, L. Gan, S. Chatzinotas and M. Debbah, "[Stacked intelligent metasurfaces for integrated sensing and communications](https://ieeexplore.ieee.org/document/10643881)," _IEEE Wireless Commun. Lett._, vol. 13, no. 10, pp. 2807-2811, Oct. 2024.<br>
@@ -141,7 +144,7 @@ author_profile: true
 **[[arXiv](https://arxiv.org/pdf/2211.05976)]**
 <br>
 
-## \* YEAR 2023
+### \* YEAR 2023
 * [22] **J. An**, C. Xu, D. W. K. Ng, G. C. Alexandropoulos, C. Huang, C. Yuen and L. Hanzo, "[Stacked intelligent metasurfaces for efficient holographic MIMO communications in 6G](https://ieeexplore.ieee.org/document/10158690)," _IEEE J. Sel. Areas Commun._, vol. 41, no. 8, pp. 2380-2396, Aug. 2023. **<font color=Blue>(ESI Highly Cited Paper)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2305.08079)]**
 * [21] H. Liu, **J. An**, W. Xu, X. Jia, L. Gan and C. Yuen, "[K-means based constellation optimization for index modulated reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/10143180)," _IEEE Commun. Lett._, vol. 27, no. 8, pp. 2152-2156, Aug. 2023.<br>
@@ -168,7 +171,7 @@ author_profile: true
 **[arXiv]**
 <br>
 
-## \* YEAR 2022
+### \* YEAR 2022
 * [10] W. Xu, **J. An**, Y. Xu, C. Huang, L. Gan and C. Yuen, "[Time-varying channel prediction for RIS-assisted MU-MISO networks via deep learning](https://ieeexplore.ieee.org/document/9814839)," _IEEE Trans. Cogn. Commun. Netw._, vol. 8, no. 4, pp. 1802-1815, Dec. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2111.04971)]**
 * [9] W. Xu, **J. An**, C. Huang, L. Gan and C. Yuen, "[Deep reinforcement learning based on location-aware imitation environment for RIS-aided mmWave MIMO systems](https://ieeexplore.ieee.org/document/9779399)," _IEEE Wireless Commun. Lett._, vol. 11, no. 7, pp. 1493-1497, Jul. 2022.<br>
@@ -195,6 +198,9 @@ author_profile: true
 **[arXiv]**<br>
 
 ## Conference
+
+### \* YEAR 2026
+
 ### \* YEAR 2025
 * H. Niu, **J. An**, S. Lin, L. Gan, M. Matthaiou and S. Chatzinotas, "[Transmit power minimization in stacked intelligent metasurface-aided multi-user systems](https://ieeexplore.ieee.org/document/11432150)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Taipei, Taiwan, China, 2025, pp. 6400-6405.<br>
 **[arXiv]**
@@ -254,7 +260,7 @@ author_profile: true
 
 
 
-## \* YEAR 2024
+### \* YEAR 2024
 * [22] S. Yang, **J. An**, Y. Xiu, W. Lyu, B. Ning, Z. Zhang, M. Debbah and C. Yuen, "[Flexible antenna arrays for wireless communications: Modeling and performance evaluation](https://ieeexplore.ieee.org/document/10946335)," _Proc. Int. Conf. Commun. Technol. (ICCT)_, Chengdu, China, 2024, pp. 2034-2039.<br>
 **[arXiv]**
 * [21] **J. An**, C. Yuen, M. Di Renzo, M. Debbah, H. V. Poor and L. Hanzo, "[Downlink multiuser communications relying on flexible intelligent metasurfaces](https://ieeexplore.ieee.org/document/10901792)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Cape Town, South Africa, 2024, pp. 4932-4937.<br>
@@ -293,14 +299,14 @@ author_profile: true
 **[arXiv]**
 <br>
 
-## \* YEAR 2023
+### \* YEAR 2023
 * [4] **J. An** and C. Yuen, "[Pilot power allocation for channel estimation in a multi-RIS aided communication system](https://ieeexplore.ieee.org/document/10437508)," _Proc. IEEE Global Commun. Conf. (GLOBECOM)_, Kuala Lumpur, Malaysia, 2023, pp. 5707-5713.<br>
 **[[arXiv](https://arxiv.org/pdf/2308.14099)]**
 * [3] **J. An**, M. Di Renzo, M. Debbah and C. Yuen, "[Stacked intelligent metasurfaces for multiuser beamforming in the wave domain](https://ieeexplore.ieee.org/document/10279173)," _Proc. IEEE Int. Conf. Commun. (ICC)_, Rome, Italy, 2023, pp. 2834-2839. **<font color=Blue>(IEEE ICC Best Paper Award)</font>**<br>
 **[[arXiv](https://arxiv.org/pdf/2302.03188)]**
 <br>
 
-## \* YEAR 2022
+### \* YEAR 2022
 * [2] W. Xu, **J. An**, L. Gan and H. Liao, "[A practical design based on deep reinforcement learning for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/10065758)," _Proc. IEEE Int. Conf. Comput. Commun. (ICCC)_, Chengdu, China, 2022, pp. 1599-1602.<br>
 **[arXiv]**<br>
 
