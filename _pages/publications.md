@@ -184,12 +184,12 @@ author_profile: true
 * [4] **J. An**, C. Xu, Y. Liu, L. Gan and L. Hanzo, "[Low-complexity improved-rate generalised spatial modulation: Bit-to-symbol mapping, detection and performance analysis](https://ieeexplore.ieee.org/document/9627812)," _IEEE Trans. Veh. Technol._, vol. 71, no. 1, pp. 1060-1065, Jan. 2022.<br>
 **[[arXiv](https://arxiv.org/pdf/2107.12630)]**
 * [3] **J. An**, C. Xu, L. Gan and L. Hanzo, "[Low-complexity channel estimation and passive beamforming for RIS-assisted MIMO systems relying on discrete phase shifts](https://ieeexplore.ieee.org/document/9614196)," _IEEE Trans. Commun._, vol. 70, no. 2, pp. 1245-1260, Feb. 2022. **<font color=Blue>(ESI Highly Cited Paper)</font>**<br>
-**[arXiv]**
-<br>
+**[arXiv]**<br>
 
-## \* YEAR 2021
+### \* YEAR 2021
 * [2] **J. An** and L. Gan, "[The low-complexity design and optimal training overhead for IRS-assisted MISO systems](https://ieeexplore.ieee.org/document/9438669)," _IEEE Wireless Commun. Lett._, vol. 10, no. 8, pp. 1820-1824, Aug. 2021.<br>
 **[arXiv]**<br>
+
 ### \* YEAR 2020
 * [1] **J. An**, L. Wang, C. Xu, L. Gan and L. Hanzo, "[Optimal pilot power based channel estimation improves the throughput of intelligent reflective surface assisted systems](https://ieeexplore.ieee.org/document/9242307)," _IEEE Trans. Veh. Technol._, vol. 69, no. 12, pp. 16202-16206, Dec. 2020.<br>
 **[arXiv]**<br>
