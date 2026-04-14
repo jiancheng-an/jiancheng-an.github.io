@@ -19,17 +19,19 @@ author_profile: true
 **[arXiv]**
 * H. Pan, B. Lin, **J. An** and G. Sun, "[Joint deployment, association and power optimization for UAV-mounted STAR-RIS-assisted maritime communications](https://ieeexplore.ieee.org/document/11397340)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
 **[arXiv]**
+* X. Jia, **J. An**, L. Gan and H. Li, "[Low-overhead dynamic codebook design for RIS-aided multiuser MISO systems](https://www.sciencedirect.com/science/article/pii/S0165168425002683)," _Signal Process._, vol. 238, Jan. 2025.<br>
+**[arXiv]**<br>
+Low-Overhead dynamic codebook design for RIS-Aided multiuser MISO systems
 * W. Ma, B. Lin, H. Pan, G. Sun, E. Shi, **J. An** and C. Yuen, "[SIM-assisted secure mobile communications via enhanced proximal policy optimization algorithm](https://ieeexplore.ieee.org/document/11371589)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 11964-11979, 2026.<br>
-**[[arXiv](https://arxiv.org/pdf/2602.13265)]**
+**[[arXiv](https://arxiv.org/pdf/2602.13265)]**<br>
 * H. Wang, Y. Cao, T. Lv, J. Wang, N. Wei, **J. An** and C. Yuen, "[Stacked intelligent metasurfaces-based electromagnetic wave domain interference-free precoding](https://ieeexplore.ieee.org/document/11365951)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 10775-10790, 2026.<br>
-**[[arXiv](https://arxiv.org/pdf/2601.19313)]**
+**[[arXiv](https://arxiv.org/pdf/2601.19313)]**<br>
 * Q. Chen, Q. Qi, **J. An**, Z. Yang, X. Chen, C. Huang and C. Yuen, "[Stacked intelligent metasurface enhanced integrated communication and computation](https://ieeexplore.ieee.org/document/11318013)," _IEEE Internet Things J._, vol. 13, no. 7, pp. 14442-14453, 1 April1, 2026.<br>
-**[arXiv]**
+**[arXiv]**<br>
 * Z. Li, **J. An** and C. Yuen, "[Stacked intelligent metasurface-enhanced MIMO OFDM wideband communication systems](https://ieeexplore.ieee.org/document/11276870)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 9608-9622, 2026.<br>
-**[[arXiv](https://arxiv.org/pdf/2503.00368)]**
+**[[arXiv](https://arxiv.org/pdf/2503.00368)]**<br>
 * C. Jiang, H. Yuan, C. Zhang, **J. An**, C. Huang and C. Yuen, "[Stacked intelligent metasurface-enabled satellite integrated sensing and communications systems](https://ieeexplore.ieee.org/document/11271837)," _IEEE Wireless Commun. Lett._, vol. 15, pp. 930-934, 2026.<br>
-**[arXiv]**
-  
+**[arXiv]**<br>
 * J. Fang, C. Zhang, **J. An**, H. Yu, Q. Wu, M. Debbah and C. Yuen, "[Stacked intelligent metasurface assisted multiuser communications: From a rate fairness perspective](https://ieeexplore.ieee.org/document/11263905)," _IEEE Trans. Commun._, vol. 74, pp. 1253-1268, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2507.17153)]**<br>
 * X. Zhou, Z. Teng, **J. An** and L. Gan, "[DOA estimation for time-modulated linear array based on Golay-Paired Hadamard matrix](https://ieeexplore.ieee.org/document/11230626)," _IEEE Signal Process. Lett._, vol. 33, pp. 6-10, 2026.<br>
