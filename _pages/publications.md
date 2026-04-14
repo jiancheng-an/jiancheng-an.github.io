@@ -8,7 +8,7 @@ author_profile: true
 
 ### \* YEAR 2026
 * [77] S. Chen, Y. Hui, Y. Qin, C. Su, **J. An**, W. Meng and C. Yuen, "[Stacked intelligent metasurfaces-enabled transceiver: Functional coding and data-enhanced deep unfolding detection](https://ieeexplore.ieee.org/document/11476847)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 14970-14986, 2026.<br>
-**[arXiv]**<br><
+**[arXiv]**<br>
 * [76] K. R. R. Ranasinghe, **J. An**, I. A. M. Sandoval, H. S. Rou, G. T. F. de Abreu, C. Yuen and M. Debbah, "[Flexible intelligent metasurfaces in high-mobility MIMO integrated sensing and communications](https://ieeexplore.ieee.org/document/11424169)," _IEEE Trans. Wireless Commun._, vol. 25, pp. 13319-13335, 2026.<br>
 **[[arXiv](https://arxiv.org/pdf/2507.18793)]**<br>
 * [75] A. Mohammadzadeh, H. Zarini, M. J. Siavoshani, M. R. Mili, A. Movaghar, **J. An** and N. Al-Dhahir, "[Meta reinforcement learning empowered orchestration of SIM and RIS for downlink multiuser communications](https://ieeexplore.ieee.org/document/11397527)," _IEEE Trans. Veh. Technol._, 2026, Early Access.<br>
