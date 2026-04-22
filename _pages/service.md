@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Selected Professional Activities
 ## \* Editor
 * 2025.10 - Present [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (IF: 8.3)
 * 2025.09 - Present [IEEE Open Journal of the Communications Society](https://mc.manuscriptcentral.com/oj-coms) (IF: 6.1)
@@ -27,6 +26,7 @@ author_profile: true
 * IEEE WCNC 2024/2025/2026
 * IEEE PIMRC 2024/2025/2026
 * IEEE GLOBECOM 2026
+* IEEE APCAP 2026 (Program Committee)
 <br>
 
 ## \* Special Session
