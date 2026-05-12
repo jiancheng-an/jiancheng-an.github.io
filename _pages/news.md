@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2026.05.12 ----- 🌹 A journal paper, co-authored with Dr. [**Junjie Fang**](https://ieeexplore.ieee.org/author/37090044411) from Xi'an Jiaotong University, Xi'an, China, is accepted by IEEE Transactions on Communications!
 * 2026.04.25 ----- 🌹 A journal paper, co-authored with Dr. **Jinbao Li** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Wireless Communications Letters!
 * 2026.04.17 ----- 🌹 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) from Hangzhou Normal University, Hangzhou, China, is accepted by IEEE Communications Magazine!
 * 2026.04.09 ----- 🔥 A conference paper, co-authored with Dr. [**Songjie Yang**](https://ieeexplore.ieee.org/author/37089533389) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE ISCC 2026](https://ieee-iscc.computer.org/2026/)!
