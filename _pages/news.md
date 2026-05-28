@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+- **[2026.04]** 
+- **[2025.xx]** Paper accepted at IEEE Trans. Wireless Commun.
+- **[2025]** Named in Top 2% Scientists Worldwide (Stanford/Elsevier).
+
+* 2026.05.01 ----- ⭐ I join UESTC as a Professor.
 * 2026.05.15 ----- 🔥 A conference paper, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE APCAP 2026](https://apcap2026.org/index.html)!
 * 2026.05.15 ----- 🔥 A conference paper, co-authored with Dr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE APCAP 2026](https://apcap2026.org/index.html)!
 * 2026.05.15 ----- 🔥 A conference paper, co-authored with Dr. **Xiangyu Ding** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE APCAP 2026](https://apcap2026.org/index.html)!
@@ -30,6 +35,7 @@ author_profile: true
 * 2026.01.14 ----- 🔥 A conference paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) from Hangzhou Normal University, Hangzhou, China, is accepted by IEEE WCNC 2026!
 * 2026.01.14 ----- 🌹 A journal paper, co-authored with Dr. [**Hetong Wang**](https://ieeexplore.ieee.org/author/37085828544) from Beijing University of Posts and Telecommunications (BUPT), Beijing, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2025.12.26 ----- 🌹 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) from Hangzhou Normal University, Hangzhou, China, is accepted by IEEE Internet of Things Journal!
+* 2025.12.01 ----- ⭐ Named in Top 2% Scientists Worldwide (Stanford/Elsevier).
 * 2025.11.27 ----- 🌹 A journal paper, co-authored with Dr. [**Chengjun Jiang**](https://ieeexplore.ieee.org/author/37088883094) from Xidian University, Xi'an, China, is accepted by IEEE Wireless Communications Letters!
 * 2025.11.20 ----- 🌹 A journal paper, co-authored with Dr. **Jinyue Jiang** from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Vehicular Technology!
 * 2025.11.19 ----- 🌹 A journal paper, co-authored with Dr. [**Zheao Li**](https://ieeexplore.ieee.org/author/37089506459) from Nanyang Technological University (NTU), Singapore, is accepted by IEEE Transactions on Wireless Communications!
