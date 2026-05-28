@@ -69,4 +69,16 @@ author_profile: true
     </div>
   </a>
 
+  <a href="https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=7e9c37bf-e80a-487e-97f1-d67030a99ec9&target_redirect_uri=https%3A%2F%2Flink.springer.com%2F" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">International Journal of Networked and Distributed Computing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Liz Bacon</p>
+    </div>
+  </a>
+
 </div>
