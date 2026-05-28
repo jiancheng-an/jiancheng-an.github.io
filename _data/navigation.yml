@@ -14,6 +14,9 @@ main:
   - title: "Selected Papers"
     url: /selected-papers/
     
+  - title: "Research Interests"
+    url: /research-interests/
+    
   - title: "People"
     url: /people/
 
