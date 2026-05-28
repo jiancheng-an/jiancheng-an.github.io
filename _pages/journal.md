@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [IF: 05.6] [Measurement](https://www.editorialmanager.com/meas/default.aspx) [EiC: Professor Paolo Carbone]
+* [IF: 05.6] [Measurement](https://www.editorialmanager.com/meas/default.aspx) [EiC: Prof. Paolo Carbone]
