@@ -6,7 +6,55 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [IF: 17.2] [EiC: Prof. Zhiguo Ding       ] [IEEE Journal on Selected Areas in Communications](https://mc.manuscriptcentral.com/jsac-ieee)
-* [IF: 05.6] [EiC: Prof. Paolo Carbone     ] [Measurement](https://www.editorialmanager.com/meas/default.aspx)
-* [IF: 04.2] [EiC: Prof. Yeong Min Jang    ] [ICT Express](https://www.editorialmanager.com/icte/default.aspx)
-* [IF: 02.2] [EiC: Prof. Michalis Matthaiou] [Physical Communication](https://www.editorialmanager.com/phycom/default.aspx)
+
+<div style="display: flex; flex-direction: column; gap: 10px; margin-top: 1rem;">
+
+  <a href="https://mc.manuscriptcentral.com/jsac-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">17.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Journal on Selected Areas in Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Zhiguo Ding</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/meas/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Measurement</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Paolo Carbone</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/icte/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">ICT Express</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Yeong Min Jang</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/phycom/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Physical Communication</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Michalis Matthaiou</p>
+    </div>
+  </a>
+
+</div>
