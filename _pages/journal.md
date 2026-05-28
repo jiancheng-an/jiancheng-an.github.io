@@ -7,4 +7,5 @@ author_profile: true
 
 {% include base_path %}
 * [IF: 05.6] [Measurement](https://www.editorialmanager.com/meas/default.aspx) [EiC: Prof. Paolo Carbone]
+* [IF: 04.2] [ICT Express](https://www.editorialmanager.com/icte/default.aspx) [EiC: Prof. Yeong Min Jang]
 * [IF: 02.2] [Physical Communication](https://www.editorialmanager.com/phycom/default.aspx) [EiC: Prof. Michalis Matthaiou]
