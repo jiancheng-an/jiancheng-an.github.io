@@ -59,6 +59,8 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 # Award
 * 2025 One of the Top 2% of scientists worldwide (Stanford University/Elsevier)
 * 2023 IEEE ICC Best Paper Award
+* 14 ESI Highly Cited Papers
+* 2 ESI Hot Papers
 <br>
 <br>
 <br>
