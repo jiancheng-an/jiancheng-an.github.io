@@ -54,7 +54,6 @@ author_profile: true
 * (IF: 09.2) [IEEE Transactions on Mobile Computing](https://mc.manuscriptcentral.com/tmc-cs) (EiC: Prof. Shuguang Cui)
 * (IF: 08.9) [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot) (EiC: Prof. Nei Kato)
 * (IF: 08.4) [IEEE Transactions on Intelligent Transportation Systems](https://mc.manuscriptcentral.com/t-its) (EiC: Prof. Simona Sacone)
-* (IF: 08.3) [IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom) (EiC: Prof. George K. Karagiannidis)
 * (IF: 08.2) [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee) (EiC: Prof. Rose Qingyang Hu)
 * (IF: 08.0) [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (EiC: Prof. Luisa Verdoliva)
 * (IF: 08.0) [Engineering Applications of Artificial Intelligence](https://www.editorialmanager.com/eaai/Default.aspx) (EiC: Prof. Patrick Siarry)
