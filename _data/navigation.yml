@@ -8,17 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Selected Papers"
-    url: /selected-papers/
-    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Selected Papers"
+    url: /selected-papers/
     
   - title: "People"
     url: /people/
 
   - title: "Service"
     url: /service/
+    
+  - title: "Journal"
+    url: /journal/
     
   - title: "Talks"
     url: /talks/
