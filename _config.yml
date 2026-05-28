@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiancheng An"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Fellow, School of Electrical & Electronic Engineering"
+  pronouns         : "he/his"  
+  bio              : "Professor, School of Electrinic Science and Engineering"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
-  uri              : # URL
-  email            : "jiancheng_an@163.com" 
+  uri              : "https://jiancheng-an.github.io/"
+  email            : "jiancheng.an@uestc.edu.cn" 
 
   # Academic websites
   academia         : # URL
