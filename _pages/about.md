@@ -23,7 +23,7 @@ Dr. An received IEEE International Conference on Communications (ICC) 2023 Best 
 <br>
 
 # Experience
-* 2026.04 - Present: Associate Professor
+* 2026.04 - Present: Professor
   * University of Electronic Science and Technology of China (UESTC)
   * School of Electronic Science and Engineering
   * Supervisor: Prof. Jun Hu
