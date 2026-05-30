@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 11.5) [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (EiC: Prof. Nirwan Ansari)
 * (IF: 09.2) [IEEE Transactions on Mobile Computing](https://mc.manuscriptcentral.com/tmc-cs) (EiC: Prof. Shuguang Cui)
 * (IF: 08.9) [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot) (EiC: Prof. Nei Kato)
 * (IF: 08.4) [IEEE Transactions on Intelligent Transportation Systems](https://mc.manuscriptcentral.com/t-its) (EiC: Prof. Simona Sacone)
