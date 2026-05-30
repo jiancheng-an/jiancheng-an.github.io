@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 46.7) [IEEE Communications Surveys & Tutorials](https://mc.manuscriptcentral.com/comst-ieee) (EiC: Prof. Trung Q. Duong)
 * (IF: 18.8) [Advanced Photonics](https://mc03.manuscriptcentral.com/ap) (EiC: Prof. Xiao-Cong (Larry) Yuan)
 * (IF: 11.5) [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (EiC: Prof. Nirwan Ansari)
 * (IF: 09.2) [IEEE Transactions on Mobile Computing](https://mc.manuscriptcentral.com/tmc-cs) (EiC: Prof. Shuguang Cui)
