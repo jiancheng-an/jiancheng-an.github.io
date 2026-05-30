@@ -50,7 +50,6 @@ author_profile: true
 * (IF: 46.7) [IEEE Communications Surveys & Tutorials](https://mc.manuscriptcentral.com/comst-ieee) (EiC: Prof. Trung Q. Duong)
 * (IF: 18.8) [Advanced Photonics](https://mc03.manuscriptcentral.com/ap) (EiC: Prof. Xiao-Cong (Larry) Yuan)
 * (IF: 11.5) [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm) (EiC: Prof. Nirwan Ansari)
-* (IF: 10.7) [IEEE Transactions on Wireless Communications](https://mc.manuscriptcentral.com/twc) (EiC: Prof. Vincent Wong)
 * (IF: 09.2) [IEEE Transactions on Mobile Computing](https://mc.manuscriptcentral.com/tmc-cs) (EiC: Prof. Shuguang Cui)
 * (IF: 08.9) [IEEE Internet of Things Journal](https://mc.manuscriptcentral.com/iot) (EiC: Prof. Nei Kato)
 * (IF: 08.4) [IEEE Transactions on Intelligent Transportation Systems](https://mc.manuscriptcentral.com/t-its) (EiC: Prof. Simona Sacone)
