@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+You can find a map of my talk locations [here](/talkmap.html).
+
 * [09] 2025.12.26, HUST, Wuhan, Host: Prof. [Caiming Qiu](https://scholar.google.com/citations?user=FTLNXX8AAAAJ&hl=en&oi=sra)<br>
 **Stacked Intelligent Metasurfaces (SIM) Based Signal Processing in the Electromagnetic Domain** **[[Slides](https://jiancheng-an.github.io/files/20251226_HUST_SIM.pdf)]**<br>
 * [08] 2025.12.25, HUST, Wuhan, Host: Prof. [Gui Zhou](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=en&oi=ao)<br>
