@@ -1,1 +1,44 @@
+name: Generate Talkmap
 
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '_talks/**'        # 只有演讲文件有变动时才触发
+      - 'talkmap.py'       # 或者 talkmap.py 本身有改动时
+
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  generate-talkmap:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write      # 需要写权限才能 push 回仓库
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install python-frontmatter geopy getorg
+
+      - name: Run talkmap.py
+        run: |
+          python talkmap.py
+
+      - name: Commit and push generated map
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add talkmap/
+          # 如果没有变化就跳过，不报错
+          git diff --cached --quiet || git commit -m "Auto-update talkmap [skip ci]"
+          git push
