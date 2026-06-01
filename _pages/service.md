@@ -47,8 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 07.1) [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (EiC: Prof. 
-Abbas Jamalipour)
 * (IF: 07.0) [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (EiC: Prof. Shiwen Mao)
 * (IF: 06.7) [IEEE Transactions on Green Communications and Networking](https://mc.manuscriptcentral.com/tgcn) (EiC: Prof. Aylin Yener)
 * (IF: 06.4) [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (EiC: Prof. William M. Worek)
