@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 05.8) [IEEE Transactions on Signal Processing](https://mc.manuscriptcentral.com/tsp-ieee) (EiC: Prof. Zhi Tian)
 * (IF: 05.7) [IEEE Transactions on Aerospace and Electronic Systems](https://mc.manuscriptcentral.com/taes) (EiC: Prof. Gokhan Inalhan)
 * (IF: 05.5) [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (EiC: Prof. Ai-Chun Pang)
 * (IF: 05.4) [IEEE Transactions on Network and Service Management](https://mc.manuscriptcentral.com/tnsm) (EiC: Prof. Hanan Lutfiyya)
