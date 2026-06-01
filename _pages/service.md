@@ -47,14 +47,11 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 03.6) [Signal Processing](https://www.editorialmanager.com/sigpro/default.aspx) (EiC: Prof. Cédric Richard)
-* (IF: 03.6) [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) (EiC: Prof. Mehrdad Saif)
 * (IF: 03.6) [Future Internet](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Gianluigi Ferrari)
 * (IF: 03.5) [Sensors](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Vittorio M. N. Passaro)
 * (IF: 03.3) [Fractal and Fractional](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Carlo Cattani)
 * (IF: 03.2) [AEU - International Journal of Electronics and Communications](https://www.editorialmanager.com/aeue/Default.aspx) (EiC: Prof. Shahram Minaei)
 * (IF: 03.0) [Micromachines](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Ai-Qun Liu)
-* (IF: 03.0) [Digital Signal Processing](https://www.editorialmanager.com/dsp/Default.aspx) (EiC: Prof. Kutluyil Dogancay)
 * (IF: 02.9) [Photonics and Nanostructures - Fundamentals and Applications](https://www.editorialmanager.com/pnfa/Default.aspx) (EiC: Prof. A. Di Falco)
 * (IF: 02.9) [Information](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Willy Susilo)
 * (IF: 02.9) [ENGINEERING Information Technology & Electronic Engineering](https://mc03.manuscriptcentral.com/fitee) (EiC: Prof. Yunhe Pan)
