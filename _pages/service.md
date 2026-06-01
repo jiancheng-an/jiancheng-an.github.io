@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 08.4) [IEEE Transactions on Intelligent Transportation Systems](https://mc.manuscriptcentral.com/t-its) (EiC: Prof. Simona Sacone)
 * (IF: 08.2) [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee) (EiC: Prof. Rose Qingyang Hu)
 * (IF: 08.0) [IEEE Transactions on Information Forensics and Security](https://mc.manuscriptcentral.com/tifs-ieee) (EiC: Prof. Luisa Verdoliva)
 * (IF: 08.0) [Engineering Applications of Artificial Intelligence](https://www.editorialmanager.com/eaai/Default.aspx) (EiC: Prof. Patrick Siarry)
