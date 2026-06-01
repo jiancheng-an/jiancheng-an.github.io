@@ -47,8 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 03.9) [IEEE Signal Processing Letters](https://mc.manuscriptcentral.com/spl-ieee) (EiC: Prof. Christ D. Richmond)
-* (IF: 03.9) [Scientific Reports](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (EiC: Prof. Rafal Marszalek)
 * (IF: 03.6) [Signal Processing](https://www.editorialmanager.com/sigpro/default.aspx) (EiC: Prof. Cédric Richard)
 * (IF: 03.6) [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) (EiC: Prof. Mehrdad Saif)
 * (IF: 03.6) [Future Internet](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Gianluigi Ferrari)
