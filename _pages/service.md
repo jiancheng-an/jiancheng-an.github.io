@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 06.7) [IEEE Transactions on Green Communications and Networking](https://mc.manuscriptcentral.com/tgcn) (EiC: Prof. Aylin Yener)
 * (IF: 06.4) [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (EiC: Prof. William M. Worek)
 * (IF: 06.1) [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (EiC: Prof. Richard Murray)
 * (IF: 05.8) [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (EiC: Prof. Konstantina S. Nikita)
