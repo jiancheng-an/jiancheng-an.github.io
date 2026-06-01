@@ -440,6 +440,18 @@ author_profile: true
       <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Diego González-Aguilera</p>
     </div>
   </a>
+
+  <a href="https://www.editorialmanager.com/rinp/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Results in Physics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Vadim Markel</p>
+    </div>
+  </a>
   
   <a href="https://mc.manuscriptcentral.com/comml-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
     <div style="min-width: 54px; text-align: center;">
