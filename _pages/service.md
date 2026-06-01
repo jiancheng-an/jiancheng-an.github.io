@@ -95,7 +95,6 @@ Abbas Jamalipour)
 * (IF: 01.9) [Photonics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Nelson Tansu)
 * (IF: 01.8) [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (EiC: Prof. Mohammad S. Obaidat)
 * (IF: 01.7) [CMC-Computers Materials & Continua](https://ijs.tspsubmission.com/login) (EiC: Prof. Ankit Agrawal)
-* (IF: 01.5) [Turkish Journal of Electrical Engineering and Computer Sciences](https://www.editorialmanager.com/turkjelecengcompsci/Default.aspx) (EiC: Prof. Muhammet Uzuntarla)
 * [Engineering Technology & Applied Science Research](https://etasr.com/index.php/ETASR/login)
 * Discover Applied Sciences
 * Frontiers in Communications and Networks
