@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 04.6) [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (EiC: Prof. Tommaso Melodia)
 * (IF: 04.5) [IEEE Sensors Journal](https://mc.manuscriptcentral.com/sensors) (EiC: Prof. Zeynep Celik)
 * (IF: 04.2) [Electric Power Systems Research](https://www.editorialmanager.com/epsr/Default.aspx) (EiC: Prof. Waldemar Rebizant)
 * (IF: 04.1) [Cluster Computing](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (EiC: Prof. Salim Hariri)
