@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 06.1) [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (EiC: Prof. Richard Murray)
 * (IF: 05.8) [IEEE Transactions on Antennas and Propagation](https://mc.manuscriptcentral.com/tap-ieee) (EiC: Prof. Konstantina S. Nikita)
 * (IF: 05.8) [IEEE Transactions on Signal Processing](https://mc.manuscriptcentral.com/tsp-ieee) (EiC: Prof. Zhi Tian)
 * (IF: 05.7) [IEEE Transactions on Aerospace and Electronic Systems](https://mc.manuscriptcentral.com/taes) (EiC: Prof. Gokhan Inalhan)
