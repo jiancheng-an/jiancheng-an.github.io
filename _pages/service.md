@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 04.6) [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (EiC: Prof. Yaochu Jin)
 * (IF: 04.6) [Computer Networks](https://www.editorialmanager.com/comnet/Default.aspx) (EiC: Prof. Tommaso Melodia)
 * (IF: 04.5) [IEEE Sensors Journal](https://mc.manuscriptcentral.com/sensors) (EiC: Prof. Zeynep Celik)
 * (IF: 04.2) [Electric Power Systems Research](https://www.editorialmanager.com/epsr/Default.aspx) (EiC: Prof. Waldemar Rebizant)
