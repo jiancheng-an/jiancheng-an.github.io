@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 05.5) [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (EiC: Prof. Ai-Chun Pang)
 * (IF: 05.4) [IEEE Transactions on Network and Service Management](https://mc.manuscriptcentral.com/tnsm) (EiC: Prof. Hanan Lutfiyya)
 * (IF: 04.8) [Ad Hoc Networks](https://www.editorialmanager.com/adhoc/default2.aspx) (EiC: Prof. Salil Kanhere)
 * (IF: 04.6) [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default.aspx) (EiC: Prof. Yaochu Jin)
