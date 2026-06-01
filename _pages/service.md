@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 07.9) [IEEE Transactions on Network Science and Engineering](https://mc.manuscriptcentral.com/tnse-cs) (EiC: Prof. Dusit Niyato)
 * (IF: 07.1) [IEEE Transactions on Vehicular Technology](https://mc.manuscriptcentral.com/tvt-ieee) (EiC: Prof. 
 Abbas Jamalipour)
 * (IF: 07.0) [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (EiC: Prof. Shiwen Mao)
