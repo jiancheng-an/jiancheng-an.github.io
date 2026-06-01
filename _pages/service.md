@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 07.0) [IEEE Transactions on Cognitive Communications and Networking](https://mc.manuscriptcentral.com/tccn) (EiC: Prof. Shiwen Mao)
 * (IF: 06.7) [IEEE Transactions on Green Communications and Networking](https://mc.manuscriptcentral.com/tgcn) (EiC: Prof. Aylin Yener)
 * (IF: 06.4) [International Communications in Heat and Mass Transfer](https://www.editorialmanager.com/ichmt/Default.aspx) (EiC: Prof. William M. Worek)
 * (IF: 06.1) [Advanced Intelligent Systems](https://www.editorialmanager.com/advintellsyst/default2.aspx) (EiC: Prof. Richard Murray)
