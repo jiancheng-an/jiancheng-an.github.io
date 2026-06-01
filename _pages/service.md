@@ -48,7 +48,6 @@ author_profile: true
 
 ## \* Journal Reviewer
 * (IF: 03.6) [Future Internet](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Gianluigi Ferrari)
-* (IF: 03.5) [Sensors](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Vittorio M. N. Passaro)
 * (IF: 03.3) [Fractal and Fractional](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Carlo Cattani)
 * (IF: 03.2) [AEU - International Journal of Electronics and Communications](https://www.editorialmanager.com/aeue/Default.aspx) (EiC: Prof. Shahram Minaei)
 * (IF: 03.0) [Micromachines](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Ai-Qun Liu)
