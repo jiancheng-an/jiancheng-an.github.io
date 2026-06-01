@@ -125,7 +125,7 @@ author_profile: true
     <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
     <div style="flex: 1;">
       <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Intelligent Transportation Systems</p>
-      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. George Karagiannidis</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Simona Sacone</p>
     </div>
   </a>
   
