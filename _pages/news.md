@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2026.06.02 ----- 🌹 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) from Shandong University, Qingdao, China, is accepted by IEEE Transactions on Vehicular Technology!
 * 2026.05.30 ----- 🌹 A journal paper, co-authored with Dr. [**Hanwen Hu**](https://ieeexplore.ieee.org/author/254739408711020) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2026.05.15 ----- 🔥 A conference paper, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE APCAP 2026](https://apcap2026.org/index.html)!
 * 2026.05.15 ----- 🔥 A conference paper, co-authored with Dr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by [IEEE APCAP 2026](https://apcap2026.org/index.html)!
