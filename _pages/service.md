@@ -51,10 +51,8 @@ author_profile: true
 * (IF: 02.9) [Photonics and Nanostructures - Fundamentals and Applications](https://www.editorialmanager.com/pnfa/Default.aspx) (EiC: Prof. A. Di Falco)
 * (IF: 02.9) [Information](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Willy Susilo)
 * (IF: 02.9) [ENGINEERING Information Technology & Electronic Engineering](https://mc03.manuscriptcentral.com/fitee) (EiC: Prof. Yunhe Pan)
-* (IF: 02.4) [Telecom](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Sotirios K. Goudos)
 * (IF: 02.3) [Telecommunication Systems](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (EiC: Prof. Muhammad Khurram Khan)
 * (IF: 02.2) [Mathematics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Francisco Chiclana)
-
 * (IF: 02.2) [Wireless Personal Communications](https://www.editorialmanager.com/wire/default.aspx) (EiC: Prof. Aydin Sezgin)
 * (IF: 01.8) [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (EiC: Prof. Mohammad S. Obaidat)
 * (IF: 01.7) [CMC-Computers Materials & Continua](https://ijs.tspsubmission.com/login) (EiC: Prof. Ankit Agrawal)
