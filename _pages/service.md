@@ -48,7 +48,6 @@ author_profile: true
 
 ## \* Journal Reviewer
 * (IF: 02.3) [Telecommunication Systems](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (EiC: Prof. Muhammad Khurram Khan)
-* (IF: 01.8) [International Journal of Communication Systems](https://mc.manuscriptcentral.com/ijcs) (EiC: Prof. Mohammad S. Obaidat)
 <br>
 <br>
 <br>
