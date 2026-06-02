@@ -47,7 +47,6 @@ author_profile: true
 <br>
 
 ## \* Journal Reviewer
-* (IF: 02.9) [ENGINEERING Information Technology & Electronic Engineering](https://mc03.manuscriptcentral.com/fitee) (EiC: Prof. Yunhe Pan)
 * (IF: 02.3) [Telecommunication Systems](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=aaedbea3-a814-496c-8fd7-67e6d4e4eade&target_redirect_uri=https%3A%2F%2Freviewer.springernature.com%2Fdashboard%2Freviews) (EiC: Prof. Muhammad Khurram Khan)
 * (IF: 02.2) [Mathematics](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) (EiC: Prof. Francisco Chiclana)
 * (IF: 02.2) [Wireless Personal Communications](https://www.editorialmanager.com/wire/default.aspx) (EiC: Prof. Aydin Sezgin)
