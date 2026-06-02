@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Journal Navigation & Impact Factors</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0 20px 40px 20px;
+    }
+    .page-container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    /* === 新增：大气的学术风网页页头标题 === */
+    .header-panel {
+      padding: 40px 0 20px 0;
+      text-align: center;
+    }
+    .header-panel h1 {
+      margin: 0 0 8px 0;
+      font-size: 28px;
+      font-weight: 700;
+      color: #1a202c;
+      letter-spacing: -0.02em;
+    }
+    .header-panel p {
+      margin: 0;
+      font-size: 14px;
+      color: #718096;
+    }
+
+    /* Sticky Filter Search Header */
+    .search-wrapper {
+      position: sticky;
+      top: 0;
+      background-color: #f8f9fa;
+      padding: 10px 0 20px 0;
+      z-index: 100;
+    }
+    .search-input {
+      width: 100%;
+      padding: 14px 20px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-sizing: border-box;
+      outline: none;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .search-input:focus {
+      border-color: #007bff;
+      box-shadow: 0 4px 12px rgba(0,123,255,0.15);
+    }
+    /* Layout styling for journal listings */
+    .journal-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .journal-card {
+      display: flex; 
+      align-items: center; 
+      gap: 16px; 
+      background: #fff; 
+      border: 1px solid #e5e5e5; 
+      border-radius: 10px; 
+      padding: 14px 18px; 
+      text-decoration: none;
+      transition: border-color 0.2s ease;
+    }
+    .journal-card:hover {
+      border-color: #aaa;
+    }
+    
+    /* === 优化：未搜索到结果时的占位提示样式 === */
+    .no-results {
+      display: none;
+      text-align: center;
+      padding: 60px 20px;
+      color: #a0aec0;
+      font-size: 15px;
+      background: #fff;
+      border: 1px dashed #e2e8f0;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="page-container">
+
+  <!-- === 新增：网页顶部的标题组件 === -->
+  <div class="header-panel">
+    <h1>Journal Navigation Center</h1>
+    <p>Quick access to manuscript tracking systems & latest Impact Factors</p>
+  </div>
+
+  <div class="search-wrapper">
+    <input type="text" id="searchInput" class="search-input" placeholder="Type to search journal name or EiC..." autocomplete="off">
+  </div>
+
+  <!-- === 新增：未找到结果时的提示 DOM === -->
+  <div id="noResults" class="no-results">
+    No matching journals found. Please try another keyword.
+  </div>
+
+  <div id="journalContainer" class="journal-list">
+  <a href="https://mc.manuscriptcentral.com/comst-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">46.7</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Communications Surveys and Tutorials</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Trung Q. Duong</p>
+    </div>
+  </a>
+
+  <a href="https://mc03.manuscriptcentral.com/ap" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">18.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Advanced Photonics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Xiaocong Yuan</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/jsac-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">17.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Journal on Selected Areas in Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Zhiguo Ding</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/jstsp-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">13.7</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Journal of Selected Topics in Signal Processing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Patrizio Campisi</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/ieee-wcm" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">11.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Wireless Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Nirwan Ansari</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/eng/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">11.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Engineering</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ji Zhou</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/twc" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">10.7</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Wireless Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Vincent Wong</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tmc-cs" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">09.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Mobile Computing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Dimitrios Koutsonikolas</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/iot" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Internet of Things Journal</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Bo Li</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/t-its" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Intelligent Transportation Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Simona Sacone</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/commag-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Communications Magazine</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Rose Qingyang Hu</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/tcom" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. George Karagiannidis</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/oj-cs" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Open Journal of the Computer Society</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Vincenzo Piuri</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tifs-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Information Forensics and Security</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Luisa Verdoliva</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/eaai/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">08.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Engineering Applications of Artificial Intelligence</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Patrick Siarry</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tnse-cs" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">07.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Network Science and Engineering</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Dusit Niyato</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/vtm-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">07.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Vehicular Technology Magazine</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Claudio Casetti</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tvt-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">07.1</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Vehicular Technology</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Lin Cai</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tccn" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">07.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Cognitive Communications and Networking</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Shiwen Mao</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tgcn" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.7</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Green Communications and Networking</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Aylin Yener</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/ichmt/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">International Communications in Heat and Mass Transfer</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. William M. Worek</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/network-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Network</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Jiming Chen</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/neunet/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Neural Networks</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Taro Toyoizumi</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/oj-coms" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.1</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Open Journal of the Communications Society</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Sinem Coleri</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/advintellsyst/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">06.1</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Advanced Intelligent Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Richard Murray</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/tap-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Antennas and Propagation</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Konstantina S. Nikita</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tsp-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Signal Processing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Zhi Tian</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/taes" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.7</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Aerospace and Electronic Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Gokhan Inalhan</p>
+    </div>
+  </a>
+  
+  <a href="https://www.editorialmanager.com/meas/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Measurement</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Paolo Carbone</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/wcl" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Wireless Communications Letters</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ai-Chun Pang</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tnsm" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Network and Service Management</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Abdallah Shami</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tcas1" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">05.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Circuits and Systems I: Regular Papers</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Jose M. de la Rosa</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/tcas2" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Transactions on Circuits and Systems II: Express Briefs</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Edoardo Bonizzoni</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/ojvt" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Open Journal of Vehicular Technology</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Edward Au</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/adhoc/default2.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Ad Hoc Networks</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Salil Kanhere</p>
+    </div>
+  </a>
+
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Drones</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Diego González-Aguilera</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/rinp/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Results in Physics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Vadim Markel</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/cais/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Complex & Intelligent Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Yaochu Jin</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/comnet/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Computer Networks</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Tommaso Melodia</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/sensors" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Sensors Journal</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Zeynep Celik</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/ieee-sj" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Systems Journal</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ruqiang Yan</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/comml-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Communications Letters</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Daniel Benevides da Costa</p>
+    </div>
+  </a>
+  
+  <a href="https://www.editorialmanager.com/icte/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">ICT Express</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Yeong Min Jang</p>
+    </div>
+  </a>
+
+  <a href="https://editorial.iphy.ac.cn/journalx_cpl/author/Author.action" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Chinese Physics Letters</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Tao Xiang</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/epsr/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Electric Power Systems Research</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Waldemar Rebizant</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">04.1</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Cluster Computing-The Journal of Networks, Software Tools and Applications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Yaser Jararweh</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/spl-ieee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Signal Processing Letters</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Konstantinos (Constantine) Kotropoulos</p>
+    </div>
+  </a>
+  
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Scientific Reports</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Rafal Marszalek</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/ojap" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Open Journal of Antennas and Propagation</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Zhongxiang Shen</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/ieee-access" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Access</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Mehrdad Saif</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/sigpro/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Signal Processing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Cédric Richard</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Future Internet</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Gianluigi Ferrari</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Sensors</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Vittorio M. N. Passaro</p>
+    </div>
+  </a>
+
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Fractal and Fractional</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Carlo Cattani</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/aeue/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">AEU - International Journal of Electronics and Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Shahram Minaei</p>
+    </div>
+  </a>
+
+  <a href="https://mc03.manuscriptcentral.com/chinacomm" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.1</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">China Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Jianhua Lu</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Micromachines</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Nam-Trung Nguyen</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/rio/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Results in Optics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Andrea Cusano</p>
+    </div>
+  </a>
+  
+  <a href="https://www.editorialmanager.com/dsp/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">03.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Digital Signal Processing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Kutluyil Dogancay</p>
+    </div>
+  </a>
+  
+  <a href="https://www.editorialmanager.com/pnfa/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Photonics and Nanostructures - Fundamentals and Applications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. A. Di Falco</p>
+    </div>
+  </a>
+
+  <a href="https://mc03.manuscriptcentral.com/fitee" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">ENGINEERING Information Technology & Electronic Engineering</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Yunhe Pan</p>
+    </div>
+  </a>
+
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Information</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Willy Susilo</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.6</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Electronics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Flavio Canavero</p>
+    </div>
+  </a>
+  
+  <a href="https://myfrontiers.frontiersin.org/projects" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Frontiers in Communications and Networks</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ioannis Krikidis</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Telecom</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Sotirios K. Goudos</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Telecommunication Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Muhammad Khurram Khan</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.3</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Atmosphere</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Daniele Contini</p>
+    </div>
+  </a>
+
+  <a href="https://www.editorialmanager.com/wire/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Wireless Personal Communications</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Aydin Sezgin</p>
+    </div>
+  </a>
+  
+  <a href="https://www.editorialmanager.com/phycom/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Physical Communication</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Michalis Matthaiou</p>
+    </div>
+  </a>
+
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Aerospace</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Konstantinos Kontis</p>
+    </div>
+  </a>
+
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Symmetry</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Sergei Odintsov</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.2</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Mathematics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Francisco Chiclana</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">02.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Entropy</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Kevin H. Knuth</p>
+    </div>
+  </a>
+  
+  <a href="https://susy.mdpi.com/user/reviewer/status" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">01.9</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Photonics</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Nelson Tansu</p>
+    </div>
+  </a>
+  
+  <a href="https://mc.manuscriptcentral.com/ijcs" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">01.8</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">International Journal of Communication Systems</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Mohammad S. Obaidat</p>
+    </div>
+  </a>
+
+  <a href="https://www2.cloud.editorialmanager.com/turkjelecengcompsci/default.aspx" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">01.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Turkish Journal of Electrical Engineering and Computer Sciences</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Muhammet Uzuntarla</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">01.4</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Iranian Journal of Science and Technology, Transactions of Electrical Engineering</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Maryam Dehghani</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.5</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">International Journal of Networked and Distributed Computing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Liz Bacon</p>
+    </div>
+  </a>
+
+  <a href="https://mc.manuscriptcentral.com/jsteap" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ross Murch</p>
+    </div>
+  </a>
+  
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Discover Artificial Intelligence</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Okyay Kaynak</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Discover Computing</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Ziyou Wu</p>
+    </div>
+  </a>
+
+  <a href="https://reviewer.springernature.com/dashboard/reviews" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Discover Applied Sciences</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. Thomas von Larcher</p>
+    </div>
+  </a>
+  
+  <a href="https://etasr.com/index.php/ETASR/login" target="_blank" style="display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 18px; text-decoration: none;" onmouseover="this.style.borderColor='#aaa'" onmouseout="this.style.borderColor='#e5e5e5'">
+    <div style="min-width: 54px; text-align: center;">
+      <p style="font-size: 11px; color: #999; margin: 0 0 2px; letter-spacing: 0.04em;">IF</p>
+      <p style="font-size: 20px; font-weight: 500; color: #111; margin: 0; line-height: 1.1;">00.0</p>
+    </div>
+    <div style="width: 1px; height: 36px; background: #e5e5e5;"></div>
+    <div style="flex: 1;">
+      <p style="font-size: 14px; font-weight: 500; color: #111; margin: 0 0 3px;">Engineering, Technology & Applied Science Research</p>
+      <p style="font-size: 12px; color: #666; margin: 0;">EiC: Prof. D. Pylarinos</p>
+    </div>
+  </a>
+
+</div>
+</div>
+
+<!-- === 新增：完整的实时搜索 JavaScript 功能代码 === -->
+<script>
+  document.getElementById('searchInput').addEventListener('input', function(e) {
+    const filter = e.target.value.toLowerCase().trim();
+    const container = document.getElementById('journalContainer');
+    const cards = container.getElementsByTagName('a');
+    const noResults = document.getElementById('noResults');
+    let visibleCount = 0;
+
+    for (let i = 0; i < cards.length; i++) {
+      const card = cards[i];
+      // 获取卡片中的期刊名称和主编姓名文本
+      const textContent = card.innerText.toLowerCase();
+      
+      if (textContent.includes(filter)) {
+        card.style.setProperty('display', 'flex', 'important');
+        visibleCount++;
+      } else {
+        card.style.setProperty('display', 'none', 'important');
+      }
+    }
+
+    // 控制“未找到结果”提示信息的显示与隐藏
+    if (visibleCount === 0 && filter !== '') {
+      noResults.style.display = 'block';
+    } else {
+      noResults.style.display = 'none';
+    }
+  });
+</script>
+
+</body>
+</html>
