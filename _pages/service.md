@@ -15,11 +15,11 @@ author_profile: true
 <br>
 
 ## \* Guest Editor
-* 2026.06 Electronics: SIM/FIM-Empowered Signal Processing for Integrated Communication, Sensing, and Computing in 6G Networks <br>
+* 2027.01 Electronics: [SIM/FIM-Empowered Signal Processing for Integrated Communication, Sensing, and Computing in 6G Networks](https://www.mdpi.com/journal/electronics/special_issues/N87L5D83S4) <br>
   Guest Editor: Enyu Shi, Wei Shi, Jiancheng An, Qingchao Li, Zhe Wang
-* 2027.01 [Magnetism](https://www.mdpi.com/journal/magnetism): [The Next Evolution of Electromagnetic Metasurfaces: Architectures, Functionalities and Applications](https://www.mdpi.com/journal/magnetism/special_issues/047OM9Q6Q2) <br>
+* 2027.01 Magnetism: [The Next Evolution of Electromagnetic Metasurfaces: Architectures, Functionalities and Applications](https://www.mdpi.com/journal/magnetism/special_issues/047OM9Q6Q2) <br>
   Guest Editor: Yashuai Cao, Ke Wang, Jiancheng An, Xu Shi
-* 2025.11 [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm): [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered) <br>
+* 2025.11 IEEE Wireless Communications: [Stacked Intelligent Metasurface-Empowered Advanced Signal Processing Paradigm for 6G and Beyond](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/stacked-intelligent-metasurface-empowered) <br>
   Guest Editor: Jiancheng An, Doohwan Lee, Naofal Al-Dhahir, Vincenzo Galdi, Tie Jun Cui
 <br>
 
