@@ -23,9 +23,6 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "Journal"
-    url: /journal/
-    
   - title: "Talks"
     url: /talks/
 
