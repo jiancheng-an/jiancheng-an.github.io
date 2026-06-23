@@ -12,6 +12,7 @@ author_profile: true
 * 2025.09 - Present [IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl) (IF: 5.5)
 * 2025.12 - Present International Journal of Antennas and Propagation (IF: 1.1)
 * 2025.12 - Present Advanced Information and Communication
+* 2025.12 - Present Frontiers in Communications and Networks
 <br>
 
 ## \* Guest Editor
