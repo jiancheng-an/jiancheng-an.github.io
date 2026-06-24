@@ -31,6 +31,7 @@ author_profile: true
 * IEEE PIMRC 2024/2025/2026
 * IEEE GLOBECOM 2026
 * IEEE APCAP 2026 (Program Committee)
+* 2026 IEEE 1st Annual Integrated Sensing and Communication Conference (ISAC)
 <br>
 
 ## \* Special Session
