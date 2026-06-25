@@ -32,6 +32,7 @@ author_profile: true
 * IEEE GLOBECOM 2026
 * IEEE APCAP 2026 (Program Committee)
 * 2026 IEEE 1st Annual Integrated Sensing and Communication Conference (ISAC)
+* IEEE Globecom 2026 SAC - AC (2026 IEEE Global Communications Conference: Selected Areas in Communications: Aerial Communications)
 <br>
 
 ## \* Special Session
