@@ -134,7 +134,7 @@ author_profile: true
 
   <!-- Hao Liu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/hao_liu.jpg" alt="Hao Liu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Hao Liu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Hao Liu</div>
     <div class="team-period">2021.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. / Master Student</span>
@@ -153,7 +153,7 @@ author_profile: true
 
   <!-- Xing Jia -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/xing_jia.jpg" alt="Xing Jia" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Xing Jia" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Xing Jia</div>
     <div class="team-period">2021.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. / Master Student</span>
@@ -169,7 +169,7 @@ author_profile: true
 
   <!-- Haoxian Niu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/haoxian_niu.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Haoxian Niu</div>
     <div class="team-period">2024.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. / Master Student</span>
@@ -189,7 +189,7 @@ author_profile: true
 
   <!-- Shining Lin -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/shining_lin.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Shining Lin</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -204,7 +204,7 @@ author_profile: true
 
   <!-- Guojun Huang -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/guojun_huang.jpg" alt="Guojun Huang" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Guojun Huang" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Guojun Huang</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -215,7 +215,7 @@ author_profile: true
 
   <!-- Xianghao Yao -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/xianghao_yao.jpg" alt="Xianghao Yao" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Xianghao Yao" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Xianghao Yao</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -226,7 +226,7 @@ author_profile: true
 
   <!-- Zhiheng Yu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/default.png" alt="Zhiheng Yu">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Zhiheng Yu">
     <div class="team-name">Zhiheng Yu</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -237,7 +237,7 @@ author_profile: true
 
   <!-- Wangyang Xu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/wangyang_xu.jpg" alt="Wangyang Xu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Wangyang Xu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Wangyang Xu</div>
     <div class="team-period">2019.09 -- 2023.06</div>
     <span class="status-tag status-graduated">Graduated</span>
