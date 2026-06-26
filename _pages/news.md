@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* 2026.06.26 ----- 🌹 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) from Shandong University, Qingdao, China, is accepted by IEEE Wireless Communications Letters!
 * 2026.06.11 ----- 🌹 Our Guest Editorial for the SIM special issue in Wireless Communications Magazine has been released!
 * 2026.06.09 ----- 🌹 A journal paper, co-authored with Dr. [**Xianghao Yao**](https://ieeexplore.ieee.org/author/114042156949756) from University of Electronic Science and Technology of China (UESTC), Chengdu, China, is accepted by IEEE Transactions on Wireless Communications!
 * 2026.06.02 ----- 🌹 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) from Shandong University, Qingdao, China, is accepted by IEEE Transactions on Vehicular Technology!
