@@ -115,7 +115,7 @@ author_profile: true
 
   <!-- Zihao Teng -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/zihao_teng.jpg" alt="Zihao Teng" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Zihao Teng" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Zihao Teng</div>
     <div class="team-period">2021.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. / Master Student</span>
