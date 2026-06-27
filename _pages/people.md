@@ -118,7 +118,7 @@ author_profile: true
     <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Zihao Teng" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Zihao Teng</div>
     <div class="team-period">2021.09 -- Present</div>
-    <span class="status-tag status-current">Ph.D. / Master Student</span>
+    <span class="status-tag status-current">Ph.D. Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?user=9hWGhi0AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
       <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
