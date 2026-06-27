@@ -121,14 +121,14 @@ author_profile: true
     <span class="status-tag status-current">Ph.D. Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?user=9hWGhi0AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
-      <a href="https://ieeexplore.ieee.org/author/YOUR_IEEE_ID" target="_blank" title="IEEE Xplore"><i class="fas fa-fw fa-book"></i></a>
+      <a href="https://www.linkedin.com/in/zihao-teng-b43355317/" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
+      <a href="https://ieeexplore.ieee.org/author/37089899520" target="_blank" title="IEEE Xplore"><i class="fas fa-fw fa-book"></i></a>
     </div>
     <div class="team-info">
       <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
-      <div class="info-content">Wireless Communications, Signal Processing, SIM technology.</div>
+      <div class="info-content">Flexible Intelligent Metasurface (FIM), Integrated Sensing and Communication.</div>
       <div class="info-title"><i class="fas fa-trophy"></i> Honors:</div>
-      <div class="info-content">National Scholarship (2023).</div>
+      <div class="info-content">National Scholarship (2025).</div>
     </div>
   </div>
 
