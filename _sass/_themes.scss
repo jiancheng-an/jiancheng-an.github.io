@@ -102,4 +102,25 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
+
+/* ==========================================================================
+   CUSTOM ACADEMIC LINK STYLES (自定义学术主页超链接样式)
+   ========================================================================== */
+
+/* 强制清除正文、列表、侧边栏中的链接下划线，并统一改为谷歌学术蓝 */
+.page__content a, 
+.archive a, 
+.sidebar a {
+  color: #1a73e8 !important;       /* 经典学术蓝，可替换如 #003366(深海蓝) 或 #a31d1d(学术红) */
+  text-decoration: none !important; /* 移除默认下划线 */
+  border-bottom: none !important;   /* 彻底移除某些 Jekyll 模板用 bottom-border 模拟的下划线 */
+}
+
+/* 鼠标悬停（Hover）时加深蓝色，保持无下划线的清爽视觉 */
+.page__content a:hover, 
+.archive a:hover, 
+.sidebar a:hover {
+  color: #0d47a1 !important;       /* 悬停变深，提供微弱视觉反馈 */
+  text-decoration: none !important; 
+  border-bottom: none !important;
+}
