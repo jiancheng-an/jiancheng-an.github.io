@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /service/
+permalink: /research-interests/
 author_profile: true
 
 ---
