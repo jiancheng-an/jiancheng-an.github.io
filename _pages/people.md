@@ -185,10 +185,10 @@ author_profile: true
   
   <!-- Haoxian Niu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/HaoxianNiu.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Haoxian Niu</div>
     <div class="team-period">2024.09 -- Present</div>
-    <span class="status-tag status-current">Ph.D. / Master Student</span>
+    <span class="status-tag status-current">Master Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
     </div>
@@ -200,10 +200,10 @@ author_profile: true
 
   <!-- Jinbao Li -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
-    <div class="team-name">Haoxian Niu</div>
+    <img class="team-avatar" src="{{ base_path }}/images/people/JinbaoLi.jpg" alt="Jinbao Li" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Jinbao Li</div>
     <div class="team-period">2024.09 -- Present</div>
-    <span class="status-tag status-current">Ph.D. / Master Student</span>
+    <span class="status-tag status-current">Master Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
     </div>
@@ -215,7 +215,7 @@ author_profile: true
 
   <!-- Xiangyu Ding -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/Xiangyu Ding.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/XiangyuDing.jpg" alt="Xiangyu Ding" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Xiangyu Ding</div>
     <div class="team-period">2024.09 -- Present</div>
     <span class="status-tag status-current">Master Student</span>
@@ -230,8 +230,8 @@ author_profile: true
   </div>
   <!-- Haoyu Wang -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/HaoyuWang.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
-    <div class="team-name">HaoyuWang</div>
+    <img class="team-avatar" src="{{ base_path }}/images/people/HaoyuWang.jpg" alt="Haoyu Wang" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Haoyu Wang</div>
     <div class="team-period">2025.09 -- Present</div>
     <span class="status-tag status-current">Master Student</span>
     <div class="team-links">
@@ -245,7 +245,7 @@ author_profile: true
   
   <!-- Minyi Sun -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/MinyiSun.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/MinyiSun.jpg" alt="Minyi Sun" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Minyi Sun</div>
     <div class="team-period">2025.09 -- Present</div>
     <span class="status-tag status-current">Master Student</span>
@@ -260,7 +260,7 @@ author_profile: true
 
   <!-- Zidong Ma -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZidongMa.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZidongMa.jpg" alt="Zidong Ma" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Zidong Ma</div>
     <div class="team-period">2025.09 -- Present</div>
     <span class="status-tag status-current">Master Student</span>
@@ -275,12 +275,14 @@ author_profile: true
 
   <!-- Yujia Li -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/YujiaLi.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/YujiaLi.jpg" alt="Yujia Li" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Yujia Li</div>
     <div class="team-period">2026.09 -- Present</div>
     <span class="status-tag status-current">Master Student</span>
     <div class="team-links">
       <a href="#" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      <a href="#" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
+      <a href="#" target="_blank" title="IEEE Xplore"><i class="fas fa-fw fa-book"></i></a>
     </div>
     <div class="team-info">
       <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
