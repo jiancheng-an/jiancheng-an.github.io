@@ -291,7 +291,37 @@ author_profile: true
 
 <h2 class="section-title">Alumni</h2>
 <div class="team-grid">
+  
+  <!-- Aole Ming -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/AoleMing.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Shining Lin</div>
+    <div class="team-period">2023.09 -- 2026.06</div>
+    <span class="status-tag status-graduated">Graduated</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=_9PqpBEAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-briefcase"></i> Destination:</div>
+      <div class="info-content">Huawei Technologies Co., Ltd.</div>
+    </div>
+  </div>
 
+  <!-- Jinyue Jiang -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/JinyueJiang.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">JinyueJiang</div>
+    <div class="team-period">2023.09 -- 2026.06</div>
+    <span class="status-tag status-graduated">Graduated</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=_9PqpBEAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-briefcase"></i> Destination:</div>
+      <div class="info-content">Huawei Technologies Co., Ltd.</div>
+    </div>
+  </div>
+  
   <!-- Shining Lin -->
   <div class="team-card">
     <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
