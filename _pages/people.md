@@ -171,7 +171,7 @@ author_profile: true
   <div class="team-card">
     <img class="team-avatar" src="{{ base_path }}/images/people/HanwenHu.jpg" alt="Hanwen Hu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Hanwen Hu</div>
-    <div class="team-period">2021.09 -- Present</div>
+    <div class="team-period">2023.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?hl=en&user=HZb8p0gAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
@@ -198,6 +198,95 @@ author_profile: true
     </div>
   </div>
 
+  <!-- Jinbao Li -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Haoxian Niu</div>
+    <div class="team-period">2024.09 -- Present</div>
+    <span class="status-tag status-current">Ph.D. / Master Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Electromagnetic Neural Network (EMNN).</div>
+    </div>
+  </div>
+
+  <!-- Xiangyu Ding -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/Xiangyu Ding.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Xiangyu Ding</div>
+    <div class="team-period">2024.09 -- Present</div>
+    <span class="status-tag status-current">Master Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Electromagnetic Neural Network (EMNN).</div>
+    </div>
+    
+  </div>
+  <!-- Haoyu Wang -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/HaoyuWang.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">HaoyuWang</div>
+    <div class="team-period">2025.09 -- Present</div>
+    <span class="status-tag status-current">Master Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Flexible Intelligent Metasurface (FIM).</div>
+    </div>
+  </div>
+  
+  <!-- Minyi Sun -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/MinyiSun.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Minyi Sun</div>
+    <div class="team-period">2025.09 -- Present</div>
+    <span class="status-tag status-current">Master Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Electromagnetic-Domain Signal Processing.</div>
+    </div>
+  </div>
+
+  <!-- Zidong Ma -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZidongMa.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Zidong Ma</div>
+    <div class="team-period">2025.09 -- Present</div>
+    <span class="status-tag status-current">Master Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?user=LbGlo44AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Electromagnetic-Domain Signal Processing.</div>
+    </div>
+  </div>
+
+  <!-- Yujia Li -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/YujiaLi.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Yujia Li</div>
+    <div class="team-period">2026.09 -- Present</div>
+    <span class="status-tag status-current">Master Student</span>
+    <div class="team-links">
+      <a href="#" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Electromagnetic-Domain Signal Processing.</div>
+    </div>
+  </div>
 </div>
 
 <h2 class="section-title">Alumni</h2>
