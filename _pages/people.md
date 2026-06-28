@@ -134,18 +134,18 @@ author_profile: true
 
   <!-- Hao Liu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Hao Liu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/HaoLiu.jpg" alt="Hao Liu" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Hao Liu</div>
     <div class="team-period">2021.09 -- Present</div>
-    <span class="status-tag status-current">Ph.D. / Master Student</span>
+    <span class="status-tag status-current">Ph.D. Student</span>
     <div class="team-links">
       <a href="https://scholar.google.com/citations?hl=en&user=AsNd2-EAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      <a href="#" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
-      <a href="#" target="_blank" title="IEEE Xplore"><i class="fas fa-fw fa-book"></i></a>
+      <a href="https://www.linkedin.com/in/hao-liu-19b380317/" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
+      <a href="https://ieeexplore.ieee.org/author/37089903215" target="_blank" title="IEEE Xplore"><i class="fas fa-fw fa-book"></i></a>
     </div>
     <div class="team-info">
       <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
-      <div class="info-content">MIMO Systems, Optimization Theory.</div>
+      <div class="info-content">Electromagnetic Neural Network (EMNN).</div>
       <div class="info-title"><i class="fas fa-trophy"></i> Honors:</div>
       <div class="info-content">Outstanding Graduate (2021).</div>
     </div>
@@ -153,7 +153,7 @@ author_profile: true
 
   <!-- Xing Jia -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Xing Jia" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/XingJia.jpg" alt="Xing Jia" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Xing Jia</div>
     <div class="team-period">2021.09 -- Present</div>
     <span class="status-tag status-current">Ph.D. / Master Student</span>
@@ -163,10 +163,26 @@ author_profile: true
     </div>
     <div class="team-info">
       <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
-      <div class="info-content">Deep Learning for Communications.</div>
+      <div class="info-content">Stacked Intelligent Metasurface (SIM).</div>
     </div>
   </div>
 
+  <!-- Hanwen Hu -->
+  <div class="team-card">
+    <img class="team-avatar" src="{{ base_path }}/images/people/HanwenHu.jpg" alt="Hanwen Hu" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Hanwen Hu</div>
+    <div class="team-period">2021.09 -- Present</div>
+    <span class="status-tag status-current">Ph.D. Student</span>
+    <div class="team-links">
+      <a href="https://scholar.google.com/citations?hl=en&user=HZb8p0gAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      <a href="#" target="_blank" title="LinkedIn"><i class="fab fa-fw fa-linkedin"></i></a>
+    </div>
+    <div class="team-info">
+      <div class="info-title"><i class="fas fa-search"></i> Research Interests:</div>
+      <div class="info-content">Flexible Intelligent Metasurface (FIM).</div>
+    </div>
+  </div>
+  
   <!-- Haoxian Niu -->
   <div class="team-card">
     <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Haoxian Niu" onerror="this.src='{{ base_path }}/images/people/default.png'">
