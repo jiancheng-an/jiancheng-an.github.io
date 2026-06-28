@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Professor"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Jiancheng An"
 description              : "Professor at UESTC, working on Stacked Intelligent Metasurfaces, Flexible Intelligent Metasurface, and Electromagnetic Neural Network."
