@@ -294,8 +294,8 @@ author_profile: true
   
   <!-- Aole Ming -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/AoleMing.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
-    <div class="team-name">Shining Lin</div>
+    <img class="team-avatar" src="{{ base_path }}/images/people/AoleMing.jpg" alt="Aole Ming" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Aole Ming</div>
     <div class="team-period">2023.09 -- 2026.06</div>
     <span class="status-tag status-graduated">Graduated</span>
     <div class="team-links">
@@ -309,8 +309,8 @@ author_profile: true
 
   <!-- Jinyue Jiang -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/JinyueJiang.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
-    <div class="team-name">JinyueJiang</div>
+    <img class="team-avatar" src="{{ base_path }}/images/people/JinyueJiang.jpg" alt="Jinyue Jiang" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <div class="team-name">Jinyue Jiang</div>
     <div class="team-period">2023.09 -- 2026.06</div>
     <span class="status-tag status-graduated">Graduated</span>
     <div class="team-links">
