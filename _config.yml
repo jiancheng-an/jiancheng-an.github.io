@@ -9,31 +9,29 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Jiancheng An | UESTC"  # 优化：增强浏览器标签页的辨识度与SEO
+title_separator          : "|"
 name                     : "Jiancheng An"
-description              : "Professor at UESTC, working on Stacked Intelligent Metasurfaces, Flexible Intelligent Metasurface, and Electromagnetic Neural Network."
-url                      : https://jiancheng-an.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : "Dr. Jiancheng An is a Professor at UESTC, specializing in Stacked Intelligent Metasurfaces (SIM), Flexible Intelligent Metasurfaces (FIM), and Electromagnetic Neural Networks (EMNN)." # 优化：规范学术头衔与关键词，利于Google收录
+url                      : "https://jiancheng-an.github.io" 
+baseurl                  : "" 
 repository               : "jiancheng-an/jiancheng-an.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "JianchengAn.jpg"
   name             : "Jiancheng An"
-  pronouns         : # "he/his"  
-  bio              : "Professor, School of Electronic Science and Engineering"
+  pronouns         : "he/him"  # 补充：规范海外学术界常用的代词
+  bio              : "Professor, School of Electronic Science and Engineering, UESTC" # 优化：加入学校简称，提升辨识度
   location         : "Chengdu, China"
-  employer         : "UESTC"
+  employer         : "University of Electronic Science and Technology of China (UESTC)" # 优化：使用学校全称
   uri              : "https://jiancheng-an.github.io/"
   email            : "jiancheng.an@uestc.edu.cn" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=-iLYPnkAAAAJ&hl=en&authuser=2"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2512-9989"
@@ -43,12 +41,12 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
   github           : "jiancheng-an"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number 
 
   # Social media
   bluesky          : # URL
@@ -68,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -78,7 +76,7 @@ author:
   bilibili         : # Username
   weixin           : # Username
   
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category
 publication_category:
   books:
     title: 'Books'
@@ -89,24 +87,24 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # 建议：开启面包屑导航，方便访问者在你复杂的学术论文/教学页面间切换
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" 
 talkmap_link             : true
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # 优化：显式关闭评论，避免生成多余的空白DOM，需要时可改为 "disqus"
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : 
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 
+    colorscheme          : 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" 
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -119,38 +117,39 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" 
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide                   : true     
+  path                   : 
 
 
-# SEO Related
+# SEO Related (建议：去对应的站长平台获取验证码填入，有利于Google等检索你的论文主页)
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
+# Social Sharing (优化：绑定学术推特/X，方便别人一键分享你的论文)
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 : "JianchengAn.jpg" # 优化：设置默认分享卡片图，当别人在Twitter/LinkedIn分享你主页时，会弹出你的头像
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person" # 优化：显式声明为个人，对Google的结构化数据（Schema）更友好
+  name                   : "Jiancheng An"
+  links: 
+    - https://scholar.google.com/citations?user=-iLYPnkAAAAJ&hl=en&authuser=2
+    - https://orcid.org/0000-0003-2512-9989
+    - https://www.linkedin.com/in/jiancheng-an-955564246
 
 
-# Analytics
+# Analytics (建议：若有流量分析需求，可开通 Google Analytics 4 并在此填入)
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "false" 
   google:
     tracking_id          :
 
@@ -214,7 +213,7 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Collections Settings
 collections:
   teaching:
     output: true
@@ -230,9 +229,8 @@ collections:
     permalink: /:collection/:path/
 
 
-# These settings control how pages and collections are included in the site
+# Defaults Defaults for Layouts
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -243,14 +241,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -259,7 +255,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
   - scope:
       path: ""
       type: publications
@@ -268,7 +263,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -277,7 +271,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
   - scope:
       path: ""
       type: talks
@@ -290,14 +283,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed 
 
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC 
 
 
 # Plugins
@@ -309,7 +300,6 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -320,36 +310,15 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
