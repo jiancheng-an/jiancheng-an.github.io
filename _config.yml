@@ -22,7 +22,7 @@ repository               : "jiancheng-an/jiancheng-an.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "JianchengAn.jpg"
   name             : "Jiancheng An"
   pronouns         : # "he/his"  
   bio              : "Professor, School of Electronic Science and Engineering"
