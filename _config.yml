@@ -25,7 +25,7 @@ author:
   pronouns         : "he/him"  # 补充：规范海外学术界常用的代词
   bio              : "Professor, School of Electronic Science and Engineering, UESTC" # 优化：加入学校简称，提升辨识度
   location         : "Chengdu, China"
-  employer         : "University of Electronic Science and Technology of China (UESTC)" # 优化：使用学校全称
+  employer         : "UESTC" # 优化：使用学校全称
   uri              : "https://jiancheng-an.github.io/"
   email            : "jiancheng.an@uestc.edu.cn" 
 
