@@ -75,52 +75,63 @@ $susy: (
 );
 
 /* ==========================================================================
-   BRAND COLORS
+   BRAND COLORS (统一优化：从源头重置品牌色，防止图标杂乱)
    ========================================================================== */
 
-$behance-color              : #1769FF;
-$bluesky-color              : #1184fe;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$kaggle-color               : #20c0ff;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$mastodon-color             : #6364ff;
-$orcid-color                : #a6ce39;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
+/* 核心学术色调定义 */
+$academic-blue-normal       : #1a73e8; /* 经典谷歌学术蓝 */
+$academic-blue-hover        : #0d47a1; /* 鼠标悬停深蓝色 */
+
+/* 将所有第三方平台的品牌色统一重置为学术蓝 */
+$behance-color              : $academic-blue-normal;
+$bluesky-color              : $academic-blue-normal;
+$dribbble-color             : $academic-blue-normal;
+$facebook-color             : $academic-blue-normal;
+$flickr-color               : $academic-blue-normal;
+$foursquare-color           : $academic-blue-normal;
+$github-color               : $academic-blue-normal;
+$google-plus-color          : $academic-blue-normal;
+$instagram-color            : $academic-blue-normal;
+$kaggle-color               : $academic-blue-normal;
+$lastfm-color               : $academic-blue-normal;
+$linkedin-color             : $academic-blue-normal;
+$mastodon-color             : $academic-blue-normal;
+$orcid-color                : $academic-blue-normal;
+$pinterest-color            : $academic-blue-normal;
+$rss-color                  : $academic-blue-normal;
+$soundcloud-color           : $academic-blue-normal;
+$stackoverflow-color        : $academic-blue-normal;
+$tumblr-color               : $academic-blue-normal;
+$twitter-color              : $academic-blue-normal;
+$vimeo-color                : $academic-blue-normal;
+$vine-color                 : $academic-blue-normal;
+$youtube-color              : $academic-blue-normal;
+$xing-color                 : $academic-blue-normal;
 
 /* ==========================================================================
-   CUSTOM ACADEMIC LINK STYLES (自定义学术主页超链接样式)
+   CUSTOM ACADEMIC LINK STYLES (自定义学术主页全局超链接优雅重置)
    ========================================================================== */
 
-/* 强制清除正文、列表、侧边栏中的链接下划线，并统一改为谷歌学术蓝 */
+/* 1. 统一正文、列表、侧边栏文字和图标的颜色与下划线 */
 .page__content a, 
 .archive a, 
-.sidebar a {
-  color: #1a73e8 !important;       /* 经典学术蓝，可替换如 #003366(深海蓝) 或 #a31d1d(学术红) */
-  text-decoration: none !important; /* 移除默认下划线 */
-  border-bottom: none !important;   /* 彻底移除某些 Jekyll 模板用 bottom-border 模拟的下划线 */
+.sidebar a,
+.sidebar a i,                    /* 针对 FontAwesome 图标进行强制覆盖 */
+.author__urls-wrapper button i { /* 针对移动端折叠按钮下的图标 */
+  color: $academic-blue-normal !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;    /* 彻底移除某些 Jekyll 骨架里的底部阴影线 */
+  transition: color 0.2s ease-in-out; /* 让颜色过渡更丝滑 */
 }
 
-/* 鼠标悬停（Hover）时加深蓝色，保持无下划线的清爽视觉 */
+/* 2. 统一鼠标悬停（Hover）状态的反色效果 */
 .page__content a:hover, 
 .archive a:hover, 
-.sidebar a:hover {
-  color: #0d47a1 !important;       /* 悬停变深，提供微弱视觉反馈 */
-  text-decoration: none !important; 
+.sidebar a:hover,
+.sidebar a:hover i {
+  color: $academic-blue-hover !important;
+  text-decoration: none !important;
   border-bottom: none !important;
+  box-shadow: none !important;
 }
