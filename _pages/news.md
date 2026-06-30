@@ -8,13 +8,14 @@ author_profile: true
 
 ## 📅 2026
 
+* **2026.06.30** ----- 🎤 **[Two Papers Accepted]** Two conference papers, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE ICCC 2026**!
 * **2026.06.26** ----- 📰 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) (Shandong University), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.06.11** ----- 📰 Our Guest Editorial for the SIM special issue in **IEEE Wireless Communications Magazine** has been released!
 * **2026.06.09** ----- 📰 A journal paper, co-authored with Dr. [**Xianghao Yao**](https://ieeexplore.ieee.org/author/114042156949756) (UESTC), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.06.02** ----- 📰 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) (Shandong University), is accepted by **IEEE Transactions on Vehicular Technology**!
 * **2026.05.31** ----- 📰 A journal paper, co-authored with Dr. [**Enyu Shi**](https://ieeexplore.ieee.org/author/37089342710) (BJTU), is accepted by **IEEE Transactions on Vehicular Technology**!
 * **2026.05.30** ----- 📰 A journal paper, co-authored with Dr. [**Hanwen Hu**](https://ieeexplore.ieee.org/author/254739408711020) (UESTC), is accepted by **IEEE Transactions on Wireless Communications**!
-* **2026.05.15** ----- 🎤 **[Five Papers Accepted]** Five conference papers, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129), Dr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215), Dr. **Xiangyu Ding**, Dr. **Yujia Li**, and Dr. **Minyi Sun** (UESTC), are accepted by [**IEEE APCAP 2026**](https://apcap2026.org/index.html)!
+* **2026.05.15** ----- 🎤 **[Five Papers Accepted]** Five conference papers, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129), Dr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215), Dr. **Xiangyu Ding**, Dr. **Yujia Li**, and Dr. **Minyi Sun** (UESTC), are accepted by **IEEE APCAP 2026**!
 * **2026.05.12** ----- 📰 A journal paper, co-authored with Dr. [**Junjie Fang**](https://ieeexplore.ieee.org/author/37090044411) (Xi'an Jiaotong University), is accepted by **IEEE Transactions on Communications**!
 * **2026.05.11** ----- 📰 A journal paper, co-authored with Dr. **Xiangyu Ding** (UESTC), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.05.01** ----- 🏆 I join **UESTC** as a Full Professor.
