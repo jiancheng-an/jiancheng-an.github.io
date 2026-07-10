@@ -11,6 +11,7 @@ author_profile: true
 * **Editor**, *[IEEE Transactions on Communications](https://mc.manuscriptcentral.com/tcom)* (IF: 8.3), Oct. 2025 - Present
 * **Editor**, *[IEEE Open Journal of the Communications Society](https://mc.manuscriptcentral.com/oj-coms)* (IF: 6.1), Sep. 2025 - Present
 * **Editor**, *[IEEE Wireless Communications Letters](https://mc.manuscriptcentral.com/wcl)* (IF: 5.5), Sep. 2025 - Present
+* **Editor**, *[IEEE Open Journal of Vehicular Technology](https://mc.manuscriptcentral.com/ojvt)* (IF: 4.8), Sep. 2026 - Present
 * **Editor**, *International Journal of Antennas and Propagation* (IF: 1.1), Dec. 2025 - Present
 * **Editor**, *Advanced Information and Communication*, Dec. 2025 - Present
 * **Editor**, *Frontiers in Communications and Networks*, Dec. 2025 - Present
