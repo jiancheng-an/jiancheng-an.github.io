@@ -8,6 +8,8 @@ author_profile: true
 
 ## 📅 2026
 
+* **2026.07.16** ----- 📰 A journal paper, co-authored with Dr. [**Zheao Li**](https://ieeexplore.ieee.org/author/37089506459) (NTU, Singapore), is accepted by **IEEE Transactions on Wireless Communications**!
+* **2026.07.08** ----- 📰 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) (Hangzhou Normal University), is accepted by **ENGINEERING Information Technology & Electronic Engineering**!
 * **2026.06.30** ----- 🎤 **[Two Papers Accepted]** Two conference papers, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE ICCC 2026**!
 * **2026.06.26** ----- 📰 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) (Shandong University), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.06.11** ----- 📰 Our Guest Editorial for the SIM special issue in **IEEE Wireless Communications Magazine** has been released!
