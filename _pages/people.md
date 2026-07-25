@@ -326,7 +326,7 @@ author_profile: true
   
   <!-- Shining Lin -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ShiningLin.jpg" alt="Shining Lin" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Shining Lin</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -341,7 +341,7 @@ author_profile: true
 
   <!-- Guojun Huang -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Guojun Huang" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/GuojunHuang.jpg" alt="Guojun Huang" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Guojun Huang</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -352,7 +352,7 @@ author_profile: true
 
   <!-- Xianghao Yao -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Xianghao Yao" onerror="this.src='{{ base_path }}/images/people/default.png'">
+    <img class="team-avatar" src="{{ base_path }}/images/people/XianghaoYao.jpg" alt="Xianghao Yao" onerror="this.src='{{ base_path }}/images/people/default.png'">
     <div class="team-name">Xianghao Yao</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
@@ -363,23 +363,12 @@ author_profile: true
 
   <!-- Zhiheng Yu -->
   <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Zhiheng Yu">
+    <img class="team-avatar" src="{{ base_path }}/images/people/ZhihengYu.jpg" alt="Zhiheng Yu">
     <div class="team-name">Zhiheng Yu</div>
     <div class="team-period">2022.09 -- 2025.06</div>
     <span class="status-tag status-graduated">Graduated</span>
     <div class="team-links">
       <!-- No link provided -->
-    </div>
-  </div>
-
-  <!-- Wangyang Xu -->
-  <div class="team-card">
-    <img class="team-avatar" src="{{ base_path }}/images/people/ZihaoTeng.jpg" alt="Wangyang Xu" onerror="this.src='{{ base_path }}/images/people/default.png'">
-    <div class="team-name">Wangyang Xu</div>
-    <div class="team-period">2019.09 -- 2023.06</div>
-    <span class="status-tag status-graduated">Graduated</span>
-    <div class="team-links">
-      <a href="https://scholar.google.com/citations?user=Nug8x1UAAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
     </div>
   </div>
 
