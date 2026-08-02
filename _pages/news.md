@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
-* **2026.07.31** ----- 🎤 **[Two Papers Accepted]** Three conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE ICCC 2026**!
+* **2026.07.31** ----- 🎤 **[Two Papers Accepted]** Three conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE GLOBECOM 2026**!
 * **2026.07.26** ----- 📰 My journal paper, a survey on stacked intelligent metasurfaces (SIM), is accepted by **IEEE Communications Surveys and Tutorials**!
 * **2025.07.24** ----- 🎤 A conference paper, co-authored with Dr. **Thai-Hoc Vu** (VSB-Technical University of Ostrava, Ostrava, Czechia), is accepted by **RADIOELEKTRONIKA 2026**!
 * **2025.07.23** ----- 🎤 A conference paper, co-authored with Dr. [**Kuranage Roche Rayan Ranasinghe**](https://ieeexplore.ieee.org/author/548251089048799) (Constructor University, Germany), is accepted by **WSA 2026**!
