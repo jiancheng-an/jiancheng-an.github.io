@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
+* **2026.07.31** ----- 🎤 **[Two Papers Accepted]** Three conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE ICCC 2026**!
 * **2026.07.26** ----- 📰 My journal paper, a survey on stacked intelligent metasurfaces (SIM), is accepted by **IEEE Communications Surveys and Tutorials**!
 * **2025.07.24** ----- 🎤 A conference paper, co-authored with Dr. **Thai-Hoc Vu** (VSB-Technical University of Ostrava, Ostrava, Czechia), is accepted by **RADIOELEKTRONIKA 2026**!
 * **2025.07.23** ----- 🎤 A conference paper, co-authored with Dr. [**Kuranage Roche Rayan Ranasinghe**](https://ieeexplore.ieee.org/author/548251089048799) (Constructor University, Germany), is accepted by **WSA 2026**!
@@ -33,7 +34,7 @@ author_profile: true
 * **2026.02.10** ----- 📰 A journal paper, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129) (UESTC), is accepted by **Signal Processing**!
 * **2026.02.09** ----- 🎤 **[Three Papers Accepted]** Three conference papers, co-authored with Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) (Texas A&M University – Corpus Christi), are accepted by **IEEE ICMLCN 2026**!
 * **2026.01.22** ----- 📰 A journal paper, co-authored with Dr. [**Hongyang Pan**](https://ieeexplore.ieee.org/author/37089192759) (Dalian Maritime University), is accepted by **IEEE Transactions on Wireless Communications**!
-* **2026.01.19** ----- 🎤 Two conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) and Dr. **Jinyue Jiang** (UESTC), are accepted by **IEEE ICC 2026**!
+* **2026.01.19** ----- 🎤 Two conference papers, co-authored with Dr. [****](https://ieeexplore.ieee.org/author/37089899520) and Dr. **Jinyue Jiang** (UESTC), are accepted by **IEEE ICC 2026**!
 * **2026.01.14** ----- 🎤 A conference paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) (Hangzhou Normal University), is accepted by **IEEE WCNC 2026**!
 * **2026.01.14** ----- 📰 A journal paper, co-authored with Dr. [**Hetong Wang**](https://ieeexplore.ieee.org/author/37085828544) (BUPT), is accepted by **IEEE Transactions on Wireless Communications**!
 
