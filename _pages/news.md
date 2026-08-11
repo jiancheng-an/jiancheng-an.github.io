@@ -7,11 +7,12 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
+* **2026.08.11** ----- 📰 A journal paper, co-authored with Prof. [**Liang Yang**](https://ieeexplore.ieee.org/author/37279443700) (UESTC), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.07.31** ----- 🎤 **[Four Papers Accepted]** Four conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC), Dr. [**Hanwen Hu**](https://ieeexplore.ieee.org/author/254739408711020) (UESTC), Dr. [**Zheao Li**](https://ieeexplore.ieee.org/author/37089506459) (NTU, Singapore), and Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) (Sharif University of Technology, Iran), are accepted by **IEEE GLOBECOM 2026**!
 * **2026.07.26** ----- 📰 My journal paper, a survey on stacked intelligent metasurfaces (SIM), is accepted by **IEEE Communications Surveys and Tutorials**!
 * **2025.07.24** ----- 🎤 A conference paper, co-authored with Dr. **Thai-Hoc Vu** (VSB-Technical University of Ostrava, Ostrava, Czechia), is accepted by **RADIOELEKTRONIKA 2026**!
 * **2025.07.23** ----- 🎤 A conference paper, co-authored with Dr. [**Kuranage Roche Rayan Ranasinghe**](https://ieeexplore.ieee.org/author/548251089048799) (Constructor University, Germany), is accepted by **WSA 2026**!
-* **2026.07.17** ----- 📰 A journal paper, co-authored with Dr. Mr. [**Shining Lin**](https://ieeexplore.ieee.org/author/37088865968) (UESTC), is accepted by **IEEE Transactions on Wireless Communications**!
+* **2026.07.17** ----- 📰 A journal paper, co-authored with Dr. [**Shining Lin**](https://ieeexplore.ieee.org/author/37088865968) (UESTC), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.07.12** ----- 📰 A journal paper, co-authored with Dr. [**Zheao Li**](https://ieeexplore.ieee.org/author/37089506459) (NTU, Singapore), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.07.08** ----- 📰 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) (Hangzhou Normal University), is accepted by **ENGINEERING Information Technology & Electronic Engineering**!
 * **2026.06.30** ----- 🎤 **[Two Papers Accepted]** Two conference papers, co-authored with Dr. [**Xing Jia**](https://ieeexplore.ieee.org/author/37089904129), and Dr. [**Aole Ming**](https://ieeexplore.ieee.org/author/373162997866561), are accepted by **IEEE ICCC 2026**!
