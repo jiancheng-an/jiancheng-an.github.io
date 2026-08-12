@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
+* **2026.08.11** ----- 📰 A journal paper, co-authored with Prof. [**Zhiheng Yu**](https://ieeexplore.ieee.org/author/37086357969) (UESTC, Chengdu, China), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.08.11** ----- 📰 A journal paper, co-authored with Prof. [**Liang Yang**](https://ieeexplore.ieee.org/author/37279443700) (Hunan University, Changsha, China), is accepted by **IEEE Transactions on Communications**!
 * **2026.07.31** ----- 🎤 **[Four Papers Accepted]** Four conference papers, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC), Dr. [**Hanwen Hu**](https://ieeexplore.ieee.org/author/254739408711020) (UESTC), Dr. [**Zheao Li**](https://ieeexplore.ieee.org/author/37089506459) (NTU, Singapore), and Dr. [**Hosein Zarini**](https://ieeexplore.ieee.org/author/37088665581) (Sharif University of Technology, Iran), are accepted by **IEEE GLOBECOM 2026**!
 * **2026.07.26** ----- 📰 My journal paper, a survey on stacked intelligent metasurfaces (SIM), is accepted by **IEEE Communications Surveys and Tutorials**!
