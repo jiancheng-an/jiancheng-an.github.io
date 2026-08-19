@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
+* **2026.08.19** ----- 📰 A journal paper, co-authored with Dr. [**Shabih ul Hassan**](https://ieeexplore.ieee.org/author/37088131215) (South China University of Technology, Guangzhou, China), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.08.14** ----- 📰 A journal paper, co-authored with Dr. [**Hongyang Pan**](https://ieeexplore.ieee.org/author/37089192759) (Dalian Maritime University), is accepted by **IEEE Transactions on Vehicular Technology**!
 * **2026.08.11** ----- 📰 A journal paper, co-authored with Prof. [**Zhiheng Yu**](https://ieeexplore.ieee.org/author/37086357969) (UESTC, Chengdu, China), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.08.11** ----- 📰 A journal paper, co-authored with Prof. [**Liang Yang**](https://ieeexplore.ieee.org/author/37279443700) (Hunan University, Changsha, China), is accepted by **IEEE Transactions on Communications**!
