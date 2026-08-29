@@ -43,6 +43,8 @@ author_profile: true
 
 ## * Technical Program Committee (TPC) Member
 
+* IEEE ICC 2027 - SACisac (ICC 2027 - IEEE International Conference on Communications: SAC - Integrated Sensing and Communications)
+** Junil Choi, KAIST, South Korea & Shuowen Zhang, The Hong Kong Polytechnic University, China
 * IEEE Global Communications Conference (GLOBECOM) — SAC - AC (Aerial Communications), 2026
 * IEEE Global Communications Conference (GLOBECOM), 2026
 * IEEE International Conference on Communications (ICC), 2024 / 2025 / 2026
