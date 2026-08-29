@@ -45,6 +45,8 @@ author_profile: true
 
 * IEEE ICC 2027 - SACisac (ICC 2027 - IEEE International Conference on Communications: SAC - Integrated Sensing and Communications)
 ** Junil Choi, KAIST, South Korea & Shuowen Zhang, The Hong Kong Polytechnic University, China
+* GC Wkshps 2026-NextGenSP-Intel3CLS (2026 IEEE Globecom Workshops (GC Wkshps): Workshop on Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS).
+** Mayur Vitthalrao Katwe, Aryan Kaushik, JenYi Pan, Himal A Suraweera, Jinhong Yuan
 * IEEE Global Communications Conference (GLOBECOM) — SAC - AC (Aerial Communications), 2026
 * IEEE Global Communications Conference (GLOBECOM), 2026
 * IEEE International Conference on Communications (ICC), 2024 / 2025 / 2026
