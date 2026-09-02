@@ -43,6 +43,8 @@ author_profile: true
 
 ## * Technical Program Committee (TPC) Member
 
+* IEEE ICC 2027 - WC (ICC 2027 - IEEE International Conference on Communications: Wireless Communications)
+** Dongfang Xu, Stefania Bartoletti, Telex M. N. Ngatched, Borja Genoves Guzman
 * IEEE ICC 2027 - SACisac (ICC 2027 - IEEE International Conference on Communications: SAC - Integrated Sensing and Communications)
 ** Junil Choi, KAIST, South Korea & Shuowen Zhang, The Hong Kong Polytechnic University, China
 * GC Wkshps 2026-WAVE6G2026 (2026 IEEE Globecom Workshops (GC Wkshps): Workshop on Wavefront Engineering and Shaping for 6G Wireless Systems (WAVE6G 2026))
