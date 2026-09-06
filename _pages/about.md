@@ -51,6 +51,7 @@ Dr. An serves as an **Editor** for *IEEE Transactions on Communications*, *IEEE 
 
 # Awards & Honors
 
+* **2026** &nbsp; Best Paper Award in the 36th International Radioelektronika Conference
 * **2025** &nbsp; One of the Top 2% of scientists worldwide (Stanford University/Elsevier)
 * **2023** &nbsp; IEEE ICC Best Paper Award
 * **ESI** &nbsp;&nbsp; 14 ESI Highly Cited Papers & 2 ESI Hot Papers
