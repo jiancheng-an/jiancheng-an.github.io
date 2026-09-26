@@ -20,10 +20,11 @@ Below are the three pillars of my current research framework:
       <h3>Overview</h3>
       <p>Stacked Intelligent Metasurfaces (SIM) represent a major evolution from conventional single-layer reconfigurable intelligent surfaces (RIS). By physically cascading multiple programmable meta-atom layers, a SIM fundamentally shifts complex signal processing from the power-hungry digital baseband to the passive electromagnetic wave domain.</p>
       <p>This multi-layer architecture acts as an advanced analog computing engine capable of performing sophisticated high-dimensional programmable matrix-vector transformations, 2D discrete Fourier transforms, and multi-user transmit beamforming. Operating entirely in the wave domain at the speed of light, SIM radically reduces hardware costs, processing delays, and power consumption for next-generation MIMO transceivers.</p>
-<td style="width:40%; border:none; text-align:center; vertical-align:middle; background-color:#fafafa; border-radius:6px; padding:10px;">
-  <img src="images/SIM_MIMO.jpg" alt="SIM Illustration" style="max-width:100%; height:auto; border-radius:6px;">
-  <p style="margin:8px 0 0 0; font-size:0.85em; color:#666;">Wave-Domain Computing & Multi-layer Beamforming</p>
-</td>
+    </td>
+    <td style="width:40%; border:none; text-align:center; vertical-align:middle; background-color:#fafafa; border-radius:6px; padding:10px;">
+      <img src="images/SIM_MIMO.jpg" alt="SIM Illustration" style="max-width:100%; height:auto; border-radius:6px;">
+      <p style="margin:8px 0 0 0; font-size:0.85em; color:#666;">Wave-Domain Computing & Multi-layer Beamforming</p>
+    </td>
   </tr>
 </table>
 
