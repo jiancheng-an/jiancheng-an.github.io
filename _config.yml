@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jiancheng An | UESTC"  # 优化：增强浏览器标签页的辨识度与SEO
 title_separator          : "|"
 name                     : "Jiancheng An"
-description              : "Dr. Jiancheng An is a Professor at UESTC, specializing in Stacked Intelligent Metasurfaces (SIM), Flexible Intelligent Metasurfaces (FIM), and Electromagnetic Neural Networks (EMNN)." # 优化：规范学术头衔与关键词，利于Google收录
+description              : "Jiancheng An is a Professor at UESTC working on Stacked Intelligent Metasurfaces (SIM), Flexible Intelligent Metasurfaces (FIM), and Electromagnetic Neural Networks (EMNN)." # 优化：规范学术头衔与关键词，利于Google收录
 url                      : "https://jiancheng-an.github.io" 
 baseurl                  : "" 
 repository               : "jiancheng-an/jiancheng-an.github.io"
