@@ -25,10 +25,10 @@
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
-        <li><a href="https://www.google.com/maps/place/Singapore/@1.3139987,103.7616777,12z/data=!3m1!4b1!4m6!3m5!1s0x31da11238a8b9375:0x887869cf52abf5c4!8m2!3d1.352083!4d103.819836!16zL20vMDZ0MnQ?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        <li><a href="https://www.google.com/maps/place/Wetland+Park/@30.7529521,103.9296794,17.75z/data=!4m6!3m5!1s0x36efdd9249b31bf7:0xf897b2aa8640887e!8m2!3d30.753319!4d103.928364!16s%2Fg%2F11cm1lk6yj?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="https://www.ntu.edu.sg/"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li><a href="https://en.uestc.edu.cn/"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
