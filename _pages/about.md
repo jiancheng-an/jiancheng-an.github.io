@@ -31,7 +31,7 @@ Dr. An serves as an **Editor** for *IEEE Transactions on Communications*, *IEEE 
 | :--- | :--- | :--- |
 | **2026.04 - Present** | **Professor** | School of Electronic Science and Engineering, UESTC | Jun Hu |
 | **2023.10 - 2026.02** | **Research Fellow** | School of Electrical and Electronic Engineering, NTU | Chau Yuen |
-| **2022.03 - 2023.10** | **Professor** | Engineering Product Development Pillar (EPD), SUTD | Chau Yuen |
+| **2022.03 - 2023.10** | **Research Fellow** | Engineering Product Development Pillar, SUTD | Chau Yuen |
 | **2019.10 - 2020.10** | **Visiting Scholar** | Next Generation Wireless Research Group, Southampton University | Lajos Hanzo |
 
 <br>
