@@ -66,10 +66,8 @@ Below are the three pillars of my current research framework:
       <p>Instead of converting signals to digital bits for neural processing, EMNN uses the propagation, refraction, and interference of EM waves to execute forward-pass layer transformations naturally. This framework is highly potent for task-oriented semantic communications (SemCom), where semantic features of complex data (e.g., images) are encoded directly into physical custom waveforms at the transmitter and decoded via spatial power distributions at the receiver with near-zero computational latency.</p>
     </td>
     <td style="width:40%; border:none; text-align:center; vertical-align:middle; background-color:#fafafa; border-radius:6px; padding:10px;">
-      <div style="border:2px dashed #ccc; padding:40px 10px; color:#666; font-style:italic;">
-        <p style="margin:0; font-weight:bold; font-style:normal;">[ EMNN Illustration ]</p>
-        <p style="margin:5px 0 0 0; font-size:0.85em;">Task-Oriented Physical Inference & SemCom</p>
-      </div>
+      <img src="/images/EMNN.jpg" alt="EMNN Illustration" style="max-width:100%; height:auto; border-radius:6px;">
+      <p style="margin:8px 0 0 0; font-size:0.85em; color:#666;">Task-Oriented Physical Inference & SemCom</p>
     </td>
   </tr>
 </table>
