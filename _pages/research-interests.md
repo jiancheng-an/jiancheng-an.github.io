@@ -44,10 +44,8 @@ Below are the three pillars of my current research framework:
       <p>FIM consists of low-cost radiating elements capable of dynamically morphing their three-dimensional physical surface shapes, adapting element positions, or altering liquid profiles in real-time. This mechanical and electromagnetic flexibility unlocks a joint optimization space comprising phase-shift control and spatial position adjustments. FIM offers massive gains in multi-target wireless sensing, spectral efficiency, and multi-user tracking by dynamically tailoring the physical boundaries of the propagation environment.</p>
     </td>
     <td style="width:40%; border:none; text-align:center; vertical-align:middle; background-color:#fafafa; border-radius:6px; padding:10px;">
-      <div style="border:2px dashed #ccc; padding:40px 10px; color:#666; font-style:italic;">
-        <p style="margin:0; font-weight:bold; font-style:normal;">[ FIM Illustration ]</p>
-        <p style="margin:5px 0 0 0; font-size:0.85em;">Spatial Degree-of-Freedom & Fluid Dynamics</p>
-      </div>
+      <img src="/images/FIM_MUMISO.jpg" alt="FIM Illustration" style="max-width:100%; height:auto; border-radius:6px;">
+      <p style="margin:8px 0 0 0; font-size:0.85em; color:#666;">Spatial Degree-of-Freedom & Fluid Dynamics</p>
     </td>
   </tr>
 </table>
