@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## 📅 2026
+* **2026.10.06** ----- 📰 A journal paper, co-authored with Dr. [**Bilian Xu**](https://ieeexplore.ieee.org/author/37088908862) (Shanghai University, Shanghai, China), is accepted by **ICT Express**!
 * **2026.09.27** ----- 📰 A journal paper, co-authored with Dr. [**Zihao Teng**](https://ieeexplore.ieee.org/author/37089899520) (UESTC, Chengdu, China), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.09.26** ----- 🎤 A conference paper, co-authored with Dr. [**Xin Li**](https://ieeexplore.ieee.org/author/37088526395) (NTU), is accepted by **NeurIPS 2026 ED Track**!
 * **2026.08.22** ----- 📰 A journal paper, co-authored with Dr. [**Haoxian Niu**](https://ieeexplore.ieee.org/author/949398039960900) (UESTC), is accepted by **IEEE Open Journal of the Communications Society**! (**Invited Paper**)
