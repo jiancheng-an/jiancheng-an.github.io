@@ -43,6 +43,8 @@ author_profile: true
 
 ## * Technical Program Committee (TPC) Member
 
+* WCNC 2027 Track 2 (2027 IEEE Wireless Communications and Networking Conference (WCNC): WCNC 2027 Track 2: Medium Access Control and Networking)
+** Ramón Agüero, Shuai Han, Ayman Radwan
 * IEEE ICC 2027 - WC (ICC 2027 - IEEE International Conference on Communications: Wireless Communications)
 ** Dongfang Xu, Stefania Bartoletti, Telex M. N. Ngatched, Borja Genoves Guzman
 * IEEE ICC 2027 - SACisac (ICC 2027 - IEEE International Conference on Communications: SAC - Integrated Sensing and Communications)
