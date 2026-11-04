@@ -10,6 +10,7 @@ author_profile: true
 * **2026.11.03** ----- 📰 A journal paper, co-authored with Dr. [**Qian Zhang**](https://ieeexplore.ieee.org/author/37089389038) (Shandong University), is accepted by **IEEE Internet of Things Journal**!
 * **2026.10.30** ----- 📰 A journal paper, co-authored with Prof. [**Qiao Qi**](https://ieeexplore.ieee.org/author/37086833474) (Hangzhou Normal University), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.10.27** ----- 📰 A journal paper, co-authored with Dr. [**Chengjun Jiang**](https://ieeexplore.ieee.org/author/37088883094) (Northwest Agriculture & Forestry University, China), is accepted by **IEEE Wireless Communications Letters**!
+* **2026.10.23** ----- 📰 A journal paper, co-authored with Dr. **Xiangyu Ding** (UESTC), is accepted by **IEEE Wireless Communications Letters**!
 * **2026.10.22** ----- 📰 A journal paper, co-authored with Dr. [**Hao Liu**](https://ieeexplore.ieee.org/author/37089903215) (UESTC, Chengdu, China), is accepted by **IEEE Transactions on Wireless Communications**!
 * **2026.10.13** ----- 📰 A journal paper, co-authored with Dr. Xuan Wang (UESTC, Chengdu, China), is accepted by **IEEE Internet of Things Journal**!
 * **2026.10.06** ----- 📰 A journal paper, co-authored with Dr. Bilian Xu (Shanghai University, Shanghai, China), is accepted by **ICT Express**!
